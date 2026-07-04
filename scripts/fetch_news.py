@@ -1176,16 +1176,19 @@ def render_html(payload: dict[str, Any]) -> str:
       <title>Modern Community Topics</title>
       <style>
         body {{ color: #1f2933; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; line-height: 1.5; margin: 32px; }}
-        h1 {{ font-size: 24px; }}
+        h1 {{ font-size: 24px; margin: 0; }}
         h2 {{ border-top: 1px solid #d9e2ec; font-size: 18px; margin-top: 28px; padding-top: 18px; }}
         a {{ color: #1d4ed8; }}
-        .app-link {{ background: #eef2f6; border: 1px solid #d7dee8; border-radius: 6px; color: #0f4c5c; display: inline-block; font-weight: 700; margin-bottom: 18px; padding: 8px 12px; text-decoration: none; }}
+        .digest-header {{ align-items: center; display: flex; flex-wrap: wrap; gap: 12px; justify-content: space-between; margin-bottom: 18px; }}
+        .app-link {{ background: #eef2f6; border: 1px solid #d7dee8; border-radius: 6px; color: #0f4c5c; display: inline-block; font-weight: 700; padding: 8px 12px; text-decoration: none; }}
         span {{ color: #66788a; font-size: 13px; }}
       </style>
     </head>
     <body>
-      <a class="app-link" href="../web/">Back to app</a>
-      <h1>Modern Community Topics - {html.escape(payload['generatedAtLocal'])}</h1>
+      <div class="digest-header">
+        <h1>Modern Community Topics - {html.escape(payload['generatedAtLocal'])}</h1>
+        <a class="app-link" href="../web/">Back to app</a>
+      </div>
       {''.join(sections)}
       <h1>Government Roundup</h1>
       {''.join(government_sections)}

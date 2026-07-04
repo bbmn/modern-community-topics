@@ -2,6 +2,9 @@ name: Refresh and publish briefing
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
   schedule:
     # GitHub cron uses UTC. These land around 8 AM and 5 PM Vancouver during daylight time.
     - cron: "0 0,15 * * *"
