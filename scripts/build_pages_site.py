@@ -35,6 +35,8 @@ def main() -> None:
     assets = ROOT / "assets"
     if assets.exists():
         copy_tree(assets, SITE / "assets")
+        shutil.copy2(assets / "apple-touch-icon.png", SITE / "apple-touch-icon.png")
+        shutil.copy2(assets / "icon-192.png", SITE / "icon-192.png")
 
     (SITE / ".nojekyll").write_text("", encoding="utf-8")
     (SITE / "index.html").write_text(
@@ -50,8 +52,8 @@ def main() -> None:
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <title>Modern Community Topics</title>
     <link rel="canonical" href="web/">
-    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
     <link rel="manifest" href="web/manifest.webmanifest">
   </head>
   <body>
