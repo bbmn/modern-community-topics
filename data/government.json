@@ -404,22 +404,7 @@
         "importanceReasons": [
           "Relevant to war & security, public safety; surfaced from World coverage."
         ],
-        "priority": 15.948,
-        "outcome": "policy_watch"
-      },
-      {
-        "id": "policy-9-7257496",
-        "title": "More than 2,000 Quebec households stranded without a lease after July 1",
-        "status": "CBC Top Stories",
-        "description": "More than 2,000 Quebec households are still without a home following the province's July 1 moving day. Housing advocates say the increase compared to last year shows that building more apartments isn't enough to solve the affordability crisis.",
-        "url": "https://www.cbc.ca/news/canada/montreal/quebec-rental-market-housing-july-1-9.7257496?cmp=rss",
-        "source": "CBC Top Stories",
-        "sectionName": "National",
-        "category": "Affordability, Housing",
-        "importanceReasons": [
-          "Relevant to affordability, housing; surfaced from National coverage."
-        ],
-        "priority": 14.723,
+        "priority": 15.922,
         "outcome": "policy_watch"
       },
       {
@@ -434,22 +419,22 @@
         "importanceReasons": [
           "Relevant to public safety; surfaced from Local coverage."
         ],
-        "priority": 14.413,
+        "priority": 14.388,
         "outcome": "policy_watch"
       },
       {
         "id": "policy-9-7258006",
         "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
-        "status": "CBC Politics",
+        "status": "CBC British Columbia",
         "description": "Energy Minister Tim Hodgson says a second pipeline to the West Coast will be money well-spent for the federal government but can't say how much Ottawa would be on the hook for.",
         "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
-        "source": "CBC Politics",
-        "sectionName": "National",
+        "source": "CBC British Columbia",
+        "sectionName": "Local",
         "category": "Climate & Infrastructure",
         "importanceReasons": [
-          "Relevant to climate & infrastructure; surfaced from National coverage."
+          "Relevant to climate & infrastructure; surfaced from Local coverage."
         ],
-        "priority": 13.916,
+        "priority": 13.841,
         "outcome": "policy_watch"
       },
       {
@@ -464,7 +449,7 @@
         "importanceReasons": [
           "Relevant to public safety, health; surfaced from National coverage."
         ],
-        "priority": 13.093,
+        "priority": 13.068,
         "outcome": "policy_watch"
       },
       {
@@ -479,7 +464,7 @@
         "importanceReasons": [
           "Relevant to war & security, public safety; surfaced from World coverage."
         ],
-        "priority": 11.594,
+        "priority": 11.569,
         "outcome": "policy_watch"
       },
       {
@@ -494,7 +479,7 @@
         "importanceReasons": [
           "Relevant to public safety; surfaced from Local coverage."
         ],
-        "priority": 10.72,
+        "priority": 10.695,
         "outcome": "policy_watch"
       },
       {
@@ -509,7 +494,22 @@
         "importanceReasons": [
           "Relevant to war & security; surfaced from World coverage."
         ],
-        "priority": 10.387,
+        "priority": 10.361,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-https-www-aljazeera-com-t-1783109402",
+        "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
+        "status": "Al Jazeera",
+        "description": "The Aspen Acres Fire, one of about 40 wildfires burning across western US, has destroyed homes and forced evacuations.",
+        "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sectionName": "World",
+        "category": "Public Safety",
+        "importanceReasons": [
+          "Relevant to public safety; surfaced from World coverage."
+        ],
+        "priority": 10.224,
         "outcome": "policy_watch"
       }
     ],

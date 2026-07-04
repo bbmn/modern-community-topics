@@ -1,4 +1,4 @@
-# Modern Community Topics - 2026-07-03 22:38
+# Modern Community Topics - 2026-07-03 23:06
 
 ## Esquimalt
 
@@ -11,12 +11,12 @@
 
 - [Out-of-control wildfire near Boston Bar has evacuation notice](https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/) - CityNews Vancouver
 - [Why bridge and tunnel politics helped make the B.C.-Ottawa pipeline truce happen](https://www.cbc.ca/news/canada/british-columbia/bc-ottawa-deal-massey-pipeline-9.7256802?cmp=rss) - CBC British Columbia
+- [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - CBC British Columbia
 - [Why expansion of Delta container port is going hand-in-hand with Alberta pipeline proposal](https://www.cbc.ca/news/canada/british-columbia/southern-pipeline-route-delta-roberts-bank-terminal-2-9.7256890?cmp=rss) - CBC British Columbia
 - [New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires](https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss) - CBC British Columbia
 - [Residents approve financials for new search and rescue and fire hall facility in Kamloops](https://www.cbc.ca/news/canada/british-columbia/kamloops-fire-hall-search-and-rescue-building-9.7256848?cmp=rss) - CBC British Columbia
 - [Historic lodge in Qualicum Beach saved from demolition and restored for public use](https://www.cbc.ca/news/canada/british-columbia/st-andrews-lodge-qualicum-9.7256310?cmp=rss) - CBC British Columbia
 - [Vancouver to keep part of Granville Street car-free for 7 weeks post-FIFA after council approves $4.75M](https://www.cbc.ca/news/canada/british-columbia/vancouver-extend-granville-street-pedestrian-zone-9.7256129?cmp=rss) - CBC British Columbia
-- [What's behind all the wild weather in Canada this summer?](https://www.cbc.ca/news/canada/summer-weather-canada-storms-heat-wave-2026-9.7253782?cmp=rss) - CBC British Columbia
 
 ## Greater Victoria
 
@@ -42,14 +42,14 @@
 
 ## National
 
-- [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - CBC Politics
-- [Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu](https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss) - CBC Politics
-- [More than 2,000 Quebec households stranded without a lease after July 1](https://www.cbc.ca/news/canada/montreal/quebec-rental-market-housing-july-1-9.7257496?cmp=rss) - CBC Top Stories
 - [Will Alberta pipeline proposal move voters ahead of separation vote?](https://www.cbc.ca/news/canada/calgary/separatism-pipeline-skepticism-9.7258279?cmp=rss) - CBC Top Stories
-- [Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking](https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss) - CBC Politics
+- [Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking](https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss) - CBC Top Stories
 - [Gordie Howe bridge cost still $6.4B despite delays, federal authority says](https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-cost-delays-construction-funding-2026-9.7256222?cmp=rss) - CBC Top Stories
 - [Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage](https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss) - CBC Top Stories
 - [Ontario couple sentenced to life in prison for murdering boy 'got what they deserved,' brother tells court](https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.7258020?cmp=rss) - CBC Top Stories
+- [Gilgeous-Alexander scores 26 points as Canada routs Puerto Rico 110-84 in basketball World Cup qualifying](https://www.cbc.ca/news/canada/hamilton/gilgeous-alexander-canada-puerto-rico-fiba-world-cup-9.7258491?cmp=rss) - CBC Top Stories
+- [From Elle to Obsession: your weekend watch cheat sheet](https://www.cbc.ca/news/entertainment/what-to-watch-july-9.7258208?cmp=rss) - CBC Top Stories
+- [Pancakes, pipelines and independence: politics serving up new flavour at this year’s Calgary Stampede](https://www.cbc.ca/news/canada/calgary/stampede-jeromy-farkas-pierre-poilievre-danielle-smith-9.7258169?cmp=rss) - CBC Top Stories
 
 ## World
 
@@ -82,13 +82,13 @@
 ### Policy Watch
 
 - [Gaza patients face agonising delays for medical evacuation](https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss) - War & Security, Public Safety. Relevant to war & security, public safety; surfaced from World coverage.
-- [More than 2,000 Quebec households stranded without a lease after July 1](https://www.cbc.ca/news/canada/montreal/quebec-rental-market-housing-july-1-9.7257496?cmp=rss) - Affordability, Housing. Relevant to affordability, housing; surfaced from National coverage.
 - [Out-of-control wildfire near Boston Bar has evacuation notice](https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/) - Public Safety. Relevant to public safety; surfaced from Local coverage.
-- [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - Climate & Infrastructure. Relevant to climate & infrastructure; surfaced from National coverage.
+- [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - Climate & Infrastructure. Relevant to climate & infrastructure; surfaced from Local coverage.
 - [Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage](https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss) - Public Safety, Health. Relevant to public safety, health; surfaced from National coverage.
 - [Egypt say Dallas police officer pushed player, team director at World Cup](https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss) - War & Security, Public Safety. Relevant to war & security, public safety; surfaced from World coverage.
 - [New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires](https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss) - Public Safety. Relevant to public safety; surfaced from Local coverage.
 - [Iran war live: Millions expected in Tehran for funeral of Ali Khamenei](https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss) - War & Security. Relevant to war & security; surfaced from World coverage.
+- [Thousands forced to evacuate in Colorado as wildfire spreads](https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss) - Public Safety. Relevant to public safety; surfaced from World coverage.
 
 ### Most Relevant
 
@@ -176,3 +176,14 @@
 - [Caleb Wilson, Dailyn Swain, Keaton Wagler Sign Rookie Deals](https://www.hoopsrumors.com/2026/07/caleb-wilson-dailyn-swain-keaton-wagler-sign-rookie-deals.html) - Hoops Rumors
 - [Chris Manon Re-Signs With Lakers On Two-Way Contract](https://www.hoopsrumors.com/2026/07/chris-manon-re-signs-with-lakers-on-two-way-contract.html) - Hoops Rumors
 - [Labaron Philon Jr. Signs Rookie Scale Deal With Sixers](https://www.hoopsrumors.com/2026/07/labaron-philon-jr-signs-rookie-scale-deal-with-sixers.html) - Hoops Rumors
+
+### New Zealand Sports
+
+- [What you need to know about NRLW](https://www.rnz.co.nz/news/sport/667565/what-you-need-to-know-about-nrlw) - RNZ Sport
+- [Argentina beat Cape Verde in World Cup extra-time thriller](https://www.rnz.co.nz/news/sport/665839/argentina-beat-cape-verde-in-world-cup-extra-time-thriller) - RNZ Sport
+- [Full House: Warriors NRL season officially sold out](https://www.rnz.co.nz/news/sport/664831/full-house-warriors-nrl-season-officially-sold-out) - RNZ Sport
+- [Tall Blacks pip Philippines in double overtime thriller](https://www.rnz.co.nz/news/sport/664054/tall-blacks-pip-philippines-in-double-overtime-thriller) - RNZ Sport
+- [All Blacks captain Ardie Savea embraces role under new coach Dave Rennie](https://www.rnz.co.nz/news/sport/661841/all-blacks-captain-ardie-savea-embraces-role-under-new-coach-dave-rennie) - RNZ Sport
+- [Christchurch fans hoping maiden All Blacks test at Te Kaha is first of many](https://www.rnz.co.nz/news/sport/661246/christchurch-fans-hoping-maiden-all-blacks-test-at-te-kaha-is-first-of-many) - RNZ Sport
+- [Pro-wrestler Aaron Henare returns to the ring in Aotearoa](https://www.rnz.co.nz/news/sport/661421/pro-wrestler-aaron-henare-returns-to-the-ring-in-aotearoa) - RNZ Sport
+- [NRLW: New arrivals lighten leadership load on NZ Warriors skipper Apii Nicholls](https://www.rnz.co.nz/news/sport/661255/nrlw-new-arrivals-lighten-leadership-load-on-nz-warriors-skipper-apii-nicholls) - RNZ Sport

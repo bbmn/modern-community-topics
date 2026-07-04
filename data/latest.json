@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-04T05:38:36.456019+00:00",
-  "generatedAtLocal": "2026-07-03 22:38",
+  "generatedAt": "2026-07-04T06:06:01.530402+00:00",
+  "generatedAtLocal": "2026-07-03 23:06",
   "sections": [
     {
       "id": "esquimalt",
@@ -192,7 +192,7 @@
           "description": "An out-of-control wildfire is burning near Boston Bar, along Chaumox Road, near Brunswick Creek. The fire is currently 14 hectares in size. An evacuation alert has been issued for the Brunswick Creek area, issued by the Fraser Valley Regional District. BC Wildfire Service says that the fire is human caused.",
           "url": "https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/",
           "published": "2026-07-04T00:28:31+00:00",
-          "score": 9.413,
+          "score": 9.388,
           "keywords": [
             "alert",
             "along",
@@ -248,7 +248,7 @@
           "description": "In a week that saw a number of big trades in the National Hockey League, perhaps it makes sense to analyze Thursday's agreement between the federal government and the province of British Columbia through the lens of what each group secured.",
           "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ottawa-deal-massey-pipeline-9.7256802?cmp=rss",
           "published": "2026-07-03T00:46:03+00:00",
-          "score": 9.246,
+          "score": 9.221,
           "keywords": [
             "agreement",
             "analyze",
@@ -277,10 +277,10 @@
           ],
           "relatedSources": [
             {
-              "source": "CBC Politics",
-              "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
-              "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
-              "reason": "Shared terms: agreement, ottawa, pipeline, thursday."
+              "source": "CBC British Columbia",
+              "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
+              "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
+              "reason": "Same section; shared terms: federal, ottawa, pipeline."
             },
             {
               "source": "CBC British Columbia",
@@ -297,6 +297,52 @@
           ]
         },
         {
+          "id": "9-7258006",
+          "section": "local",
+          "sectionName": "Local",
+          "focus": "Vancouver and Lower Mainland",
+          "source": "CBC British Columbia",
+          "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
+          "bullet": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister (CBC British Columbia, Jul 3)",
+          "description": "Energy Minister Tim Hodgson says a second pipeline to the West Coast will be money well-spent for the federal government but can't say how much Ottawa would be on the hook for.",
+          "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
+          "published": "2026-07-03T22:44:05+00:00",
+          "score": 8.841,
+          "keywords": [
+            "coast",
+            "energy",
+            "federal",
+            "hodgson",
+            "investment",
+            "money",
+            "ottawa",
+            "pipeline",
+            "second",
+            "taxpayers",
+            "well-spent"
+          ],
+          "relatedSources": [
+            {
+              "source": "CBC British Columbia",
+              "title": "Why bridge and tunnel politics helped make the B.C.-Ottawa pipeline truce happen",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ottawa-deal-massey-pipeline-9.7256802?cmp=rss",
+              "reason": "Same section; shared terms: federal, ottawa, pipeline."
+            },
+            {
+              "source": "CBC British Columbia",
+              "title": "Why expansion of Delta container port is going hand-in-hand with Alberta pipeline proposal",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/southern-pipeline-route-delta-roberts-bank-terminal-2-9.7256890?cmp=rss",
+              "reason": "Same section; shared terms: coast, federal, pipeline."
+            },
+            {
+              "source": "CBC British Columbia",
+              "title": "B.C. Interior leaders warn new pipeline could strain small communities",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-interior-leaders-express-concerns-about-new-oil-pipeline-9.7258268?cmp=rss",
+              "reason": "Same section; shared terms: coast, pipeline."
+            }
+          ]
+        },
+        {
           "id": "9-7256890",
           "section": "local",
           "sectionName": "Local",
@@ -307,7 +353,7 @@
           "description": "The lack of a northern route for Alberta's proposed new pipeline to the B.C. coast may have grabbed the headlines during Thursday's announcement of an Ottawa-B.C. memorandum of understanding with more than $200 billion in investments. But analysts say the federal government's $10-billion commitment to a container port expansion in Delta, B.C., as part of the MOU means that Roberts Bank Terminal 2 (RBT2) is critical to the project, too.",
           "url": "https://www.cbc.ca/news/canada/british-columbia/southern-pipeline-route-delta-roberts-bank-terminal-2-9.7256890?cmp=rss",
           "published": "2026-07-03T11:00:00+00:00",
-          "score": 6.414,
+          "score": 6.389,
           "keywords": [
             "alberta",
             "analysts",
@@ -342,16 +388,16 @@
               "reason": "Same section; shared terms: alberta, coast, pipeline, project."
             },
             {
-              "source": "CBC Politics",
-              "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
-              "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
-              "reason": "Shared terms: alberta, announcement, coast, pipeline."
-            },
-            {
               "source": "The Tyee",
               "title": "Feds Announce Pipeline Steps, BC Advances Protected Areas",
               "url": "https://thetyee.ca/News/2026/07/03/Feds-Pipeline-Steps-BC-Protected-Areas/",
               "reason": "Shared terms: alberta, coast, northern, pipeline."
+            },
+            {
+              "source": "CBC British Columbia",
+              "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
+              "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
+              "reason": "Same section; shared terms: coast, federal, pipeline."
             }
           ]
         },
@@ -366,7 +412,7 @@
           "description": "Three provinces are lending a helping hand to Quebec's wildfire prevention and suppression agency in its efforts to combat fires.",
           "url": "https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss",
           "published": "2026-07-03T18:18:32+00:00",
-          "score": 5.72,
+          "score": 5.695,
           "keywords": [
             "agency",
             "assist",
@@ -408,7 +454,7 @@
           "description": "The Thompson-Nicola Regional District obtained approval to borrow funds for the construction of a new search and rescue hall and training facility from the region's residents, after an alternative approval process.",
           "url": "https://www.cbc.ca/news/canada/british-columbia/kamloops-fire-hall-search-and-rescue-building-9.7256848?cmp=rss",
           "published": "2026-07-03T12:00:00+00:00",
-          "score": 4.67,
+          "score": 4.645,
           "keywords": [
             "alternative",
             "approval",
@@ -456,7 +502,7 @@
           "description": "A historic lodge on the shores of mid-Vancouver Island is set to reopen on Saturday, saved from demolition by the dedication of hundreds of volunteers who donated their time to preserve the building and open it for community use.",
           "url": "https://www.cbc.ca/news/canada/british-columbia/st-andrews-lodge-qualicum-9.7256310?cmp=rss",
           "published": "2026-07-03T13:00:00+00:00",
-          "score": 4.426,
+          "score": 4.4,
           "keywords": [
             "beach",
             "building",
@@ -491,7 +537,7 @@
           "description": "Five blocks of Granville Street in downtown Vancouver will stay a hub of pedestrian activity for seven weeks after the FIFA World Cup leaves town, as city council voted to extend the car-free pilot Thursday.",
           "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-extend-granville-street-pedestrian-zone-9.7256129?cmp=rss",
           "published": "2026-07-02T22:35:00+00:00",
-          "score": 4.225,
+          "score": 4.199,
           "keywords": [
             "activity",
             "approves",
@@ -511,39 +557,6 @@
             "voted",
             "weeks",
             "world"
-          ],
-          "relatedSources": []
-        },
-        {
-          "id": "9-7253782",
-          "section": "local",
-          "sectionName": "Local",
-          "focus": "Vancouver and Lower Mainland",
-          "source": "CBC British Columbia",
-          "title": "What's behind all the wild weather in Canada this summer?",
-          "bullet": "What's behind all the wild weather in Canada this summer? (CBC British Columbia, Jul 3)",
-          "description": "Many climate monitors have been predicting an extra-strong El Ni\u00f1o this year that's expected to peak in the winter. But the summer season has already brought weather-related chaos and even devastation for many Canadians. Here's a look at what's going on.",
-          "url": "https://www.cbc.ca/news/canada/summer-weather-canada-storms-heat-wave-2026-9.7253782?cmp=rss",
-          "published": "2026-07-03T08:00:00+00:00",
-          "score": 4.148,
-          "keywords": [
-            "already",
-            "behind",
-            "brought",
-            "canadians",
-            "chaos",
-            "climate",
-            "devastation",
-            "expected",
-            "extra-strong",
-            "going",
-            "monitors",
-            "predicting",
-            "season",
-            "summer",
-            "weather",
-            "weather-related",
-            "winter"
           ],
           "relatedSources": []
         }
@@ -780,7 +793,7 @@
           "description": "Recalling how wildfire caused chaos in her city five years ago, a Kamloops councillor calls for better planning.",
           "url": "https://thetyee.ca/News/2026/07/03/Going-Happen-Again/",
           "published": "2026-07-03T07:10:00+00:00",
-          "score": 4.951,
+          "score": 4.926,
           "keywords": [
             "better",
             "calls",
@@ -834,7 +847,7 @@
           "description": "Vidura Bandara Rajapaksa\u2019s gentle absurdism sparks a festival in search of togetherness. A Tyee interview.",
           "url": "https://thetyee.ca/Culture/2026/07/03/Indian-Summer-Festival-Starts-With-Laughter/",
           "published": "2026-07-04T00:40:00+00:00",
-          "score": 3.724,
+          "score": 3.698,
           "keywords": [
             "absurdism",
             "bandara",
@@ -864,7 +877,7 @@
           "description": "The beloved annual celebration of Japanese Canadian culture returns to Oppenheimer Park to mark a milestone anniversary.",
           "url": "https://thetyee.ca/Presents/2026/07/03/Powell-Street-Festival-50th-Year/",
           "published": "2026-07-04T00:30:00+00:00",
-          "score": 3.714,
+          "score": 3.689,
           "keywords": [
             "anniversary",
             "annual",
@@ -893,7 +906,7 @@
           "description": "Plans are in place for a historic parkland near the Bow and Elbow Rivers, a significant space for Indigenous Peoples. Were they adequately involved in the process?",
           "url": "https://thetyee.ca/Culture/2026/07/03/Calgary-Confluence-Gets-Complicated/",
           "published": "2026-07-04T00:20:00+00:00",
-          "score": 3.705,
+          "score": 3.68,
           "keywords": [
             "adequately",
             "calgary",
@@ -925,7 +938,7 @@
           "description": "On a farm in the North Okanagan, Caravan Farm Theatre is a bold reminder of beauty, wonder and transformation. A Tyee Creative Forces interview.",
           "url": "https://thetyee.ca/Culture/2026/07/03/Radical-Magic-Estelle-Shook-Caravan-Farm-Theatre/",
           "published": "2026-07-04T00:10:00+00:00",
-          "score": 3.696,
+          "score": 3.671,
           "keywords": [
             "beauty",
             "caravan",
@@ -956,7 +969,7 @@
           "description": "The former BC Housing exec pledges to use her research and building bona fides to serve the whole city.",
           "url": "https://thetyee.ca/News/2026/07/02/Stephanie-Allen-Wants-Be-Vancouver-Mayor/",
           "published": "2026-07-02T07:40:00+00:00",
-          "score": 3.346,
+          "score": 3.321,
           "keywords": [
             "allen",
             "building",
@@ -984,7 +997,7 @@
           "description": "Taxpayers will be on the hook for billions to bring oil through BC\u2019s Lower Mainland.",
           "url": "https://thetyee.ca/Opinion/2026/07/03/Inside-Carney-Pipeline-Deal-Alberta-BC/",
           "published": "2026-07-03T15:15:00+00:00",
-          "score": 3.2,
+          "score": 3.175,
           "keywords": [
             "alberta",
             "billions",
@@ -1014,128 +1027,6 @@
       "focus": "Canada-wide news and federal politics",
       "items": [
         {
-          "id": "9-7258006",
-          "section": "national",
-          "sectionName": "National",
-          "focus": "Canada-wide news and federal politics",
-          "source": "CBC Politics",
-          "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
-          "bullet": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister (CBC Politics, Jul 3)",
-          "description": "Energy Minister Tim Hodgson says a second pipeline to the West Coast will be money well-spent for the federal government but can't say how much Ottawa would be on the hook for.",
-          "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
-          "published": "2026-07-03T22:44:05+00:00",
-          "score": 8.916,
-          "keywords": [
-            "coast",
-            "energy",
-            "federal",
-            "hodgson",
-            "investment",
-            "money",
-            "ottawa",
-            "pipeline",
-            "second",
-            "taxpayers",
-            "well-spent"
-          ],
-          "relatedSources": [
-            {
-              "source": "CBC Politics",
-              "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
-              "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
-              "reason": "Same section; shared terms: coast, ottawa, pipeline."
-            },
-            {
-              "source": "CBC Politics",
-              "title": "Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu",
-              "url": "https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss",
-              "reason": "Same section; shared terms: federal, ottawa."
-            },
-            {
-              "source": "CBC Politics",
-              "title": "Alberta pitches southern route for West Coast pipeline, with a price tag of $35B or more",
-              "url": "https://www.cbc.ca/news/canada/calgary/alberta-pipeline-proposal-ottawa-major-projects-9.7254251?cmp=rss",
-              "reason": "Same section; shared terms: coast, pipeline."
-            }
-          ]
-        },
-        {
-          "id": "9-7257490",
-          "section": "national",
-          "sectionName": "National",
-          "focus": "Canada-wide news and federal politics",
-          "source": "CBC Politics",
-          "title": "Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu",
-          "bullet": "Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu (CBC Politics, Jul 3)",
-          "description": "Jobs Minister Patty Hajdu says the federal government is exploring possible guardrails or alternatives to using what she says is a \"contentious\" section of the Canada Labour Code that allows Ottawa to intervene in bitter bargaining conflicts.",
-          "url": "https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss",
-          "published": "2026-07-03T18:15:48+00:00",
-          "score": 8.668,
-          "keywords": [
-            "allows",
-            "alternatives",
-            "bargaining",
-            "bitter",
-            "conflicts",
-            "contentious",
-            "exploring",
-            "federal",
-            "guardrails",
-            "hajdu",
-            "intervene",
-            "labour",
-            "ottawa",
-            "patty",
-            "possible",
-            "section",
-            "using",
-            "weigh"
-          ],
-          "relatedSources": [
-            {
-              "source": "CBC Politics",
-              "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
-              "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
-              "reason": "Same section; shared terms: federal, ottawa."
-            }
-          ]
-        },
-        {
-          "id": "9-7257496",
-          "section": "national",
-          "sectionName": "National",
-          "focus": "Canada-wide news and federal politics",
-          "source": "CBC Top Stories",
-          "title": "More than 2,000 Quebec households stranded without a lease after July 1",
-          "bullet": "More than 2,000 Quebec households stranded without a lease after July 1 (CBC Top Stories, Jul 3)",
-          "description": "More than 2,000 Quebec households are still without a home following the province's July 1 moving day. Housing advocates say the increase compared to last year shows that building more apartments isn't enough to solve the affordability crisis.",
-          "url": "https://www.cbc.ca/news/canada/montreal/quebec-rental-market-housing-july-1-9.7257496?cmp=rss",
-          "published": "2026-07-03T16:33:47+00:00",
-          "score": 6.723,
-          "keywords": [
-            "advocates",
-            "affordability",
-            "apartments",
-            "building",
-            "compared",
-            "crisis",
-            "enough",
-            "following",
-            "households",
-            "housing",
-            "increase",
-            "lease",
-            "moving",
-            "quebec",
-            "shows",
-            "solve",
-            "still",
-            "stranded",
-            "without"
-          ],
-          "relatedSources": []
-        },
-        {
           "id": "9-7258489",
           "section": "national",
           "sectionName": "National",
@@ -1146,7 +1037,7 @@
           "description": "",
           "url": "https://www.cbc.ca/news/canada/calgary/separatism-pipeline-skepticism-9.7258279?cmp=rss",
           "published": "2026-07-04T05:06:36+00:00",
-          "score": 5.82,
+          "score": 5.795,
           "keywords": [
             "ahead",
             "alberta",
@@ -1157,21 +1048,9 @@
           ],
           "relatedSources": [
             {
-              "source": "CBC Politics",
-              "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
-              "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
-              "reason": "Same section; shared terms: alberta, pipeline, proposal."
-            },
-            {
-              "source": "CBC Politics",
-              "title": "Alberta pitches southern route for West Coast pipeline, with a price tag of $35B or more",
-              "url": "https://www.cbc.ca/news/canada/calgary/alberta-pipeline-proposal-ottawa-major-projects-9.7254251?cmp=rss",
-              "reason": "Same section; shared terms: alberta, pipeline."
-            },
-            {
-              "source": "CBC Politics",
-              "title": "Alberta pitches new West Coast oil pipeline to B.C.'s South Coast",
-              "url": "https://www.cbc.ca/news/canada/livestory/energy-proposal-ab-bc-west-coast-july-2-live-updates-9.7251535?cmp=rss",
+              "source": "CBC Top Stories",
+              "title": "Pancakes, pipelines and independence: politics serving up new flavour at this year\u2019s Calgary Stampede",
+              "url": "https://www.cbc.ca/news/canada/calgary/stampede-jeromy-farkas-pierre-poilievre-danielle-smith-9.7258169?cmp=rss",
               "reason": "Same section; shared terms: alberta, pipeline."
             }
           ]
@@ -1181,13 +1060,13 @@
           "section": "national",
           "sectionName": "National",
           "focus": "Canada-wide news and federal politics",
-          "source": "CBC Politics",
+          "source": "CBC Top Stories",
           "title": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking",
-          "bullet": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking (CBC Politics, Jul 3)",
+          "bullet": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking (CBC Top Stories, Jul 3)",
           "description": "The U.S. envoy to Canada says 14 months of trade talk between Canada and the Trump administration has resolved few issues. But Pete Hoekstra insists the Americans will keep talking in the hopes of striking an agreement on the future of CUSMA, as well as settling other issues.",
           "url": "https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss",
           "published": "2026-07-03T14:42:02+00:00",
-          "score": 5.27,
+          "score": 5.095,
           "keywords": [
             "administration",
             "agreement",
@@ -1214,12 +1093,6 @@
           ],
           "relatedSources": [
             {
-              "source": "CBC Politics",
-              "title": "U.S. declines to extend CUSMA trade deal with Canada, Mexico",
-              "url": "https://www.cbc.ca/news/world/cusma-usmca-trump-extension-renewal-9.7255204?cmp=rss",
-              "reason": "Same section; shared terms: administration, agreement, cusma, negotiations."
-            },
-            {
               "source": "CBC Top Stories",
               "title": "'Our families were so scared': Indian sea captain fears for other seafarers still stuck in Persian Gulf",
               "url": "https://www.cbc.ca/news/world/seafarers-stranded-persian-gulf-9.7256255?cmp=rss",
@@ -1238,7 +1111,7 @@
           "description": "The cost of the new Gordie Howe bridge connecting Windsor and Detroit is still $6.4 billion despite multiple delays, according to the federal authority that oversees the bridge.",
           "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-cost-delays-construction-funding-2026-9.7256222?cmp=rss",
           "published": "2026-07-03T19:43:54+00:00",
-          "score": 5.099,
+          "score": 5.074,
           "keywords": [
             "according",
             "authority",
@@ -1268,7 +1141,7 @@
           "description": "A chemotherapy ingredient that's in short supply in Canada can temporarily be imported and sold from a Chinese-authorized source instead, Health Canada says.",
           "url": "https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss",
           "published": "2026-07-03T19:37:12+00:00",
-          "score": 5.093,
+          "score": 5.068,
           "keywords": [
             "chemo",
             "chemotherapy",
@@ -1301,7 +1174,7 @@
           "description": "",
           "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.7258020?cmp=rss",
           "published": "2026-07-03T13:35:54+00:00",
-          "score": 4.759,
+          "score": 4.733,
           "keywords": [
             "brother",
             "couple",
@@ -1314,6 +1187,120 @@
             "tells"
           ],
           "relatedSources": []
+        },
+        {
+          "id": "9-7258491",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Top Stories",
+          "title": "Gilgeous-Alexander scores 26 points as Canada routs Puerto Rico 110-84 in basketball World Cup qualifying",
+          "bullet": "Gilgeous-Alexander scores 26 points as Canada routs Puerto Rico 110-84 in basketball World Cup qualifying (CBC Top Stories, Jul 4)",
+          "description": "Two-time NBA MVP Shai Gilgeous-Alexander led all scorers with 26 points as Canada led from whistle-to-whistle in a 110-84 win over Puerto Rico on Friday in a FIBA Americas World Cup qualifying game.",
+          "url": "https://www.cbc.ca/news/canada/hamilton/gilgeous-alexander-canada-puerto-rico-fiba-world-cup-9.7258491?cmp=rss",
+          "published": "2026-07-04T05:39:10+00:00",
+          "score": 4.025,
+          "keywords": [
+            "americas",
+            "basketball",
+            "friday",
+            "gilgeous-alexander",
+            "points",
+            "puerto",
+            "qualifying",
+            "routs",
+            "scorers",
+            "scores",
+            "two-time",
+            "whistle-to-whistle",
+            "world"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "9-7258208",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Top Stories",
+          "title": "From Elle to Obsession: your weekend watch cheat sheet",
+          "bullet": "From Elle to Obsession: your weekend watch cheat sheet (CBC Top Stories, Jul 4)",
+          "description": "This week, those looking for a summer blockbuster may be disappointed to see plenty of screen times for Minions & Monsters and \u2026 not much else. Here's a list of recent releases which \u2014 depending on your tastes \u2014 should be worth your time.",
+          "url": "https://www.cbc.ca/news/entertainment/what-to-watch-july-9.7258208?cmp=rss",
+          "published": "2026-07-04T00:16:48+00:00",
+          "score": 3.727,
+          "keywords": [
+            "blockbuster",
+            "cheat",
+            "depending",
+            "disappointed",
+            "looking",
+            "minions",
+            "monsters",
+            "obsession",
+            "plenty",
+            "recent",
+            "releases",
+            "screen",
+            "sheet",
+            "should",
+            "summer",
+            "tastes",
+            "those",
+            "times",
+            "watch",
+            "weekend",
+            "which",
+            "worth"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "9-7258169",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Top Stories",
+          "title": "Pancakes, pipelines and independence: politics serving up new flavour at this year\u2019s Calgary Stampede",
+          "bullet": "Pancakes, pipelines and independence: politics serving up new flavour at this year\u2019s Calgary Stampede (CBC Top Stories, Jul 3)",
+          "description": "Generations of Canada\u2019s political class have summited at the \u201cGreatest Outdoor Show on Earth\u201d to shake hands and flip pancakes. This year\u2019s festival arrives with a looming referendum on Alberta\u2019s future within Canada and, as of Thursday night, a multibillion-dollar pipeline bid.",
+          "url": "https://www.cbc.ca/news/canada/calgary/stampede-jeromy-farkas-pierre-poilievre-danielle-smith-9.7258169?cmp=rss",
+          "published": "2026-07-03T23:38:57+00:00",
+          "score": 3.692,
+          "keywords": [
+            "alberta",
+            "arrives",
+            "calgary",
+            "class",
+            "earth",
+            "festival",
+            "flavour",
+            "future",
+            "generations",
+            "greatest",
+            "hands",
+            "independence",
+            "looming",
+            "multibillion-dollar",
+            "night",
+            "outdoor",
+            "pancakes",
+            "pipeline",
+            "pipelines",
+            "political",
+            "politics",
+            "referendum",
+            "serving",
+            "shake"
+          ],
+          "relatedSources": [
+            {
+              "source": "CBC Top Stories",
+              "title": "Will Alberta pipeline proposal move voters ahead of separation vote?",
+              "url": "https://www.cbc.ca/news/canada/calgary/separatism-pipeline-skepticism-9.7258279?cmp=rss",
+              "reason": "Same section; shared terms: alberta, pipeline."
+            }
+          ]
         }
       ]
     },
@@ -1333,7 +1320,7 @@
           "description": "The Aspen Acres Fire, one of about 40 wildfires burning across western US, has destroyed homes and forced evacuations.",
           "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
           "published": "2026-07-03T21:32:05+00:00",
-          "score": 7.25,
+          "score": 7.224,
           "keywords": [
             "acres",
             "across",
@@ -1371,7 +1358,7 @@
           "description": "No decision was ever made to reschedule the kickoff time of 6pm local time in Mexico City, sources tell Al Jazeera.",
           "url": "https://www.aljazeera.com/sports/2026/7/4/england-vs-mexico-world-cup-knockout-match-to-go-ahead-as-scheduled?traffic_source=rss",
           "published": "2026-07-04T00:07:04+00:00",
-          "score": 5.893,
+          "score": 5.868,
           "keywords": [
             "ahead",
             "decision",
@@ -1419,7 +1406,7 @@
           "description": "A raging wildfire near Vouzela in central Portugal spread across several municipalities, driven by winds and heat",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/massive-wildfire-spreads-in-portugal-amid-extreme-heat-and-strong-wind?traffic_source=rss",
           "published": "2026-07-03T21:01:17+00:00",
-          "score": 5.721,
+          "score": 5.696,
           "keywords": [
             "across",
             "central",
@@ -1457,7 +1444,7 @@
           "description": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
           "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
           "published": "2026-07-04T00:00:00+00:00",
-          "score": 5.387,
+          "score": 5.361,
           "keywords": [
             "according",
             "another",
@@ -1497,7 +1484,7 @@
           "description": "Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's response.",
           "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/venezuelas-rodriguez-blames-propaganda-for-quake-response-backlash-2?traffic_source=rss",
           "published": "2026-07-03T21:49:17+00:00",
-          "score": 5.266,
+          "score": 5.24,
           "keywords": [
             "acting",
             "backlash",
@@ -1538,7 +1525,7 @@
           "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
           "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-04T04:12:06+00:00",
-          "score": 5.17,
+          "score": 5.145,
           "keywords": [
             "ahead",
             "ayatollah",
@@ -1576,7 +1563,7 @@
           "description": "The government says the law will help forge a shared national identity.",
           "url": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
           "published": "2026-07-03T19:59:27+00:00",
-          "score": 5.164,
+          "score": 5.139,
           "keywords": [
             "assimilation",
             "china",
@@ -1602,7 +1589,7 @@
           "description": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
           "url": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
           "published": "2026-07-03T16:39:00+00:00",
-          "score": 5.128,
+          "score": 5.103,
           "keywords": [
             "africa",
             "anger",
@@ -1648,7 +1635,7 @@
           "description": "A judge has found a former minister failed to consider protection for important environments, like spawning grounds, when deciding the limit.",
           "url": "https://www.rnz.co.nz/news/crime-and-justice/657361/environmental-group-hails-court-decision-on-orange-roughy-catch-limit",
           "published": "2026-07-02T19:11:50+00:00",
-          "score": 7.736,
+          "score": 7.711,
           "keywords": [
             "catch-limit",
             "consider",
@@ -1691,7 +1678,7 @@
           "description": "Legislation going through Parliament will ensure international adoptions from some countries will have to go through the Family Court.",
           "url": "https://www.rnz.co.nz/news/political/665957/woman-adopted-21-children-from-overseas-but-people-trafficking-ruled-out",
           "published": "2026-07-04T01:05:30+00:00",
-          "score": 7.297,
+          "score": 7.272,
           "keywords": [
             "adopted",
             "adoptions",
@@ -1730,7 +1717,7 @@
           "description": "The new 28-bed ward was supposed to be ready this year.",
           "url": "https://www.rnz.co.nz/news/political/659839/waikato-hospital-ward-will-not-be-ready-until-2027-health-minister-says",
           "published": "2026-07-03T03:42:14+00:00",
-          "score": 6.109,
+          "score": 6.084,
           "keywords": [
             "health",
             "hospital",
@@ -1765,7 +1752,7 @@
           "description": "Fire and Emergency crews have been chasing the smell of a gas leak in several Auckland locations on Thursday morning.",
           "url": "https://www.rnz.co.nz/news/emergencies_local/653213/smell-of-gas-in-auckland-sparks-school-evacuation-fenz-call-outs",
           "published": "2026-07-02T00:02:02+00:00",
-          "score": 5.872,
+          "score": 5.85,
           "keywords": [
             "auckland",
             "call-outs",
@@ -1801,7 +1788,7 @@
           "description": "Several fire trucks can be seen on the runway with police also in attendance.",
           "url": "https://www.rnz.co.nz/news/emergency/666897/smell-of-smoke-in-air-nz-plane-cabin-triggers-emergency-reponse-at-christchurch-airport",
           "published": "2026-07-04T04:12:54+00:00",
-          "score": 5.571,
+          "score": 5.545,
           "keywords": [
             "airport",
             "attendance",
@@ -1844,7 +1831,7 @@
           "description": "The country's top secondary school kapa haka groups are preparing to take the stage for Friday's national finals in Tauranga Moana.",
           "url": "https://www.rnz.co.nz/news/te-manu-korihi/657276/rangatahi-use-kapa-haka-to-share-identity-stories-and-healing",
           "published": "2026-07-03T03:57:47+00:00",
-          "score": 5.423,
+          "score": 5.398,
           "keywords": [
             "country",
             "finals",
@@ -1889,7 +1876,7 @@
           "description": "The Waikato man says he thinks Southern Cross has denied the claim in bad faith.",
           "url": "https://www.rnz.co.nz/news/health/657278/barrister-takes-health-insurer-to-court-over-refusal-to-pay-for-adhd-diagnosis",
           "published": "2026-07-02T19:42:32+00:00",
-          "score": 5.365,
+          "score": 5.34,
           "keywords": [
             "barrister",
             "claim",
@@ -1932,7 +1919,7 @@
           "description": "Education Minister Erica Stanford said the Enrich scheme running 65 early childhood services would grow to 525.",
           "url": "https://www.rnz.co.nz/news/political/654063/government-to-go-ahead-with-expansion-of-programme-to-help-young-children-s-language",
           "published": "2026-07-02T03:12:22+00:00",
-          "score": 4.748,
+          "score": 4.723,
           "keywords": [
             "ahead",
             "childhood",
@@ -2368,22 +2355,7 @@
           "importanceReasons": [
             "Relevant to war & security, public safety; surfaced from World coverage."
           ],
-          "priority": 15.948,
-          "outcome": "policy_watch"
-        },
-        {
-          "id": "policy-9-7257496",
-          "title": "More than 2,000 Quebec households stranded without a lease after July 1",
-          "status": "CBC Top Stories",
-          "description": "More than 2,000 Quebec households are still without a home following the province's July 1 moving day. Housing advocates say the increase compared to last year shows that building more apartments isn't enough to solve the affordability crisis.",
-          "url": "https://www.cbc.ca/news/canada/montreal/quebec-rental-market-housing-july-1-9.7257496?cmp=rss",
-          "source": "CBC Top Stories",
-          "sectionName": "National",
-          "category": "Affordability, Housing",
-          "importanceReasons": [
-            "Relevant to affordability, housing; surfaced from National coverage."
-          ],
-          "priority": 14.723,
+          "priority": 15.922,
           "outcome": "policy_watch"
         },
         {
@@ -2398,22 +2370,22 @@
           "importanceReasons": [
             "Relevant to public safety; surfaced from Local coverage."
           ],
-          "priority": 14.413,
+          "priority": 14.388,
           "outcome": "policy_watch"
         },
         {
           "id": "policy-9-7258006",
           "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
-          "status": "CBC Politics",
+          "status": "CBC British Columbia",
           "description": "Energy Minister Tim Hodgson says a second pipeline to the West Coast will be money well-spent for the federal government but can't say how much Ottawa would be on the hook for.",
           "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
-          "source": "CBC Politics",
-          "sectionName": "National",
+          "source": "CBC British Columbia",
+          "sectionName": "Local",
           "category": "Climate & Infrastructure",
           "importanceReasons": [
-            "Relevant to climate & infrastructure; surfaced from National coverage."
+            "Relevant to climate & infrastructure; surfaced from Local coverage."
           ],
-          "priority": 13.916,
+          "priority": 13.841,
           "outcome": "policy_watch"
         },
         {
@@ -2428,7 +2400,7 @@
           "importanceReasons": [
             "Relevant to public safety, health; surfaced from National coverage."
           ],
-          "priority": 13.093,
+          "priority": 13.068,
           "outcome": "policy_watch"
         },
         {
@@ -2443,7 +2415,7 @@
           "importanceReasons": [
             "Relevant to war & security, public safety; surfaced from World coverage."
           ],
-          "priority": 11.594,
+          "priority": 11.569,
           "outcome": "policy_watch"
         },
         {
@@ -2458,7 +2430,7 @@
           "importanceReasons": [
             "Relevant to public safety; surfaced from Local coverage."
           ],
-          "priority": 10.72,
+          "priority": 10.695,
           "outcome": "policy_watch"
         },
         {
@@ -2473,7 +2445,22 @@
           "importanceReasons": [
             "Relevant to war & security; surfaced from World coverage."
           ],
-          "priority": 10.387,
+          "priority": 10.361,
+          "outcome": "policy_watch"
+        },
+        {
+          "id": "policy-https-www-aljazeera-com-t-1783109402",
+          "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
+          "status": "Al Jazeera",
+          "description": "The Aspen Acres Fire, one of about 40 wildfires burning across western US, has destroyed homes and forced evacuations.",
+          "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sectionName": "World",
+          "category": "Public Safety",
+          "importanceReasons": [
+            "Relevant to public safety; surfaced from World coverage."
+          ],
+          "priority": 10.224,
           "outcome": "policy_watch"
         }
       ],
@@ -2699,7 +2686,7 @@
             "description": "Former Sheffield United player Nina Wilson \u2018tried to escalate concerns\u2019 Morgan to give evidence to inquest on Monday The former Sheffield United goalkeeper Nina Wilson has told an inquest that she had \u201ctried to escalate concerns\u201d about the manager Jonathan Morgan prior to her teammate Maddy Cusack\u2019s death in 2023, but she did not feel she was listened to. Wilson, who told the hearing that she had ended her own football career when she was aged 25 because of those experiences, said that neither she nor Cusack had known who the club\u2019s safeguarding officer was, and she listed a series of recommendations to the court, including calling for whistleblowing routes to be clearer to players and for...",
             "url": "https://www.theguardian.com/football/2026/jul/03/maddy-cusack-jonathan-morgan-womens-football-inquest",
             "published": "2026-07-03T20:46:33+00:00",
-            "score": 6.657,
+            "score": 6.632,
             "keywords": [
               "because",
               "calling",
@@ -2738,7 +2725,7 @@
             "description": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup.",
             "url": "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
             "published": "2026-07-03T21:31:17+00:00",
-            "score": 5.899,
+            "score": 5.873,
             "keywords": [
               "australia",
               "decided",
@@ -2766,7 +2753,7 @@
             "description": "Jhon Arias scores the only goal of the game as Colombia become the last team to book their place in the last 16 following a 1-0 win over Ghana in Kansas City.",
             "url": "https://www.bbc.co.uk/sport/football/videos/crr8pz45409o?at_medium=RSS&at_campaign=rss",
             "published": "2026-07-04T04:12:20+00:00",
-            "score": 5.77,
+            "score": 5.745,
             "keywords": [
               "arias",
               "become",
@@ -2792,7 +2779,7 @@
             "description": "Sidny Cabral scores an incredible goal in extra time for Cape Verde as they equalise for a second time against Argentina.",
             "url": "https://www.bbc.co.uk/sport/football/videos/c9q23jpee23o?at_medium=RSS&at_campaign=rss",
             "published": "2026-07-04T00:58:28+00:00",
-            "score": 5.591,
+            "score": 5.565,
             "keywords": [
               "argentina",
               "brilliant",
@@ -2819,7 +2806,7 @@
             "description": "Ghana can only have feared the worst when Luis Su\u00e1rez\u2019s number came up in the seventh minute. A day on from the 16th anniversary of one of the most infamous episodes in World Cup history, the Colombia forward who shares a name with the man whose handball broke the hearts of Black Stars supporters in the quarter-finals of the 2010 World Cup returned to haunt them. Not long after coming off the bench, it was the Sporting striker who provided the assist for what turned out to be the winning goal from Jhon Arias to set up a last-16 clash against Switzerland in Vancouver on Tuesday. Even if they couldn\u2019t find another goal that their superiority clearly warranted, Colombia were deserved winners...",
             "url": "https://www.theguardian.com/football/2026/jul/04/colombia-ghana-world-cup-2026-last-32-match-report",
             "published": "2026-07-04T03:44:49+00:00",
-            "score": 5.345,
+            "score": 5.319,
             "keywords": [
               "anniversary",
               "another",
@@ -2858,7 +2845,7 @@
             "description": "Former Tottenham manager signs two-year contract Al-Nassr won the Saudi Pro League last season Ange Postecoglou has been appointed as the new head coach of the Saudi Pro League champions, \u2060Al-Nassr, on a two-year deal as the Australian attempts \u2060to revive his \u2060career \u200bafter two bruising stints in the Premier League. \u201cA new chapter. Mr Ange Postecoglou appointed as \u2060head coach of the Al-Nassr first team. The contract spans two seasons,\u201d the club said in a statement. \u201cWe \u2060wish him and his staff every success in their journey.\u201d Continue reading...",
             "url": "https://www.theguardian.com/football/2026/jul/03/ange-postecoglou-head-coach-al-nassr-cristiano-ronaldo",
             "published": "2026-07-03T17:22:56+00:00",
-            "score": 5.269,
+            "score": 5.243,
             "keywords": [
               "al-nassr",
               "appointed",
@@ -2897,7 +2884,7 @@
             "description": "Chelsea and Manchester United also interested in winger Real Madrid issue statement denying Fern\u00e1ndez contact Fulham have joined the race to sign Crysencio Summerville from West Ham. The winger is expected to move this summer and is attracting interest from a host of Premier League clubs. Chelsea and Manchester United have been monitoring Summerville, who is likely to leave West Ham following their relegation from the Premier League, but it remains to be seen whether the Netherlands international earns a move to one of the top flight\u2019s leading sides. Continue reading...",
             "url": "https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-ham-crysencio-summerville",
             "published": "2026-07-03T17:18:07+00:00",
-            "score": 5.264,
+            "score": 5.239,
             "keywords": [
               "attracting",
               "chelsea",
@@ -2926,7 +2913,7 @@
             ]
           },
           {
-            "id": "https-www-bbc-co-uk-sport-football-articles-cp8r4dp1l6wo-7",
+            "id": "https-www-bbc-co-uk-sport-football-articles-cp8r4dp1l6wo-15",
             "section": "football-news",
             "sectionName": "Football News",
             "focus": "Most relevant sports headlines",
@@ -2936,7 +2923,7 @@
             "description": "Norway midfielder Justine Kielland joins Aston Villa from German club Wolfsburg, subject to visa approval. Kielland joined Norwegian side Brann in 2023. During her time there, she helped the club reach the quarter-finals of the Women's Champions League, playing in 12 matches and scoring four goals.",
             "url": "https://www.bbc.co.uk/sport/football/articles/cp8r4dp1l6wo?at_medium=RSS&at_campaign=rss",
             "published": "2026-07-03T10:02:54+00:00",
-            "score": 4.461,
+            "score": 4.436,
             "keywords": [
               "approval",
               "aston",
@@ -2982,7 +2969,7 @@
             "description": "The Celtics\u2018 surprising decision to trade Jaylen Brown to the division rival Sixers for a seemingly light return package has led to a renewed ...",
             "url": "https://www.hoopsrumors.com/2026/07/windhorsts-latest-brown-trade-centers-salary-cap.html",
             "published": "2026-07-04T00:45:50+00:00",
-            "score": 8.029,
+            "score": 8.004,
             "keywords": [
               "brown",
               "celtics",
@@ -3014,7 +3001,7 @@
             "description": "After the Jaylen Brown trade, hundreds of millions spent on centers and a shocking cap development, here's the latest NBA buzz as we enter Week 2 of free agency.",
             "url": "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
             "published": "2026-07-04T05:19:13+00:00",
-            "score": 7.682,
+            "score": 7.657,
             "keywords": [
               "agency",
               "big-money",
@@ -3042,7 +3029,7 @@
             "description": "We're tracking deals, trades and buzz across the NBA, including the latest on LeBron's next move.",
             "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
             "published": "2026-07-03T14:55:16+00:00",
-            "score": 6.882,
+            "score": 6.857,
             "keywords": [
               "across",
               "agency",
@@ -3064,7 +3051,7 @@
             "description": "Which teams are dominating the offseason? Which already wish they could hit the reset button? We picked 10 winners and losers from fee agency.",
             "url": "https://www.espn.com/nba/story/_/id/49241663/nba-free-agency-2026-winners-losers-teams-trades-signings-contracts-better-worse",
             "published": "2026-07-04T03:55:48+00:00",
-            "score": 5.705,
+            "score": 5.679,
             "keywords": [
               "agency",
               "already",
@@ -3091,7 +3078,7 @@
             "description": "The Spurs have signed first-round picks Jayden Quaintance (No. 20 overall) and Tarris Reed Jr. (No. 26) to their rookie scale contracts, the team ...",
             "url": "https://www.hoopsrumors.com/2026/07/spurs-sign-all-four-2026-draft-picks.html",
             "published": "2026-07-03T20:34:13+00:00",
-            "score": 4.896,
+            "score": 4.871,
             "keywords": [
               "contracts",
               "draft",
@@ -3118,7 +3105,7 @@
             "description": "Bulls first-rounders Caleb Wilson and Dailyn Swain signed their rookie scale contracts on Friday, according to NBA.com\u2019s transaction log. Wilson and Swain were among ...",
             "url": "https://www.hoopsrumors.com/2026/07/caleb-wilson-dailyn-swain-keaton-wagler-sign-rookie-deals.html",
             "published": "2026-07-04T05:27:38+00:00",
-            "score": 4.19,
+            "score": 4.164,
             "keywords": [
               "according",
               "among",
@@ -3150,7 +3137,7 @@
             "description": "Restricted free agent guard Chris Manon has re-signed with the Lakers on another two-way contract, the team announced in a press release (Twitter link ...",
             "url": "https://www.hoopsrumors.com/2026/07/chris-manon-re-signs-with-lakers-on-two-way-contract.html",
             "published": "2026-07-04T03:23:50+00:00",
-            "score": 4.075,
+            "score": 4.05,
             "keywords": [
               "agent",
               "announced",
@@ -3180,7 +3167,7 @@
             "description": "Former Alabama star Labaron Philon Jr. has officially signed his rookie scale contract with the Sixers, according to the NBA\u2019s transaction log. The 6\u20194\u2033 ...",
             "url": "https://www.hoopsrumors.com/2026/07/labaron-philon-jr-signs-rookie-scale-deal-with-sixers.html",
             "published": "2026-07-04T03:03:02+00:00",
-            "score": 4.056,
+            "score": 4.031,
             "keywords": [
               "according",
               "alabama",
@@ -3195,6 +3182,225 @@
               "signs",
               "sixers",
               "transaction"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "new-zealand-sports",
+        "name": "New Zealand Sports",
+        "focus": "Aotearoa sport headlines, including rugby, cricket, football, netball, league, and major NZ athletes",
+        "items": [
+          {
+            "id": "714cbea1c2799adaa5c563fe43814e80d432d091",
+            "section": "new-zealand-sports",
+            "sectionName": "New Zealand Sports",
+            "focus": "Most relevant sports headlines",
+            "source": "RNZ Sport",
+            "title": "What you need to know about NRLW",
+            "bullet": "What you need to know about NRLW (RNZ Sport, Jul 4)",
+            "description": "The Warriors wahine will contest the Aussie rugby league competition for the fifth time and are yet to reach the playoffs.",
+            "url": "https://www.rnz.co.nz/news/sport/667565/what-you-need-to-know-about-nrlw",
+            "published": "2026-07-04T05:22:09+00:00",
+            "score": 4.159,
+            "keywords": [
+              "aussie",
+              "competition",
+              "contest",
+              "fifth",
+              "league",
+              "playoffs",
+              "reach",
+              "rugby",
+              "wahine",
+              "warriors"
+            ]
+          },
+          {
+            "id": "c71b5a701554dc583efcb2693662e7a93bd4698e",
+            "section": "new-zealand-sports",
+            "sectionName": "New Zealand Sports",
+            "focus": "Most relevant sports headlines",
+            "source": "RNZ Sport",
+            "title": "Argentina beat Cape Verde in World Cup extra-time thriller",
+            "bullet": "Argentina beat Cape Verde in World Cup extra-time thriller (RNZ Sport, Jul 4)",
+            "description": "The clash went into extra time on Friday, with an own goal in the 111th minute giving the reigning champions the win.",
+            "url": "https://www.rnz.co.nz/news/sport/665839/argentina-beat-cape-verde-in-world-cup-extra-time-thriller",
+            "published": "2026-07-04T00:52:39+00:00",
+            "score": 3.91,
+            "keywords": [
+              "argentina",
+              "champions",
+              "clash",
+              "extra",
+              "extra-time",
+              "friday",
+              "giving",
+              "minute",
+              "reigning",
+              "thriller",
+              "verde",
+              "world"
+            ]
+          },
+          {
+            "id": "ae70f43156a674f9df1f860d794fc3d70a3b206d",
+            "section": "new-zealand-sports",
+            "sectionName": "New Zealand Sports",
+            "focus": "Most relevant sports headlines",
+            "source": "RNZ Sport",
+            "title": "Full House: Warriors NRL season officially sold out",
+            "bullet": "Full House: Warriors NRL season officially sold out (RNZ Sport, Jul 3)",
+            "description": "The Warriors match their feat of two years ago by selling out all their 11 games on home soil this season.",
+            "url": "https://www.rnz.co.nz/news/sport/664831/full-house-warriors-nrl-season-officially-sold-out",
+            "published": "2026-07-03T21:34:25+00:00",
+            "score": 3.726,
+            "keywords": [
+              "games",
+              "house",
+              "match",
+              "officially",
+              "season",
+              "selling",
+              "warriors",
+              "years"
+            ]
+          },
+          {
+            "id": "14ad3c143d18c4e921f1e27990e5f71a827e74d5",
+            "section": "new-zealand-sports",
+            "sectionName": "New Zealand Sports",
+            "focus": "Most relevant sports headlines",
+            "source": "RNZ Sport",
+            "title": "Tall Blacks pip Philippines in double overtime thriller",
+            "bullet": "Tall Blacks pip Philippines in double overtime thriller (RNZ Sport, Jul 3)",
+            "description": "New Zealand hold their nerve in a 106-102 win in Auckland, which books their berth in the second round of World Cup qualifying.",
+            "url": "https://www.rnz.co.nz/news/sport/664054/tall-blacks-pip-philippines-in-double-overtime-thriller",
+            "published": "2026-07-03T19:23:58+00:00",
+            "score": 3.606,
+            "keywords": [
+              "auckland",
+              "berth",
+              "blacks",
+              "books",
+              "double",
+              "nerve",
+              "overtime",
+              "philippines",
+              "qualifying",
+              "round",
+              "second",
+              "thriller",
+              "which",
+              "world",
+              "zealand"
+            ]
+          },
+          {
+            "id": "fb38e437923aae6daa10af139411c2b6e9ee512e",
+            "section": "new-zealand-sports",
+            "sectionName": "New Zealand Sports",
+            "focus": "Most relevant sports headlines",
+            "source": "RNZ Sport",
+            "title": "All Blacks captain Ardie Savea embraces role under new coach Dave Rennie",
+            "bullet": "All Blacks captain Ardie Savea embraces role under new coach Dave Rennie (RNZ Sport, Jul 3)",
+            "description": "The superstar loose forward will lead the national team into their first test of the Dave Rennie era on Saturday night.",
+            "url": "https://www.rnz.co.nz/news/sport/661841/all-blacks-captain-ardie-savea-embraces-role-under-new-coach-dave-rennie",
+            "published": "2026-07-03T09:01:24+00:00",
+            "score": 3.029,
+            "keywords": [
+              "ardie",
+              "blacks",
+              "captain",
+              "coach",
+              "embraces",
+              "first",
+              "forward",
+              "loose",
+              "national",
+              "night",
+              "rennie",
+              "saturday",
+              "savea",
+              "superstar",
+              "under"
+            ]
+          },
+          {
+            "id": "793cb9e5d6d6a1c6a3778f877d3c0b29b88f2708",
+            "section": "new-zealand-sports",
+            "sectionName": "New Zealand Sports",
+            "focus": "Most relevant sports headlines",
+            "source": "RNZ Sport",
+            "title": "Christchurch fans hoping maiden All Blacks test at Te Kaha is first of many",
+            "bullet": "Christchurch fans hoping maiden All Blacks test at Te Kaha is first of many (RNZ Sport, Jul 3)",
+            "description": "A sold-out Te Kaha Stadium will host its first All Blacks test as fans hope it's the start of regular internationals returning.",
+            "url": "https://www.rnz.co.nz/news/sport/661246/christchurch-fans-hoping-maiden-all-blacks-test-at-te-kaha-is-first-of-many",
+            "published": "2026-07-03T06:44:32+00:00",
+            "score": 2.902,
+            "keywords": [
+              "blacks",
+              "christchurch",
+              "first",
+              "hoping",
+              "internationals",
+              "maiden",
+              "regular",
+              "returning",
+              "sold-out",
+              "stadium",
+              "start"
+            ]
+          },
+          {
+            "id": "b4eca37c5f0855c940b99355f642df4e1ebca028",
+            "section": "new-zealand-sports",
+            "sectionName": "New Zealand Sports",
+            "focus": "Most relevant sports headlines",
+            "source": "RNZ Sport",
+            "title": "Pro-wrestler Aaron Henare returns to the ring in Aotearoa",
+            "bullet": "Pro-wrestler Aaron Henare returns to the ring in Aotearoa (RNZ Sport, Jul 3)",
+            "description": "Henare spent 13 months out of action after an injury at the end of 2024 but has come back strong this year.",
+            "url": "https://www.rnz.co.nz/news/sport/661421/pro-wrestler-aaron-henare-returns-to-the-ring-in-aotearoa",
+            "published": "2026-07-03T05:33:57+00:00",
+            "score": 2.837,
+            "keywords": [
+              "aaron",
+              "action",
+              "aotearoa",
+              "henare",
+              "injury",
+              "months",
+              "pro-wrestler",
+              "returns",
+              "spent",
+              "strong"
+            ]
+          },
+          {
+            "id": "7ca57888fffe1c9d81e871b72e03d74d3dd5a313",
+            "section": "new-zealand-sports",
+            "sectionName": "New Zealand Sports",
+            "focus": "Most relevant sports headlines",
+            "source": "RNZ Sport",
+            "title": "NRLW: New arrivals lighten leadership load on NZ Warriors skipper Apii Nicholls",
+            "bullet": "NRLW: New arrivals lighten leadership load on NZ Warriors skipper Apii Nicholls (RNZ Sport, Jul 3)",
+            "description": "One of the original wahine of 2018, Apii Nicholls now has other voices in the clubhouse to help lead the way.",
+            "url": "https://www.rnz.co.nz/news/sport/661255/nrlw-new-arrivals-lighten-leadership-load-on-nz-warriors-skipper-apii-nicholls",
+            "published": "2026-07-03T05:00:53+00:00",
+            "score": 2.806,
+            "keywords": [
+              "arrivals",
+              "clubhouse",
+              "leadership",
+              "lighten",
+              "nicholls",
+              "original",
+              "other",
+              "skipper",
+              "voices",
+              "wahine",
+              "warriors"
             ]
           }
         ]

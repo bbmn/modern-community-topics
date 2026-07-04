@@ -332,6 +332,11 @@
         "id": "nba-news",
         "name": "NBA News & Trades",
         "focus": "NBA scores context, trades, rumors, free agency, draft, and roster moves"
+      },
+      {
+        "id": "new-zealand-sports",
+        "name": "New Zealand Sports",
+        "focus": "Aotearoa sport headlines, including rugby, cricket, football, netball, league, and major NZ athletes"
       }
     ],
     "feeds": [
@@ -407,6 +412,13 @@
           "buyout",
           "option"
         ],
+        "weight": 1.2
+      },
+      {
+        "name": "RNZ Sport",
+        "url": "https://www.rnz.co.nz/rss/sport.xml",
+        "sectionId": "new-zealand-sports",
+        "sectionName": "New Zealand Sports",
         "weight": 1.2
       }
     ]

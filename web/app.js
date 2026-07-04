@@ -1,4 +1,5 @@
 const briefing = document.querySelector("#briefing");
+const newZealand = document.querySelector("#new-zealand");
 const government = document.querySelector("#government");
 const sports = document.querySelector("#sports");
 const generated = document.querySelector("#generated");
@@ -33,6 +34,7 @@ async function loadBriefing() {
     renderBriefing(data);
     renderGovernment(governmentData);
     renderSports(sportsData);
+    renderNewZealand(data, sportsData);
   } catch (error) {
     briefing.innerHTML = `
       <div class="error">
@@ -40,6 +42,7 @@ async function loadBriefing() {
       </div>
     `;
     generated.textContent = "No briefing yet";
+    newZealand.innerHTML = "";
     government.innerHTML = "";
     sports.innerHTML = "";
   }
@@ -49,45 +52,76 @@ function renderBriefing(data) {
   generated.textContent = `Updated ${data.generatedAtLocal}`;
   storiesById = new Map();
 
-  briefing.innerHTML = data.sections.map((section) => {
-    const items = section.items || [];
-    const stories = items.length
-      ? items.map((item) => {
-          storiesById.set(item.id, item);
-          return `
-            <li class="story">
-              <button data-id="${escapeHtml(item.id)}">
-                <span class="story-title">${escapeHtml(item.title)}</span>
-                <span class="story-meta">${escapeHtml(item.source)}${formatDate(item.published)}</span>
-              </button>
-            </li>
-          `;
-        }).join("")
-      : `<li class="empty">No current stories found.</li>`;
+  briefing.innerHTML = (data.sections || [])
+    .filter((section) => section.id !== "new-zealand")
+    .map((section) => renderNewsSection(section, "news"))
+    .join("");
 
-    const collapseId = `news:${section.id}`;
-    const collapsed = isCollapsed(collapseId);
+  attachNewsStoryHandlers(briefing);
+  attachCollapseHandlers(briefing);
+}
 
-    return `
-      <article class="section collapsible-section ${collapsed ? "is-collapsed" : ""}" data-collapse-id="${escapeHtml(collapseId)}">
-        <div class="section-heading">
-          <div>
-            <h2>${escapeHtml(section.name)}</h2>
-            <p class="focus">${escapeHtml(section.focus || "")}</p>
-          </div>
-          ${collapseButton(collapseId, collapsed, section.name)}
+function renderNewZealand(data, sportsData) {
+  const newsSections = (data.sections || [])
+    .filter((section) => section.id === "new-zealand")
+    .map((section) => renderNewsSection(section, "new-zealand"));
+  const sportsSections = (sportsData.sections || [])
+    .filter((section) => section.id === "new-zealand-sports")
+    .map((section) => renderSportsSection(section, "new-zealand"));
+
+  newZealand.innerHTML = [...newsSections, ...sportsSections].join("") || `
+    <article class="section">
+      <h2>New Zealand</h2>
+      <p class="focus">No New Zealand stories were found in this refresh.</p>
+    </article>
+  `;
+
+  attachNewsStoryHandlers(newZealand);
+  newZealand.querySelectorAll("button[data-sports-id]").forEach((button) => {
+    attachStoryButton(button, button.dataset.sportsId, sportsById, openSportsItem, "sports");
+  });
+  attachCollapseHandlers(newZealand);
+}
+
+function renderNewsSection(section, namespace) {
+  const items = section.items || [];
+  const stories = items.length
+    ? items.map((item) => {
+        storiesById.set(item.id, item);
+        return `
+          <li class="story">
+            <button data-id="${escapeHtml(item.id)}">
+              <span class="story-title">${escapeHtml(item.title)}</span>
+              <span class="story-meta">${escapeHtml(item.source)}${formatDate(item.published)}</span>
+            </button>
+          </li>
+        `;
+      }).join("")
+    : `<li class="empty">No current stories found.</li>`;
+
+  const collapseId = `${namespace}:${section.id}`;
+  const collapsed = isCollapsed(collapseId);
+
+  return `
+    <article class="section collapsible-section ${collapsed ? "is-collapsed" : ""}" data-collapse-id="${escapeHtml(collapseId)}">
+      <div class="section-heading">
+        <div>
+          <h2>${escapeHtml(section.name)}</h2>
+          <p class="focus">${escapeHtml(section.focus || "")}</p>
         </div>
-        <div class="collapsible-body">
-          <ul class="stories">${stories}</ul>
-        </div>
-      </article>
-    `;
-  }).join("");
+        ${collapseButton(collapseId, collapsed, section.name)}
+      </div>
+      <div class="collapsible-body">
+        <ul class="stories">${stories}</ul>
+      </div>
+    </article>
+  `;
+}
 
-  briefing.querySelectorAll("button[data-id]").forEach((button) => {
+function attachNewsStoryHandlers(root) {
+  root.querySelectorAll("button[data-id]").forEach((button) => {
     attachStoryButton(button, button.dataset.id, storiesById, openStory, "story");
   });
-  attachCollapseHandlers(briefing);
 }
 
 function renderGovernment(data) {
@@ -210,39 +244,10 @@ function renderSports(data) {
       }).join("")
     : `<li class="empty">No score trackers configured.</li>`;
 
-  const sections = (data.sections || []).map((section) => {
-    const items = section.items || [];
-    const cards = items.length
-      ? items.map((item) => {
-          sportsById.set(item.id, item);
-          return `
-            <li class="story">
-              <button data-sports-id="${escapeHtml(item.id)}">
-                <span class="story-title">${escapeHtml(item.title)}</span>
-                <span class="story-meta">${escapeHtml(item.source)}${formatDate(item.published)}</span>
-              </button>
-            </li>
-          `;
-        }).join("")
-      : `<li class="empty">No current sports headlines found.</li>`;
-    const collapseId = `section:${section.id}`;
-    const collapsed = isCollapsed(collapseId);
-
-    return `
-      <article class="section collapsible-section ${collapsed ? "is-collapsed" : ""}" data-collapse-id="${escapeHtml(collapseId)}">
-        <div class="section-heading">
-          <div>
-            <h2>${escapeHtml(section.name)}</h2>
-            <p class="focus">${escapeHtml(section.focus || "")}</p>
-          </div>
-          ${collapseButton(collapseId, collapsed, section.name)}
-        </div>
-        <div class="collapsible-body">
-          <ul class="stories">${cards}</ul>
-        </div>
-      </article>
-    `;
-  }).join("");
+  const sections = (data.sections || [])
+    .filter((section) => section.id !== "new-zealand-sports")
+    .map((section) => renderSportsSection(section, "section"))
+    .join("");
 
   const scoresCollapseId = "sports:scores-fixtures";
   const scoresCollapsed = isCollapsed(scoresCollapseId);
@@ -267,6 +272,40 @@ function renderSports(data) {
     attachStoryButton(button, button.dataset.sportsId, sportsById, openSportsItem, "sports");
   });
   attachCollapseHandlers(sports);
+}
+
+function renderSportsSection(section, namespace) {
+  const items = section.items || [];
+  const cards = items.length
+    ? items.map((item) => {
+        sportsById.set(item.id, item);
+        return `
+          <li class="story">
+            <button data-sports-id="${escapeHtml(item.id)}">
+              <span class="story-title">${escapeHtml(item.title)}</span>
+              <span class="story-meta">${escapeHtml(item.source)}${formatDate(item.published)}</span>
+            </button>
+          </li>
+        `;
+      }).join("")
+    : `<li class="empty">No current sports headlines found.</li>`;
+  const collapseId = `${namespace}:${section.id}`;
+  const collapsed = isCollapsed(collapseId);
+
+  return `
+    <article class="section collapsible-section ${collapsed ? "is-collapsed" : ""}" data-collapse-id="${escapeHtml(collapseId)}">
+      <div class="section-heading">
+        <div>
+          <h2>${escapeHtml(section.name)}</h2>
+          <p class="focus">${escapeHtml(section.focus || "")}</p>
+        </div>
+        ${collapseButton(collapseId, collapsed, section.name)}
+      </div>
+      <div class="collapsible-body">
+        <ul class="stories">${cards}</ul>
+      </div>
+    </article>
+  `;
 }
 
 function renderScoreBullets(item) {
