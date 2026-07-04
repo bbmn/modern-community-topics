@@ -44,8 +44,15 @@ def main() -> None:
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="refresh" content="0; url=web/">
+    <meta name="theme-color" content="#1c3442">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-title" content="Community">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <title>Modern Community Topics</title>
     <link rel="canonical" href="web/">
+    <link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="assets/icon-192.png">
+    <link rel="manifest" href="web/manifest.webmanifest">
   </head>
   <body>
     <p><a href="web/">Open Modern Community Topics</a></p>
