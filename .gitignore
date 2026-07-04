@@ -1,0 +1,10 @@
+_site/
+.pycache/
+*.pyc
+
+data/*.log
+data/*.pid
+
+.DS_Store
+ModernCommunityTopics.iconset/
+Modern Community Topics.app/

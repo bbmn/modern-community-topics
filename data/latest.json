@@ -1,0 +1,3208 @@
+{
+  "generatedAt": "2026-07-04T05:38:36.456019+00:00",
+  "generatedAtLocal": "2026-07-03 22:38",
+  "sections": [
+    {
+      "id": "esquimalt",
+      "name": "Esquimalt",
+      "focus": "Township notices, meetings, and civic updates",
+      "items": [
+        {
+          "id": "https-www-esquimalt-ca-community-events-news-notice-meeting-regular-council-july",
+          "section": "esquimalt",
+          "sectionName": "Esquimalt",
+          "focus": "Township notices, meetings, and civic updates",
+          "source": "Township of Esquimalt",
+          "title": "Notice of Meeting - Regular Council - July 6, 2026",
+          "bullet": "Notice of Meeting - Regular Council - July 6, 2026 (Township of Esquimalt)",
+          "description": "Township of Esquimalt notice or civic update.",
+          "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-regular-council-july-6-2026",
+          "published": "",
+          "score": 3.15,
+          "keywords": [
+            "civic",
+            "council",
+            "esquimalt",
+            "meeting",
+            "notice",
+            "regular",
+            "township"
+          ],
+          "relatedSources": [
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of Meeting - Regular Council - June 22, 2026",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-regular-council-june-22-2026",
+              "reason": "Same section; shared terms: civic, council, esquimalt, meeting."
+            },
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of Meeting - Committee of the Whole - June 15, 2026",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-committee-whole-june-15-2026",
+              "reason": "Same section; shared terms: civic, esquimalt, meeting, notice."
+            },
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of First Reading - 1140 &1148 Esquimalt Road",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-first-reading-1140-1148-esquimalt-road",
+              "reason": "Same section; shared terms: civic, esquimalt, notice, township."
+            }
+          ]
+        },
+        {
+          "id": "https-www-esquimalt-ca-community-events-news-notice-meeting-regular-council-june",
+          "section": "esquimalt",
+          "sectionName": "Esquimalt",
+          "focus": "Township notices, meetings, and civic updates",
+          "source": "Township of Esquimalt",
+          "title": "Notice of Meeting - Regular Council - June 22, 2026",
+          "bullet": "Notice of Meeting - Regular Council - June 22, 2026 (Township of Esquimalt)",
+          "description": "Township of Esquimalt notice or civic update.",
+          "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-regular-council-june-22-2026",
+          "published": "",
+          "score": 3.15,
+          "keywords": [
+            "civic",
+            "council",
+            "esquimalt",
+            "meeting",
+            "notice",
+            "regular",
+            "township"
+          ],
+          "relatedSources": [
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of Meeting - Regular Council - July 6, 2026",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-regular-council-july-6-2026",
+              "reason": "Same section; shared terms: civic, council, esquimalt, meeting."
+            },
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of Meeting - Committee of the Whole - June 15, 2026",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-committee-whole-june-15-2026",
+              "reason": "Same section; shared terms: civic, esquimalt, meeting, notice."
+            },
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of First Reading - 1140 &1148 Esquimalt Road",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-first-reading-1140-1148-esquimalt-road",
+              "reason": "Same section; shared terms: civic, esquimalt, notice, township."
+            }
+          ]
+        },
+        {
+          "id": "https-www-esquimalt-ca-community-events-news-notice-first-reading-1140-1148-esqu",
+          "section": "esquimalt",
+          "sectionName": "Esquimalt",
+          "focus": "Township notices, meetings, and civic updates",
+          "source": "Township of Esquimalt",
+          "title": "Notice of First Reading - 1140 &1148 Esquimalt Road",
+          "bullet": "Notice of First Reading - 1140 &1148 Esquimalt Road (Township of Esquimalt)",
+          "description": "Township of Esquimalt notice or civic update.",
+          "url": "https://www.esquimalt.ca/community-events/news/notice-first-reading-1140-1148-esquimalt-road",
+          "published": "",
+          "score": 1.35,
+          "keywords": [
+            "civic",
+            "esquimalt",
+            "first",
+            "notice",
+            "reading",
+            "township"
+          ],
+          "relatedSources": [
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of Meeting - Regular Council - July 6, 2026",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-regular-council-july-6-2026",
+              "reason": "Same section; shared terms: civic, esquimalt, notice, township."
+            },
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of Meeting - Regular Council - June 22, 2026",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-regular-council-june-22-2026",
+              "reason": "Same section; shared terms: civic, esquimalt, notice, township."
+            },
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of Meeting - Committee of the Whole - June 15, 2026",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-committee-whole-june-15-2026",
+              "reason": "Same section; shared terms: civic, esquimalt, notice, township."
+            }
+          ]
+        },
+        {
+          "id": "https-www-esquimalt-ca-community-events-news-notice-meeting-committee-whole-june",
+          "section": "esquimalt",
+          "sectionName": "Esquimalt",
+          "focus": "Township notices, meetings, and civic updates",
+          "source": "Township of Esquimalt",
+          "title": "Notice of Meeting - Committee of the Whole - June 15, 2026",
+          "bullet": "Notice of Meeting - Committee of the Whole - June 15, 2026 (Township of Esquimalt)",
+          "description": "Township of Esquimalt notice or civic update.",
+          "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-committee-whole-june-15-2026",
+          "published": "",
+          "score": 1.35,
+          "keywords": [
+            "civic",
+            "committee",
+            "esquimalt",
+            "meeting",
+            "notice",
+            "township",
+            "whole"
+          ],
+          "relatedSources": [
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of Meeting - Regular Council - July 6, 2026",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-regular-council-july-6-2026",
+              "reason": "Same section; shared terms: civic, esquimalt, meeting, notice."
+            },
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of Meeting - Regular Council - June 22, 2026",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-meeting-regular-council-june-22-2026",
+              "reason": "Same section; shared terms: civic, esquimalt, meeting, notice."
+            },
+            {
+              "source": "Township of Esquimalt",
+              "title": "Notice of First Reading - 1140 &1148 Esquimalt Road",
+              "url": "https://www.esquimalt.ca/community-events/news/notice-first-reading-1140-1148-esquimalt-road",
+              "reason": "Same section; shared terms: civic, esquimalt, notice, township."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local",
+      "focus": "Vancouver and Lower Mainland",
+      "items": [
+        {
+          "id": "https-vancouver-citynews-ca-p-4455578",
+          "section": "local",
+          "sectionName": "Local",
+          "focus": "Vancouver and Lower Mainland",
+          "source": "CityNews Vancouver",
+          "title": "Out-of-control wildfire near Boston Bar has evacuation notice",
+          "bullet": "Out-of-control wildfire near Boston Bar has evacuation notice (CityNews Vancouver, Jul 4)",
+          "description": "An out-of-control wildfire is burning near Boston Bar, along Chaumox Road, near Brunswick Creek. The fire is currently 14 hectares in size. An evacuation alert has been issued for the Brunswick Creek area, issued by the Fraser Valley Regional District. BC Wildfire Service says that the fire is human caused.",
+          "url": "https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/",
+          "published": "2026-07-04T00:28:31+00:00",
+          "score": 9.413,
+          "keywords": [
+            "alert",
+            "along",
+            "boston",
+            "brunswick",
+            "burning",
+            "caused",
+            "chaumox",
+            "creek",
+            "currently",
+            "district",
+            "evacuation",
+            "fraser",
+            "hectares",
+            "human",
+            "issued",
+            "notice",
+            "out-of-control",
+            "regional",
+            "service",
+            "valley",
+            "wildfire"
+          ],
+          "relatedSources": [
+            {
+              "source": "CBC British Columbia",
+              "title": "New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires",
+              "url": "https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss",
+              "reason": "Same section; shared terms: brunswick, wildfire."
+            },
+            {
+              "source": "CBC British Columbia",
+              "title": "Residents approve financials for new search and rescue and fire hall facility in Kamloops",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/kamloops-fire-hall-search-and-rescue-building-9.7256848?cmp=rss",
+              "reason": "Same section; shared terms: district, regional."
+            },
+            {
+              "source": "CBC British Columbia",
+              "title": "Fatal crash on Fernie mountain bike trail shocks riding community",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/fernie-trail-death-9.7256882?cmp=rss",
+              "reason": "Same section; shared terms: service, valley."
+            }
+          ]
+        },
+        {
+          "id": "9-7256802",
+          "section": "local",
+          "sectionName": "Local",
+          "focus": "Vancouver and Lower Mainland",
+          "source": "CBC British Columbia",
+          "title": "Why bridge and tunnel politics helped make the B.C.-Ottawa pipeline truce happen",
+          "bullet": "Why bridge and tunnel politics helped make the B.C.-Ottawa pipeline truce happen (CBC British Columbia, Jul 3)",
+          "description": "In a week that saw a number of big trades in the National Hockey League, perhaps it makes sense to analyze Thursday's agreement between the federal government and the province of British Columbia through the lens of what each group secured.",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/bc-ottawa-deal-massey-pipeline-9.7256802?cmp=rss",
+          "published": "2026-07-03T00:46:03+00:00",
+          "score": 9.246,
+          "keywords": [
+            "agreement",
+            "analyze",
+            "between",
+            "bridge",
+            "federal",
+            "group",
+            "happen",
+            "helped",
+            "hockey",
+            "league",
+            "makes",
+            "national",
+            "number",
+            "ottawa",
+            "perhaps",
+            "pipeline",
+            "politics",
+            "secured",
+            "sense",
+            "through",
+            "thursday",
+            "trades",
+            "truce",
+            "tunnel"
+          ],
+          "relatedSources": [
+            {
+              "source": "CBC Politics",
+              "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
+              "reason": "Shared terms: agreement, ottawa, pipeline, thursday."
+            },
+            {
+              "source": "CBC British Columbia",
+              "title": "Why expansion of Delta container port is going hand-in-hand with Alberta pipeline proposal",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/southern-pipeline-route-delta-roberts-bank-terminal-2-9.7256890?cmp=rss",
+              "reason": "Same section; shared terms: federal, pipeline."
+            },
+            {
+              "source": "CBC British Columbia",
+              "title": "George Massey Tunnel, mines and LNG: what's in the Ottawa-B.C. MOU",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/george-massey-tunnel-mines-lng-mou-9.7256765?cmp=rss",
+              "reason": "Same section; shared terms: agreement, tunnel."
+            }
+          ]
+        },
+        {
+          "id": "9-7256890",
+          "section": "local",
+          "sectionName": "Local",
+          "focus": "Vancouver and Lower Mainland",
+          "source": "CBC British Columbia",
+          "title": "Why expansion of Delta container port is going hand-in-hand with Alberta pipeline proposal",
+          "bullet": "Why expansion of Delta container port is going hand-in-hand with Alberta pipeline proposal (CBC British Columbia, Jul 3)",
+          "description": "The lack of a northern route for Alberta's proposed new pipeline to the B.C. coast may have grabbed the headlines during Thursday's announcement of an Ottawa-B.C. memorandum of understanding with more than $200 billion in investments. But analysts say the federal government's $10-billion commitment to a container port expansion in Delta, B.C., as part of the MOU means that Roberts Bank Terminal 2 (RBT2) is critical to the project, too.",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/southern-pipeline-route-delta-roberts-bank-terminal-2-9.7256890?cmp=rss",
+          "published": "2026-07-03T11:00:00+00:00",
+          "score": 6.414,
+          "keywords": [
+            "alberta",
+            "analysts",
+            "announcement",
+            "billion",
+            "coast",
+            "commitment",
+            "container",
+            "critical",
+            "delta",
+            "expansion",
+            "federal",
+            "going",
+            "grabbed",
+            "hand-in-hand",
+            "headlines",
+            "investments",
+            "means",
+            "memorandum",
+            "northern",
+            "ottawa-b",
+            "pipeline",
+            "project",
+            "proposal",
+            "proposed"
+          ],
+          "relatedSources": [
+            {
+              "source": "CBC British Columbia",
+              "title": "B.C. Interior leaders warn new pipeline could strain small communities",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-interior-leaders-express-concerns-about-new-oil-pipeline-9.7258268?cmp=rss",
+              "reason": "Same section; shared terms: alberta, coast, pipeline, project."
+            },
+            {
+              "source": "CBC Politics",
+              "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
+              "reason": "Shared terms: alberta, announcement, coast, pipeline."
+            },
+            {
+              "source": "The Tyee",
+              "title": "Feds Announce Pipeline Steps, BC Advances Protected Areas",
+              "url": "https://thetyee.ca/News/2026/07/03/Feds-Pipeline-Steps-BC-Protected-Areas/",
+              "reason": "Shared terms: alberta, coast, northern, pipeline."
+            }
+          ]
+        },
+        {
+          "id": "9-7257665",
+          "section": "local",
+          "sectionName": "Local",
+          "focus": "Vancouver and Lower Mainland",
+          "source": "CBC British Columbia",
+          "title": "New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires",
+          "bullet": "New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires (CBC British Columbia, Jul 3)",
+          "description": "Three provinces are lending a helping hand to Quebec's wildfire prevention and suppression agency in its efforts to combat fires.",
+          "url": "https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss",
+          "published": "2026-07-03T18:18:32+00:00",
+          "score": 5.72,
+          "keywords": [
+            "agency",
+            "assist",
+            "battling",
+            "brunswick",
+            "combat",
+            "edward",
+            "efforts",
+            "fires",
+            "helping",
+            "island",
+            "lending",
+            "prevention",
+            "prince",
+            "provinces",
+            "quebec",
+            "suppression",
+            "three",
+            "wildfire",
+            "wildfires"
+          ],
+          "relatedSources": [
+            {
+              "source": "CityNews Vancouver",
+              "title": "Out-of-control wildfire near Boston Bar has evacuation notice",
+              "url": "https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/",
+              "reason": "Same section; shared terms: brunswick, wildfire."
+            }
+          ]
+        },
+        {
+          "id": "9-7256848",
+          "section": "local",
+          "sectionName": "Local",
+          "focus": "Vancouver and Lower Mainland",
+          "source": "CBC British Columbia",
+          "title": "Residents approve financials for new search and rescue and fire hall facility in Kamloops",
+          "bullet": "Residents approve financials for new search and rescue and fire hall facility in Kamloops (CBC British Columbia, Jul 3)",
+          "description": "The Thompson-Nicola Regional District obtained approval to borrow funds for the construction of a new search and rescue hall and training facility from the region's residents, after an alternative approval process.",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/kamloops-fire-hall-search-and-rescue-building-9.7256848?cmp=rss",
+          "published": "2026-07-03T12:00:00+00:00",
+          "score": 4.67,
+          "keywords": [
+            "alternative",
+            "approval",
+            "approve",
+            "borrow",
+            "construction",
+            "district",
+            "facility",
+            "financials",
+            "funds",
+            "kamloops",
+            "obtained",
+            "process",
+            "region",
+            "regional",
+            "rescue",
+            "residents",
+            "search",
+            "thompson-nicola",
+            "training"
+          ],
+          "relatedSources": [
+            {
+              "source": "Capital Regional District",
+              "title": "Capital Regional District launches Alternative Approval Process to borrow funds for Wastewater Projects",
+              "url": "https://www.crd.ca/news/capital-regional-district-launches-alternative-approval-process-borrow-funds-wastewater-projects",
+              "reason": "Shared terms: alternative, approval, borrow, district."
+            },
+            {
+              "source": "CityNews Vancouver",
+              "title": "Out-of-control wildfire near Boston Bar has evacuation notice",
+              "url": "https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/",
+              "reason": "Same section; shared terms: district, regional."
+            }
+          ]
+        },
+        {
+          "id": "9-7256310",
+          "section": "local",
+          "sectionName": "Local",
+          "focus": "Vancouver and Lower Mainland",
+          "source": "CBC British Columbia",
+          "title": "Historic lodge in Qualicum Beach saved from demolition and restored for public use",
+          "bullet": "Historic lodge in Qualicum Beach saved from demolition and restored for public use (CBC British Columbia, Jul 3)",
+          "description": "A historic lodge on the shores of mid-Vancouver Island is set to reopen on Saturday, saved from demolition by the dedication of hundreds of volunteers who donated their time to preserve the building and open it for community use.",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/st-andrews-lodge-qualicum-9.7256310?cmp=rss",
+          "published": "2026-07-03T13:00:00+00:00",
+          "score": 4.426,
+          "keywords": [
+            "beach",
+            "building",
+            "community",
+            "dedication",
+            "demolition",
+            "donated",
+            "historic",
+            "hundreds",
+            "island",
+            "lodge",
+            "mid-vancouver",
+            "preserve",
+            "qualicum",
+            "reopen",
+            "restored",
+            "saturday",
+            "saved",
+            "shores",
+            "volunteers"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "9-7256129",
+          "section": "local",
+          "sectionName": "Local",
+          "focus": "Vancouver and Lower Mainland",
+          "source": "CBC British Columbia",
+          "title": "Vancouver to keep part of Granville Street car-free for 7 weeks post-FIFA after council approves $4.75M",
+          "bullet": "Vancouver to keep part of Granville Street car-free for 7 weeks post-FIFA after council approves $4.75M (CBC British Columbia, Jul 2)",
+          "description": "Five blocks of Granville Street in downtown Vancouver will stay a hub of pedestrian activity for seven weeks after the FIFA World Cup leaves town, as city council voted to extend the car-free pilot Thursday.",
+          "url": "https://www.cbc.ca/news/canada/british-columbia/vancouver-extend-granville-street-pedestrian-zone-9.7256129?cmp=rss",
+          "published": "2026-07-02T22:35:00+00:00",
+          "score": 4.225,
+          "keywords": [
+            "activity",
+            "approves",
+            "blocks",
+            "car-free",
+            "council",
+            "downtown",
+            "extend",
+            "granville",
+            "leaves",
+            "pedestrian",
+            "pilot",
+            "post-fifa",
+            "seven",
+            "street",
+            "thursday",
+            "voted",
+            "weeks",
+            "world"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "9-7253782",
+          "section": "local",
+          "sectionName": "Local",
+          "focus": "Vancouver and Lower Mainland",
+          "source": "CBC British Columbia",
+          "title": "What's behind all the wild weather in Canada this summer?",
+          "bullet": "What's behind all the wild weather in Canada this summer? (CBC British Columbia, Jul 3)",
+          "description": "Many climate monitors have been predicting an extra-strong El Ni\u00f1o this year that's expected to peak in the winter. But the summer season has already brought weather-related chaos and even devastation for many Canadians. Here's a look at what's going on.",
+          "url": "https://www.cbc.ca/news/canada/summer-weather-canada-storms-heat-wave-2026-9.7253782?cmp=rss",
+          "published": "2026-07-03T08:00:00+00:00",
+          "score": 4.148,
+          "keywords": [
+            "already",
+            "behind",
+            "brought",
+            "canadians",
+            "chaos",
+            "climate",
+            "devastation",
+            "expected",
+            "extra-strong",
+            "going",
+            "monitors",
+            "predicting",
+            "season",
+            "summer",
+            "weather",
+            "weather-related",
+            "winter"
+          ],
+          "relatedSources": []
+        }
+      ]
+    },
+    {
+      "id": "greater-victoria",
+      "name": "Greater Victoria",
+      "focus": "Victoria and Capital Regional District civic updates",
+      "items": [
+        {
+          "id": "https-www-victoria-ca-city-government-news-new-grant-program-boosts-community-ho",
+          "section": "greater-victoria",
+          "sectionName": "Greater Victoria",
+          "focus": "Victoria and Capital Regional District civic updates",
+          "source": "City of Victoria",
+          "title": "New Grant Program Boosts Community Housing and Wellbeing",
+          "bullet": "New Grant Program Boosts Community Housing and Wellbeing (City of Victoria)",
+          "description": "City of Victoria official news update.",
+          "url": "https://www.victoria.ca/city-government/news/new-grant-program-boosts-community-housing-and-wellbeing",
+          "published": "",
+          "score": 3.1,
+          "keywords": [
+            "boosts",
+            "community",
+            "grant",
+            "housing",
+            "program",
+            "wellbeing"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-www-crd-ca-news-crd-announces-katie-hamilton-senior-manager-corporate-comm",
+          "section": "greater-victoria",
+          "sectionName": "Greater Victoria",
+          "focus": "Victoria and Capital Regional District civic updates",
+          "source": "Capital Regional District",
+          "title": "\u200bCRD Announces Katie Hamilton as Senior Manager, Corporate Communications and Engagement",
+          "bullet": "\u200bCRD Announces Katie Hamilton as Senior Manager, Corporate Communications and Engagement (Capital Regional District)",
+          "description": "Capital Regional District official news update.",
+          "url": "https://www.crd.ca/news/crd-announces-katie-hamilton-senior-manager-corporate-communications-and-engagement",
+          "published": "",
+          "score": 2.6,
+          "keywords": [
+            "announces",
+            "capital",
+            "communications",
+            "corporate",
+            "district",
+            "engagement",
+            "hamilton",
+            "katie",
+            "manager",
+            "regional",
+            "senior"
+          ],
+          "relatedSources": [
+            {
+              "source": "Capital Regional District",
+              "title": "The CRD invites public input to help shape the future of transportation in the capital region",
+              "url": "https://www.crd.ca/news/crd-invites-public-input-help-shape-future-transportation-capital-region",
+              "reason": "Same section; shared terms: capital, district, regional."
+            },
+            {
+              "source": "Capital Regional District",
+              "title": "email updates",
+              "url": "https://www.crd.ca/news/subscribe",
+              "reason": "Same section; shared terms: capital, district, regional."
+            },
+            {
+              "source": "Capital Regional District",
+              "title": "Share the Trail: Follow these top five safety tips on CRD Regional Trails",
+              "url": "https://www.crd.ca/news/share-trail-follow-these-top-five-safety-tips-crd-regional-trails",
+              "reason": "Same section; shared terms: capital, district, regional."
+            }
+          ]
+        },
+        {
+          "id": "https-www-crd-ca-news-crd-invites-public-input-help-shape-future-transportation-",
+          "section": "greater-victoria",
+          "sectionName": "Greater Victoria",
+          "focus": "Victoria and Capital Regional District civic updates",
+          "source": "Capital Regional District",
+          "title": "The CRD invites public input to help shape the future of transportation in the capital region",
+          "bullet": "The CRD invites public input to help shape the future of transportation in the capital region (Capital Regional District)",
+          "description": "Capital Regional District official news update.",
+          "url": "https://www.crd.ca/news/crd-invites-public-input-help-shape-future-transportation-capital-region",
+          "published": "",
+          "score": 2.4,
+          "keywords": [
+            "capital",
+            "district",
+            "future",
+            "input",
+            "invites",
+            "region",
+            "regional",
+            "shape",
+            "transportation"
+          ],
+          "relatedSources": [
+            {
+              "source": "Capital Regional District",
+              "title": "\u200bCRD Announces Katie Hamilton as Senior Manager, Corporate Communications and Engagement",
+              "url": "https://www.crd.ca/news/crd-announces-katie-hamilton-senior-manager-corporate-communications-and-engagement",
+              "reason": "Same section; shared terms: capital, district, regional."
+            },
+            {
+              "source": "Capital Regional District",
+              "title": "email updates",
+              "url": "https://www.crd.ca/news/subscribe",
+              "reason": "Same section; shared terms: capital, district, regional."
+            },
+            {
+              "source": "Capital Regional District",
+              "title": "Share the Trail: Follow these top five safety tips on CRD Regional Trails",
+              "url": "https://www.crd.ca/news/share-trail-follow-these-top-five-safety-tips-crd-regional-trails",
+              "reason": "Same section; shared terms: capital, district, regional."
+            }
+          ]
+        },
+        {
+          "id": "https-www-victoria-ca-city-government-news-report-bylaw-violation-form-temporari",
+          "section": "greater-victoria",
+          "sectionName": "Greater Victoria",
+          "focus": "Victoria and Capital Regional District civic updates",
+          "source": "City of Victoria",
+          "title": "Report a Bylaw Violation Form Temporarily Unavailable",
+          "bullet": "Report a Bylaw Violation Form Temporarily Unavailable (City of Victoria)",
+          "description": "City of Victoria official news update.",
+          "url": "https://www.victoria.ca/city-government/news/report-bylaw-violation-form-temporarily-unavailable",
+          "published": "",
+          "score": 1.2,
+          "keywords": [
+            "bylaw",
+            "report",
+            "temporarily",
+            "unavailable",
+            "violation"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-www-victoria-ca-city-government-news-canada-day-holiday-hours-and-parking-",
+          "section": "greater-victoria",
+          "sectionName": "Greater Victoria",
+          "focus": "Victoria and Capital Regional District civic updates",
+          "source": "City of Victoria",
+          "title": "Canada Day Holiday Hours and Parking",
+          "bullet": "Canada Day Holiday Hours and Parking (City of Victoria)",
+          "description": "City of Victoria official news update.",
+          "url": "https://www.victoria.ca/city-government/news/canada-day-holiday-hours-and-parking-3",
+          "published": "",
+          "score": 1.2,
+          "keywords": [
+            "holiday",
+            "hours",
+            "parking"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-www-victoria-ca-city-government-news-victorias-canada-day-2026-what-you-ne",
+          "section": "greater-victoria",
+          "sectionName": "Greater Victoria",
+          "focus": "Victoria and Capital Regional District civic updates",
+          "source": "City of Victoria",
+          "title": "Victoria\u2019s Canada Day 2026: What you need to know",
+          "bullet": "Victoria\u2019s Canada Day 2026: What you need to know (City of Victoria)",
+          "description": "City of Victoria official news update.",
+          "url": "https://www.victoria.ca/city-government/news/victorias-canada-day-2026-what-you-need-know",
+          "published": "",
+          "score": 1.2,
+          "keywords": [],
+          "relatedSources": []
+        },
+        {
+          "id": "https-www-victoria-ca-city-government-news-celebrate-canada-day-inner-harbour",
+          "section": "greater-victoria",
+          "sectionName": "Greater Victoria",
+          "focus": "Victoria and Capital Regional District civic updates",
+          "source": "City of Victoria",
+          "title": "Celebrate Canada Day at the Inner Harbour",
+          "bullet": "Celebrate Canada Day at the Inner Harbour (City of Victoria)",
+          "description": "City of Victoria official news update.",
+          "url": "https://www.victoria.ca/city-government/news/celebrate-canada-day-inner-harbour",
+          "published": "",
+          "score": 1.2,
+          "keywords": [
+            "celebrate",
+            "harbour",
+            "inner"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-www-victoria-ca-city-government-news-new-digital-tools-simplify-permitting",
+          "section": "greater-victoria",
+          "sectionName": "Greater Victoria",
+          "focus": "Victoria and Capital Regional District civic updates",
+          "source": "City of Victoria",
+          "title": "New Digital Tools Simplify Permitting and Speed Up Applications",
+          "bullet": "New Digital Tools Simplify Permitting and Speed Up Applications (City of Victoria)",
+          "description": "City of Victoria official news update.",
+          "url": "https://www.victoria.ca/city-government/news/new-digital-tools-simplify-permitting-and-speed-applications",
+          "published": "",
+          "score": 1.2,
+          "keywords": [
+            "applications",
+            "digital",
+            "permitting",
+            "simplify",
+            "speed",
+            "tools"
+          ],
+          "relatedSources": []
+        }
+      ]
+    },
+    {
+      "id": "provincial",
+      "name": "Provincial",
+      "focus": "British Columbia decisions and policy",
+      "items": [
+        {
+          "id": "https-thetyee-ca-news-2026-07-03-going-happen-again",
+          "section": "provincial",
+          "sectionName": "Provincial",
+          "focus": "British Columbia decisions and policy",
+          "source": "The Tyee",
+          "title": "\u2018It's Going to Happen Again\u2019",
+          "bullet": "\u2018It's Going to Happen Again\u2019 (The Tyee, Jul 3)",
+          "description": "Recalling how wildfire caused chaos in her city five years ago, a Kamloops councillor calls for better planning.",
+          "url": "https://thetyee.ca/News/2026/07/03/Going-Happen-Again/",
+          "published": "2026-07-03T07:10:00+00:00",
+          "score": 4.951,
+          "keywords": [
+            "better",
+            "calls",
+            "caused",
+            "chaos",
+            "councillor",
+            "going",
+            "happen",
+            "kamloops",
+            "planning",
+            "recalling",
+            "wildfire",
+            "years"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-news-gov-bc-ca-releases-2026prem0043-000761",
+          "section": "provincial",
+          "sectionName": "Provincial",
+          "focus": "British Columbia decisions and policy",
+          "source": "BC Government News",
+          "title": "Premier\u2019s statement on Canada Day",
+          "bullet": "Premier\u2019s statement on Canada Day (BC Government News)",
+          "description": "Government of British Columbia release.",
+          "url": "https://news.gov.bc.ca/releases/2026PREM0043-000761",
+          "published": "",
+          "score": 4.85,
+          "keywords": [
+            "premier",
+            "release",
+            "statement"
+          ],
+          "relatedSources": [
+            {
+              "source": "BC Government News",
+              "title": "Attorney general\u2019s statement on Taiwanese Heritage Month",
+              "url": "https://news.gov.bc.ca/releases/2026AG0046-000773",
+              "reason": "Same section; shared terms: release, statement."
+            }
+          ]
+        },
+        {
+          "id": "https-thetyee-ca-culture-2026-07-03-indian-summer-festival-starts-with-laughter",
+          "section": "provincial",
+          "sectionName": "Provincial",
+          "focus": "British Columbia decisions and policy",
+          "source": "The Tyee",
+          "title": "Indian Summer Starts with Laughter",
+          "bullet": "Indian Summer Starts with Laughter (The Tyee, Jul 4)",
+          "description": "Vidura Bandara Rajapaksa\u2019s gentle absurdism sparks a festival in search of togetherness. A Tyee interview.",
+          "url": "https://thetyee.ca/Culture/2026/07/03/Indian-Summer-Festival-Starts-With-Laughter/",
+          "published": "2026-07-04T00:40:00+00:00",
+          "score": 3.724,
+          "keywords": [
+            "absurdism",
+            "bandara",
+            "festival",
+            "gentle",
+            "indian",
+            "interview",
+            "laughter",
+            "rajapaksa",
+            "search",
+            "sparks",
+            "starts",
+            "summer",
+            "togetherness",
+            "vidura"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-thetyee-ca-presents-2026-07-03-powell-street-festival-50th-year",
+          "section": "provincial",
+          "sectionName": "Provincial",
+          "focus": "British Columbia decisions and policy",
+          "source": "The Tyee",
+          "title": "Powell Street Festival Celebrates Its 50th Year",
+          "bullet": "Powell Street Festival Celebrates Its 50th Year (The Tyee, Jul 4)",
+          "description": "The beloved annual celebration of Japanese Canadian culture returns to Oppenheimer Park to mark a milestone anniversary.",
+          "url": "https://thetyee.ca/Presents/2026/07/03/Powell-Street-Festival-50th-Year/",
+          "published": "2026-07-04T00:30:00+00:00",
+          "score": 3.714,
+          "keywords": [
+            "anniversary",
+            "annual",
+            "beloved",
+            "celebrates",
+            "celebration",
+            "culture",
+            "festival",
+            "japanese",
+            "milestone",
+            "oppenheimer",
+            "powell",
+            "returns",
+            "street"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-thetyee-ca-culture-2026-07-03-calgary-confluence-gets-complicated",
+          "section": "provincial",
+          "sectionName": "Provincial",
+          "focus": "British Columbia decisions and policy",
+          "source": "The Tyee",
+          "title": "Calgary\u2019s \u2018Confluence\u2019 Gets Complicated",
+          "bullet": "Calgary\u2019s \u2018Confluence\u2019 Gets Complicated (The Tyee, Jul 4)",
+          "description": "Plans are in place for a historic parkland near the Bow and Elbow Rivers, a significant space for Indigenous Peoples. Were they adequately involved in the process?",
+          "url": "https://thetyee.ca/Culture/2026/07/03/Calgary-Confluence-Gets-Complicated/",
+          "published": "2026-07-04T00:20:00+00:00",
+          "score": 3.705,
+          "keywords": [
+            "adequately",
+            "calgary",
+            "complicated",
+            "confluence",
+            "elbow",
+            "historic",
+            "indigenous",
+            "involved",
+            "parkland",
+            "peoples",
+            "place",
+            "plans",
+            "process",
+            "rivers",
+            "significant",
+            "space"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-thetyee-ca-culture-2026-07-03-radical-magic-estelle-shook-caravan-farm-the",
+          "section": "provincial",
+          "sectionName": "Provincial",
+          "focus": "British Columbia decisions and policy",
+          "source": "The Tyee",
+          "title": "The Radical Magic of Estelle Shook",
+          "bullet": "The Radical Magic of Estelle Shook (The Tyee, Jul 4)",
+          "description": "On a farm in the North Okanagan, Caravan Farm Theatre is a bold reminder of beauty, wonder and transformation. A Tyee Creative Forces interview.",
+          "url": "https://thetyee.ca/Culture/2026/07/03/Radical-Magic-Estelle-Shook-Caravan-Farm-Theatre/",
+          "published": "2026-07-04T00:10:00+00:00",
+          "score": 3.696,
+          "keywords": [
+            "beauty",
+            "caravan",
+            "creative",
+            "estelle",
+            "forces",
+            "interview",
+            "magic",
+            "north",
+            "okanagan",
+            "radical",
+            "reminder",
+            "shook",
+            "theatre",
+            "transformation",
+            "wonder"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-thetyee-ca-news-2026-07-02-stephanie-allen-wants-be-vancouver-mayor",
+          "section": "provincial",
+          "sectionName": "Provincial",
+          "focus": "British Columbia decisions and policy",
+          "source": "The Tyee",
+          "title": "Stephanie Allen Wants to Be Vancouver\u2019s Next Mayor",
+          "bullet": "Stephanie Allen Wants to Be Vancouver\u2019s Next Mayor (The Tyee, Jul 2)",
+          "description": "The former BC Housing exec pledges to use her research and building bona fides to serve the whole city.",
+          "url": "https://thetyee.ca/News/2026/07/02/Stephanie-Allen-Wants-Be-Vancouver-Mayor/",
+          "published": "2026-07-02T07:40:00+00:00",
+          "score": 3.346,
+          "keywords": [
+            "allen",
+            "building",
+            "fides",
+            "former",
+            "housing",
+            "mayor",
+            "pledges",
+            "research",
+            "serve",
+            "stephanie",
+            "wants",
+            "whole"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-thetyee-ca-opinion-2026-07-03-inside-carney-pipeline-deal-alberta-bc",
+          "section": "provincial",
+          "sectionName": "Provincial",
+          "focus": "British Columbia decisions and policy",
+          "source": "The Tyee",
+          "title": "Inside Carney\u2019s Pipeline Deal with Alberta and BC",
+          "bullet": "Inside Carney\u2019s Pipeline Deal with Alberta and BC (The Tyee, Jul 3)",
+          "description": "Taxpayers will be on the hook for billions to bring oil through BC\u2019s Lower Mainland.",
+          "url": "https://thetyee.ca/Opinion/2026/07/03/Inside-Carney-Pipeline-Deal-Alberta-BC/",
+          "published": "2026-07-03T15:15:00+00:00",
+          "score": 3.2,
+          "keywords": [
+            "alberta",
+            "billions",
+            "bring",
+            "carney",
+            "inside",
+            "lower",
+            "mainland",
+            "pipeline",
+            "taxpayers",
+            "through"
+          ],
+          "relatedSources": [
+            {
+              "source": "The Tyee",
+              "title": "Feds Announce Pipeline Steps, BC Advances Protected Areas",
+              "url": "https://thetyee.ca/News/2026/07/03/Feds-Pipeline-Steps-BC-Protected-Areas/",
+              "reason": "Same section; shared terms: alberta, pipeline."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national",
+      "name": "National",
+      "focus": "Canada-wide news and federal politics",
+      "items": [
+        {
+          "id": "9-7258006",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Politics",
+          "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
+          "bullet": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister (CBC Politics, Jul 3)",
+          "description": "Energy Minister Tim Hodgson says a second pipeline to the West Coast will be money well-spent for the federal government but can't say how much Ottawa would be on the hook for.",
+          "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
+          "published": "2026-07-03T22:44:05+00:00",
+          "score": 8.916,
+          "keywords": [
+            "coast",
+            "energy",
+            "federal",
+            "hodgson",
+            "investment",
+            "money",
+            "ottawa",
+            "pipeline",
+            "second",
+            "taxpayers",
+            "well-spent"
+          ],
+          "relatedSources": [
+            {
+              "source": "CBC Politics",
+              "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
+              "reason": "Same section; shared terms: coast, ottawa, pipeline."
+            },
+            {
+              "source": "CBC Politics",
+              "title": "Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu",
+              "url": "https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss",
+              "reason": "Same section; shared terms: federal, ottawa."
+            },
+            {
+              "source": "CBC Politics",
+              "title": "Alberta pitches southern route for West Coast pipeline, with a price tag of $35B or more",
+              "url": "https://www.cbc.ca/news/canada/calgary/alberta-pipeline-proposal-ottawa-major-projects-9.7254251?cmp=rss",
+              "reason": "Same section; shared terms: coast, pipeline."
+            }
+          ]
+        },
+        {
+          "id": "9-7257490",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Politics",
+          "title": "Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu",
+          "bullet": "Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu (CBC Politics, Jul 3)",
+          "description": "Jobs Minister Patty Hajdu says the federal government is exploring possible guardrails or alternatives to using what she says is a \"contentious\" section of the Canada Labour Code that allows Ottawa to intervene in bitter bargaining conflicts.",
+          "url": "https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss",
+          "published": "2026-07-03T18:15:48+00:00",
+          "score": 8.668,
+          "keywords": [
+            "allows",
+            "alternatives",
+            "bargaining",
+            "bitter",
+            "conflicts",
+            "contentious",
+            "exploring",
+            "federal",
+            "guardrails",
+            "hajdu",
+            "intervene",
+            "labour",
+            "ottawa",
+            "patty",
+            "possible",
+            "section",
+            "using",
+            "weigh"
+          ],
+          "relatedSources": [
+            {
+              "source": "CBC Politics",
+              "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
+              "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
+              "reason": "Same section; shared terms: federal, ottawa."
+            }
+          ]
+        },
+        {
+          "id": "9-7257496",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Top Stories",
+          "title": "More than 2,000 Quebec households stranded without a lease after July 1",
+          "bullet": "More than 2,000 Quebec households stranded without a lease after July 1 (CBC Top Stories, Jul 3)",
+          "description": "More than 2,000 Quebec households are still without a home following the province's July 1 moving day. Housing advocates say the increase compared to last year shows that building more apartments isn't enough to solve the affordability crisis.",
+          "url": "https://www.cbc.ca/news/canada/montreal/quebec-rental-market-housing-july-1-9.7257496?cmp=rss",
+          "published": "2026-07-03T16:33:47+00:00",
+          "score": 6.723,
+          "keywords": [
+            "advocates",
+            "affordability",
+            "apartments",
+            "building",
+            "compared",
+            "crisis",
+            "enough",
+            "following",
+            "households",
+            "housing",
+            "increase",
+            "lease",
+            "moving",
+            "quebec",
+            "shows",
+            "solve",
+            "still",
+            "stranded",
+            "without"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "9-7258489",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Top Stories",
+          "title": "Will Alberta pipeline proposal move voters ahead of separation vote?",
+          "bullet": "Will Alberta pipeline proposal move voters ahead of separation vote? (CBC Top Stories, Jul 4)",
+          "description": "",
+          "url": "https://www.cbc.ca/news/canada/calgary/separatism-pipeline-skepticism-9.7258279?cmp=rss",
+          "published": "2026-07-04T05:06:36+00:00",
+          "score": 5.82,
+          "keywords": [
+            "ahead",
+            "alberta",
+            "pipeline",
+            "proposal",
+            "separation",
+            "voters"
+          ],
+          "relatedSources": [
+            {
+              "source": "CBC Politics",
+              "title": "North Coast oil tanker ban being upheld, Port of Vancouver expanding in multibillion-dollar B.C.-Ottawa deal",
+              "url": "https://www.cbc.ca/news/canada/british-columbia/eby-carney-british-columbia-economic-agreeement-pipeline-9.7255633?cmp=rss",
+              "reason": "Same section; shared terms: alberta, pipeline, proposal."
+            },
+            {
+              "source": "CBC Politics",
+              "title": "Alberta pitches southern route for West Coast pipeline, with a price tag of $35B or more",
+              "url": "https://www.cbc.ca/news/canada/calgary/alberta-pipeline-proposal-ottawa-major-projects-9.7254251?cmp=rss",
+              "reason": "Same section; shared terms: alberta, pipeline."
+            },
+            {
+              "source": "CBC Politics",
+              "title": "Alberta pitches new West Coast oil pipeline to B.C.'s South Coast",
+              "url": "https://www.cbc.ca/news/canada/livestory/energy-proposal-ab-bc-west-coast-july-2-live-updates-9.7251535?cmp=rss",
+              "reason": "Same section; shared terms: alberta, pipeline."
+            }
+          ]
+        },
+        {
+          "id": "9-7257293",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Politics",
+          "title": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking",
+          "bullet": "Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking (CBC Politics, Jul 3)",
+          "description": "The U.S. envoy to Canada says 14 months of trade talk between Canada and the Trump administration has resolved few issues. But Pete Hoekstra insists the Americans will keep talking in the hopes of striking an agreement on the future of CUSMA, as well as settling other issues.",
+          "url": "https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss",
+          "published": "2026-07-03T14:42:02+00:00",
+          "score": 5.27,
+          "keywords": [
+            "administration",
+            "agreement",
+            "americans",
+            "between",
+            "cusma",
+            "envoy",
+            "future",
+            "hoekstra",
+            "hopes",
+            "insists",
+            "issues",
+            "months",
+            "negotiations",
+            "other",
+            "progress",
+            "resolved",
+            "settling",
+            "significant",
+            "striking",
+            "talking",
+            "trade",
+            "trump"
+          ],
+          "relatedSources": [
+            {
+              "source": "CBC Politics",
+              "title": "U.S. declines to extend CUSMA trade deal with Canada, Mexico",
+              "url": "https://www.cbc.ca/news/world/cusma-usmca-trump-extension-renewal-9.7255204?cmp=rss",
+              "reason": "Same section; shared terms: administration, agreement, cusma, negotiations."
+            },
+            {
+              "source": "CBC Top Stories",
+              "title": "'Our families were so scared': Indian sea captain fears for other seafarers still stuck in Persian Gulf",
+              "url": "https://www.cbc.ca/news/world/seafarers-stranded-persian-gulf-9.7256255?cmp=rss",
+              "reason": "Same section; shared terms: months, other."
+            }
+          ]
+        },
+        {
+          "id": "9-7256222",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Top Stories",
+          "title": "Gordie Howe bridge cost still $6.4B despite delays, federal authority says",
+          "bullet": "Gordie Howe bridge cost still $6.4B despite delays, federal authority says (CBC Top Stories, Jul 3)",
+          "description": "The cost of the new Gordie Howe bridge connecting Windsor and Detroit is still $6.4 billion despite multiple delays, according to the federal authority that oversees the bridge.",
+          "url": "https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-cost-delays-construction-funding-2026-9.7256222?cmp=rss",
+          "published": "2026-07-03T19:43:54+00:00",
+          "score": 5.099,
+          "keywords": [
+            "according",
+            "authority",
+            "billion",
+            "bridge",
+            "connecting",
+            "delays",
+            "despite",
+            "detroit",
+            "federal",
+            "gordie",
+            "multiple",
+            "oversees",
+            "still",
+            "windsor"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "9-7257775",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Top Stories",
+          "title": "Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage",
+          "bullet": "Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage (CBC Top Stories, Jul 3)",
+          "description": "A chemotherapy ingredient that's in short supply in Canada can temporarily be imported and sold from a Chinese-authorized source instead, Health Canada says.",
+          "url": "https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss",
+          "published": "2026-07-03T19:37:12+00:00",
+          "score": 5.093,
+          "keywords": [
+            "chemo",
+            "chemotherapy",
+            "chinese-authorized",
+            "critical",
+            "health",
+            "import",
+            "imported",
+            "ingredient",
+            "injection",
+            "instead",
+            "permits",
+            "short",
+            "shortage",
+            "source",
+            "supply",
+            "temporarily",
+            "temporary"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "9-7257195",
+          "section": "national",
+          "sectionName": "National",
+          "focus": "Canada-wide news and federal politics",
+          "source": "CBC Top Stories",
+          "title": "Ontario couple sentenced to life in prison for murdering boy 'got what they deserved,' brother tells court",
+          "bullet": "Ontario couple sentenced to life in prison for murdering boy 'got what they deserved,' brother tells court (CBC Top Stories, Jul 3)",
+          "description": "",
+          "url": "https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.7258020?cmp=rss",
+          "published": "2026-07-03T13:35:54+00:00",
+          "score": 4.759,
+          "keywords": [
+            "brother",
+            "couple",
+            "court",
+            "deserved",
+            "murdering",
+            "ontario",
+            "prison",
+            "sentenced",
+            "tells"
+          ],
+          "relatedSources": []
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "World",
+      "focus": "Major global developments",
+      "items": [
+        {
+          "id": "https-www-aljazeera-com-t-1783109402",
+          "section": "world",
+          "sectionName": "World",
+          "focus": "Major global developments",
+          "source": "Al Jazeera",
+          "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
+          "bullet": "Thousands forced to evacuate in Colorado as wildfire spreads (Al Jazeera, Jul 3)",
+          "description": "The Aspen Acres Fire, one of about 40 wildfires burning across western US, has destroyed homes and forced evacuations.",
+          "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
+          "published": "2026-07-03T21:32:05+00:00",
+          "score": 7.25,
+          "keywords": [
+            "acres",
+            "across",
+            "aspen",
+            "burning",
+            "colorado",
+            "destroyed",
+            "evacuate",
+            "evacuations",
+            "forced",
+            "homes",
+            "spreads",
+            "thousands",
+            "western",
+            "wildfire",
+            "wildfires"
+          ],
+          "relatedSources": [
+            {
+              "source": "Al Jazeera",
+              "title": "Massive wildfire spreads in Portugal amid extreme heat and strong wind",
+              "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/massive-wildfire-spreads-in-portugal-amid-extreme-heat-and-strong-wind?traffic_source=rss",
+              "reason": "Same section; shared terms: across, spreads, wildfire."
+            }
+          ]
+        },
+        {
+          "id": "https-www-aljazeera-com-t-1783119972",
+          "section": "world",
+          "sectionName": "World",
+          "focus": "Major global developments",
+          "source": "Al Jazeera",
+          "title": "England vs Mexico World Cup knockout match to go ahead as scheduled",
+          "bullet": "England vs Mexico World Cup knockout match to go ahead as scheduled (Al Jazeera, Jul 4)",
+          "description": "No decision was ever made to reschedule the kickoff time of 6pm local time in Mexico City, sources tell Al Jazeera.",
+          "url": "https://www.aljazeera.com/sports/2026/7/4/england-vs-mexico-world-cup-knockout-match-to-go-ahead-as-scheduled?traffic_source=rss",
+          "published": "2026-07-04T00:07:04+00:00",
+          "score": 5.893,
+          "keywords": [
+            "ahead",
+            "decision",
+            "england",
+            "jazeera",
+            "kickoff",
+            "knockout",
+            "local",
+            "match",
+            "mexico",
+            "reschedule",
+            "scheduled",
+            "sources",
+            "world"
+          ],
+          "relatedSources": [
+            {
+              "source": "Al Jazeera",
+              "title": "FIFA World Cup: Round of 16 match schedule and which teams qualified",
+              "url": "https://www.aljazeera.com/sports/2026/7/4/fifa-world-cup-round-of-16-match-schedule-which-teams-qualified?traffic_source=rss",
+              "reason": "Same section; shared terms: match, world."
+            },
+            {
+              "source": "Al Jazeera",
+              "title": "Ahead of Morocco vs Canada at the World Cup, comparisons arise with the 2022 team",
+              "url": "https://www.aljazeera.com/sports/2026/7/4/ahead-of-morocco-vs-canada-at-the-world-cup-comparisons-arise-with-the-2022-team?traffic_source=rss",
+              "reason": "Same section; shared terms: ahead, world."
+            },
+            {
+              "source": "Al Jazeera",
+              "title": "Egypt coach dedicates World Cup win to Palestine as Gaza celebrates",
+              "url": "https://www.aljazeera.com/sports/2026/7/4/egypt-coach-dedicates-world-cup-win-to-palestine-as-arab-world-celebrates?traffic_source=rss",
+              "reason": "Same section; shared terms: match, world."
+            }
+          ]
+        },
+        {
+          "id": "https-www-aljazeera-com-t-1783107795",
+          "section": "world",
+          "sectionName": "World",
+          "focus": "Major global developments",
+          "source": "Al Jazeera",
+          "title": "Massive wildfire spreads in Portugal amid extreme heat and strong wind",
+          "bullet": "Massive wildfire spreads in Portugal amid extreme heat and strong wind (Al Jazeera, Jul 3)",
+          "description": "A raging wildfire near Vouzela in central Portugal spread across several municipalities, driven by winds and heat",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/massive-wildfire-spreads-in-portugal-amid-extreme-heat-and-strong-wind?traffic_source=rss",
+          "published": "2026-07-03T21:01:17+00:00",
+          "score": 5.721,
+          "keywords": [
+            "across",
+            "central",
+            "driven",
+            "extreme",
+            "massive",
+            "municipalities",
+            "portugal",
+            "raging",
+            "several",
+            "spread",
+            "spreads",
+            "strong",
+            "vouzela",
+            "wildfire",
+            "winds"
+          ],
+          "relatedSources": [
+            {
+              "source": "Al Jazeera",
+              "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
+              "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
+              "reason": "Same section; shared terms: across, spreads, wildfire."
+            }
+          ]
+        },
+        {
+          "id": "https-www-aljazeera-com-t-1783120592",
+          "section": "world",
+          "sectionName": "World",
+          "focus": "Major global developments",
+          "source": "Al Jazeera",
+          "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+          "bullet": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei (Al Jazeera, Jul 4)",
+          "description": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+          "published": "2026-07-04T00:00:00+00:00",
+          "score": 5.387,
+          "keywords": [
+            "according",
+            "another",
+            "attacks",
+            "child",
+            "civil",
+            "continue",
+            "defence",
+            "drone",
+            "expected",
+            "funeral",
+            "injured",
+            "israeli",
+            "khamenei",
+            "killed",
+            "millions",
+            "strike",
+            "tehran"
+          ],
+          "relatedSources": [
+            {
+              "source": "BBC World",
+              "title": "Iran begins public mourning for Ayatollah killed in February",
+              "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+              "reason": "Same section; shared terms: funeral, khamenei, killed, tehran."
+            }
+          ]
+        },
+        {
+          "id": "https-www-aljazeera-com-t-1783115267",
+          "section": "world",
+          "sectionName": "World",
+          "focus": "Major global developments",
+          "source": "Al Jazeera",
+          "title": "Venezuela\u2019s Rodriguez blames \u2018propaganda\u2019 for quake response backlash",
+          "bullet": "Venezuela\u2019s Rodriguez blames \u2018propaganda\u2019 for quake response backlash (Al Jazeera, Jul 3)",
+          "description": "Venezuela's acting president Delcy Rodriguez dismissed criticism of the government's response.",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/7/3/venezuelas-rodriguez-blames-propaganda-for-quake-response-backlash-2?traffic_source=rss",
+          "published": "2026-07-03T21:49:17+00:00",
+          "score": 5.266,
+          "keywords": [
+            "acting",
+            "backlash",
+            "blames",
+            "criticism",
+            "delcy",
+            "dismissed",
+            "president",
+            "propaganda",
+            "quake",
+            "response",
+            "rodriguez",
+            "venezuela"
+          ],
+          "relatedSources": [
+            {
+              "source": "BBC World",
+              "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+              "url": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+              "reason": "Same section; shared terms: quake, venezuela."
+            },
+            {
+              "source": "BBC World",
+              "title": "Venezuela quake survivor pulled out alive after eight days",
+              "url": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+              "reason": "Same section; shared terms: quake, venezuela."
+            }
+          ]
+        },
+        {
+          "id": "https-www-bbc-co-uk-news-articles-cx2k4k7jqeno-0",
+          "section": "world",
+          "sectionName": "World",
+          "focus": "Major global developments",
+          "source": "BBC World",
+          "title": "Iran begins public mourning for Ayatollah killed in February",
+          "bullet": "Iran begins public mourning for Ayatollah killed in February (BBC World, Jul 4)",
+          "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+          "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-04T04:12:06+00:00",
+          "score": 5.17,
+          "keywords": [
+            "ahead",
+            "ayatollah",
+            "begins",
+            "days-long",
+            "events",
+            "february",
+            "friday",
+            "funeral",
+            "grand",
+            "khamenei",
+            "killed",
+            "mosalla",
+            "mourning",
+            "state",
+            "tehran"
+          ],
+          "relatedSources": [
+            {
+              "source": "Al Jazeera",
+              "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+              "reason": "Same section; shared terms: funeral, khamenei, killed, tehran."
+            }
+          ]
+        },
+        {
+          "id": "https-www-aljazeera-com-t-1783106750",
+          "section": "world",
+          "sectionName": "World",
+          "focus": "Major global developments",
+          "source": "Al Jazeera",
+          "title": "Is China\u2019s new ethnic unity law a step towards forced assimilation?",
+          "bullet": "Is China\u2019s new ethnic unity law a step towards forced assimilation? (Al Jazeera, Jul 3)",
+          "description": "The government says the law will help forge a shared national identity.",
+          "url": "https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss",
+          "published": "2026-07-03T19:59:27+00:00",
+          "score": 5.164,
+          "keywords": [
+            "assimilation",
+            "china",
+            "ethnic",
+            "forced",
+            "forge",
+            "identity",
+            "national",
+            "shared",
+            "towards",
+            "unity"
+          ],
+          "relatedSources": []
+        },
+        {
+          "id": "https-www-bbc-co-uk-news-articles-cvge0gd6lnqo-1",
+          "section": "world",
+          "sectionName": "World",
+          "focus": "Major global developments",
+          "source": "BBC World",
+          "title": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
+          "bullet": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister (BBC World, Jul 3)",
+          "description": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
+          "url": "https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss",
+          "published": "2026-07-03T16:39:00+00:00",
+          "score": 5.128,
+          "keywords": [
+            "africa",
+            "anger",
+            "brother",
+            "corruption",
+            "decade-old",
+            "finger",
+            "former",
+            "gupta",
+            "india",
+            "meeting",
+            "middle",
+            "president",
+            "reignites",
+            "scandal",
+            "showing",
+            "south"
+          ],
+          "relatedSources": [
+            {
+              "source": "BBC World",
+              "title": "Killers of British couple in South Africa sentenced to life",
+              "url": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
+              "reason": "Same section; shared terms: africa, south."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "focus": "Aotearoa New Zealand news and politics",
+      "items": [
+        {
+          "id": "830db9349fc8d6e004e274a26d04b0ee4a751c47",
+          "section": "new-zealand",
+          "sectionName": "New Zealand",
+          "focus": "Aotearoa New Zealand news and politics",
+          "source": "RNZ National",
+          "title": "Environmental group hails court decision on orange roughy catch-limit",
+          "bullet": "Environmental group hails court decision on orange roughy catch-limit (RNZ National, Jul 2)",
+          "description": "A judge has found a former minister failed to consider protection for important environments, like spawning grounds, when deciding the limit.",
+          "url": "https://www.rnz.co.nz/news/crime-and-justice/657361/environmental-group-hails-court-decision-on-orange-roughy-catch-limit",
+          "published": "2026-07-02T19:11:50+00:00",
+          "score": 7.736,
+          "keywords": [
+            "catch-limit",
+            "consider",
+            "court",
+            "deciding",
+            "decision",
+            "environmental",
+            "environments",
+            "failed",
+            "former",
+            "found",
+            "grounds",
+            "group",
+            "hails",
+            "important",
+            "judge",
+            "limit",
+            "orange",
+            "protection",
+            "roughy",
+            "spawning"
+          ],
+          "relatedSources": [
+            {
+              "source": "RNZ National",
+              "title": "Kim Dotcom's legal battle to stay in NZ and avoid extradition to the US: A timeline",
+              "url": "https://www.rnz.co.nz/news/crime-and-justice/652867/kim-dotcom-s-legal-battle-to-stay-in-nz-and-avoid-extradition-to-the-us-a-timeline",
+              "reason": "Same section; shared terms: court, failed."
+            }
+          ]
+        },
+        {
+          "id": "c18ec177cdaa5995de6eeb1ee38b2ccd13195cd6",
+          "section": "new-zealand",
+          "sectionName": "New Zealand",
+          "focus": "Aotearoa New Zealand news and politics",
+          "source": "RNZ News",
+          "title": "Woman adopted 21 children from overseas, but people trafficking ruled out",
+          "bullet": "Woman adopted 21 children from overseas, but people trafficking ruled out (RNZ News, Jul 4)",
+          "description": "Legislation going through Parliament will ensure international adoptions from some countries will have to go through the Family Court.",
+          "url": "https://www.rnz.co.nz/news/political/665957/woman-adopted-21-children-from-overseas-but-people-trafficking-ruled-out",
+          "published": "2026-07-04T01:05:30+00:00",
+          "score": 7.297,
+          "keywords": [
+            "adopted",
+            "adoptions",
+            "children",
+            "countries",
+            "court",
+            "ensure",
+            "family",
+            "going",
+            "international",
+            "legislation",
+            "overseas",
+            "parliament",
+            "ruled",
+            "through",
+            "trafficking",
+            "woman"
+          ],
+          "relatedSources": [
+            {
+              "source": "RNZ National",
+              "title": "'Incredibly disheartening': Airborne asbestos found in children's play sand",
+              "url": "https://www.rnz.co.nz/news/health/651994/incredibly-disheartening-airborne-asbestos-found-in-children-s-play-sand",
+              "reason": "Same section; shared terms: children, through."
+            }
+          ]
+        },
+        {
+          "id": "45aacb429bea7548a310ffad8672cc5d0544f4a4",
+          "section": "new-zealand",
+          "sectionName": "New Zealand",
+          "focus": "Aotearoa New Zealand news and politics",
+          "source": "RNZ News",
+          "title": "Waikato Hospital ward will not be ready until 2027, health minister says",
+          "bullet": "Waikato Hospital ward will not be ready until 2027, health minister says (RNZ News, Jul 3)",
+          "description": "The new 28-bed ward was supposed to be ready this year.",
+          "url": "https://www.rnz.co.nz/news/political/659839/waikato-hospital-ward-will-not-be-ready-until-2027-health-minister-says",
+          "published": "2026-07-03T03:42:14+00:00",
+          "score": 6.109,
+          "keywords": [
+            "health",
+            "hospital",
+            "ready",
+            "supposed",
+            "until",
+            "waikato"
+          ],
+          "relatedSources": [
+            {
+              "source": "RNZ National",
+              "title": "Barrister takes health insurer to court over refusal to pay for ADHD diagnosis",
+              "url": "https://www.rnz.co.nz/news/health/657278/barrister-takes-health-insurer-to-court-over-refusal-to-pay-for-adhd-diagnosis",
+              "reason": "Same section; shared terms: health, waikato."
+            },
+            {
+              "source": "RNZ News",
+              "title": "Potential human rights abuses uncovered at Dunedin's Wakari Hospital - ombudsman",
+              "url": "https://www.rnz.co.nz/news/health/660871/potential-human-rights-abuses-uncovered-at-dunedin-s-wakari-hospital-ombudsman",
+              "reason": "Same section; shared terms: health, hospital."
+            }
+          ]
+        },
+        {
+          "id": "5b78e088f284ac05df0f4ae30be1d661577d1e50",
+          "section": "new-zealand",
+          "sectionName": "New Zealand",
+          "focus": "Aotearoa New Zealand news and politics",
+          "source": "RNZ National",
+          "title": "Smell of gas in Auckland sparks school evacuation, FENZ call-outs",
+          "bullet": "Smell of gas in Auckland sparks school evacuation, FENZ call-outs (RNZ National, Jul 2)",
+          "description": "Fire and Emergency crews have been chasing the smell of a gas leak in several Auckland locations on Thursday morning.",
+          "url": "https://www.rnz.co.nz/news/emergencies_local/653213/smell-of-gas-in-auckland-sparks-school-evacuation-fenz-call-outs",
+          "published": "2026-07-02T00:02:02+00:00",
+          "score": 5.872,
+          "keywords": [
+            "auckland",
+            "call-outs",
+            "chasing",
+            "crews",
+            "emergency",
+            "evacuation",
+            "locations",
+            "morning",
+            "school",
+            "several",
+            "smell",
+            "sparks",
+            "thursday"
+          ],
+          "relatedSources": [
+            {
+              "source": "RNZ News",
+              "title": "Smell of smoke in Air NZ plane cabin triggers emergency reponse at Christchurch Airport",
+              "url": "https://www.rnz.co.nz/news/emergency/666897/smell-of-smoke-in-air-nz-plane-cabin-triggers-emergency-reponse-at-christchurch-airport",
+              "reason": "Same section; shared terms: emergency, several, smell."
+            }
+          ]
+        },
+        {
+          "id": "3ba8533edfb821d8dfcf8b4f569336f40ae18570",
+          "section": "new-zealand",
+          "sectionName": "New Zealand",
+          "focus": "Aotearoa New Zealand news and politics",
+          "source": "RNZ News",
+          "title": "Smell of smoke in Air NZ plane cabin triggers emergency reponse at Christchurch Airport",
+          "bullet": "Smell of smoke in Air NZ plane cabin triggers emergency reponse at Christchurch Airport (RNZ News, Jul 4)",
+          "description": "Several fire trucks can be seen on the runway with police also in attendance.",
+          "url": "https://www.rnz.co.nz/news/emergency/666897/smell-of-smoke-in-air-nz-plane-cabin-triggers-emergency-reponse-at-christchurch-airport",
+          "published": "2026-07-04T04:12:54+00:00",
+          "score": 5.571,
+          "keywords": [
+            "airport",
+            "attendance",
+            "cabin",
+            "christchurch",
+            "emergency",
+            "plane",
+            "police",
+            "reponse",
+            "runway",
+            "several",
+            "smell",
+            "smoke",
+            "triggers",
+            "trucks"
+          ],
+          "relatedSources": [
+            {
+              "source": "RNZ National",
+              "title": "Smell of gas in Auckland sparks school evacuation, FENZ call-outs",
+              "url": "https://www.rnz.co.nz/news/emergencies_local/653213/smell-of-gas-in-auckland-sparks-school-evacuation-fenz-call-outs",
+              "reason": "Same section; shared terms: emergency, several, smell."
+            },
+            {
+              "source": "RNZ News",
+              "title": "Six Christchurch businesses hit within 90 minutes during early morning break-ins",
+              "url": "https://www.rnz.co.nz/news/emergencies_local/666671/six-christchurch-businesses-hit-within-90-minutes-during-early-morning-break-ins",
+              "reason": "Same section; shared terms: christchurch, police."
+            }
+          ]
+        },
+        {
+          "id": "de991613ef7b78a6f50b467fc90a83ede5f7a618",
+          "section": "new-zealand",
+          "sectionName": "New Zealand",
+          "focus": "Aotearoa New Zealand news and politics",
+          "source": "RNZ News",
+          "title": "Rangatahi use kapa haka to share identity, stories and healing",
+          "bullet": "Rangatahi use kapa haka to share identity, stories and healing (RNZ News, Jul 3)",
+          "description": "The country's top secondary school kapa haka groups are preparing to take the stage for Friday's national finals in Tauranga Moana.",
+          "url": "https://www.rnz.co.nz/news/te-manu-korihi/657276/rangatahi-use-kapa-haka-to-share-identity-stories-and-healing",
+          "published": "2026-07-03T03:57:47+00:00",
+          "score": 5.423,
+          "keywords": [
+            "country",
+            "finals",
+            "friday",
+            "groups",
+            "healing",
+            "identity",
+            "moana",
+            "national",
+            "preparing",
+            "rangatahi",
+            "school",
+            "secondary",
+            "share",
+            "stage",
+            "stories",
+            "tauranga"
+          ],
+          "relatedSources": [
+            {
+              "source": "RNZ News",
+              "title": "Te Koutu from Rotorua wins Secondary Schools Kapa Haka Title",
+              "url": "https://www.rnz.co.nz/news/te-manu-korihi/661772/te-koutu-from-rotorua-wins-secondary-schools-kapa-haka-title",
+              "reason": "Same section; shared terms: friday, groups, secondary."
+            },
+            {
+              "source": "RNZ National",
+              "title": "One in five secondary teacher vacancies unable to be filled - survey",
+              "url": "https://www.rnz.co.nz/news/education/657354/one-in-five-secondary-teacher-vacancies-unable-to-be-filled-survey",
+              "reason": "Same section; shared terms: school, secondary."
+            }
+          ]
+        },
+        {
+          "id": "fbc1e7c92ad2347e207285be7216fbd613ba6038",
+          "section": "new-zealand",
+          "sectionName": "New Zealand",
+          "focus": "Aotearoa New Zealand news and politics",
+          "source": "RNZ National",
+          "title": "Barrister takes health insurer to court over refusal to pay for ADHD diagnosis",
+          "bullet": "Barrister takes health insurer to court over refusal to pay for ADHD diagnosis (RNZ National, Jul 2)",
+          "description": "The Waikato man says he thinks Southern Cross has denied the claim in bad faith.",
+          "url": "https://www.rnz.co.nz/news/health/657278/barrister-takes-health-insurer-to-court-over-refusal-to-pay-for-adhd-diagnosis",
+          "published": "2026-07-02T19:42:32+00:00",
+          "score": 5.365,
+          "keywords": [
+            "barrister",
+            "claim",
+            "court",
+            "cross",
+            "denied",
+            "diagnosis",
+            "faith",
+            "health",
+            "insurer",
+            "refusal",
+            "southern",
+            "takes",
+            "thinks",
+            "waikato"
+          ],
+          "relatedSources": [
+            {
+              "source": "RNZ News",
+              "title": "Waikato Hospital ward will not be ready until 2027, health minister says",
+              "url": "https://www.rnz.co.nz/news/political/659839/waikato-hospital-ward-will-not-be-ready-until-2027-health-minister-says",
+              "reason": "Same section; shared terms: health, waikato."
+            },
+            {
+              "source": "RNZ National",
+              "title": "Kim Dotcom's legal battle to stay in NZ and avoid extradition to the US: A timeline",
+              "url": "https://www.rnz.co.nz/news/crime-and-justice/652867/kim-dotcom-s-legal-battle-to-stay-in-nz-and-avoid-extradition-to-the-us-a-timeline",
+              "reason": "Same section; shared terms: court, health."
+            }
+          ]
+        },
+        {
+          "id": "4a2e70c966950e27015a6634c2b7cb5fcb9b53aa",
+          "section": "new-zealand",
+          "sectionName": "New Zealand",
+          "focus": "Aotearoa New Zealand news and politics",
+          "source": "RNZ National",
+          "title": "Government to go ahead with expansion of programme to help young children's language",
+          "bullet": "Government to go ahead with expansion of programme to help young children's language (RNZ National, Jul 2)",
+          "description": "Education Minister Erica Stanford said the Enrich scheme running 65 early childhood services would grow to 525.",
+          "url": "https://www.rnz.co.nz/news/political/654063/government-to-go-ahead-with-expansion-of-programme-to-help-young-children-s-language",
+          "published": "2026-07-02T03:12:22+00:00",
+          "score": 4.748,
+          "keywords": [
+            "ahead",
+            "childhood",
+            "children",
+            "early",
+            "education",
+            "enrich",
+            "erica",
+            "expansion",
+            "language",
+            "programme",
+            "running",
+            "scheme",
+            "services",
+            "stanford",
+            "young"
+          ],
+          "relatedSources": [
+            {
+              "source": "RNZ News",
+              "title": "Advisory group proposes axing pay parity for early childhood teachers",
+              "url": "https://www.rnz.co.nz/news/education/659998/advisory-group-proposes-axing-pay-parity-for-early-childhood-teachers",
+              "reason": "Same section; shared terms: childhood, early, scheme."
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "government": {
+    "sections": [
+      {
+        "id": "federal-bills",
+        "name": "Federal Bills",
+        "focus": "Bills currently moving through Parliament of Canada",
+        "source": "LEGISinfo",
+        "sourceUrl": "https://www.parl.ca/legisinfo/en/bills",
+        "items": [
+          {
+            "id": "legisinfo-s-5",
+            "title": "S-5: An Act respecting the interoperability of health information technology and to prohibit data blocking by health information technology vendors",
+            "status": "At second reading in the House of Commons",
+            "description": "Respecting the interoperability of health information technology and to prohibit data blocking by health information technology vendors. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-5",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 8,
+            "category": "Health",
+            "importanceReasons": [
+              "Principle of the bill is being debated.",
+              "Touches health."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-4",
+            "title": "S-4: An Act to amend the Energy Efficiency Act",
+            "status": "At second reading in the House of Commons",
+            "description": "amend the Energy Efficiency Act. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-4",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 7,
+            "category": "Energy",
+            "importanceReasons": [
+              "Principle of the bill is being debated.",
+              "Touches energy."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-207",
+            "title": "S-207: An Act to amend the Criminal Records Act, to make consequential amendments to other Acts and to repeal a regulation",
+            "status": "At second reading in the Senate",
+            "description": "amend the Criminal Records Act, to make consequential amendments to other Acts and to repeal a regulation. Current status: At second reading in the Senate. Last major stage completed: First reading in the Senate.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-207",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 7,
+            "category": "Justice",
+            "importanceReasons": [
+              "Principle of the bill is being debated.",
+              "Touches justice."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-208",
+            "title": "S-208: An Act to amend the Criminal Code (independence of the judiciary)",
+            "status": "At second reading in the Senate",
+            "description": "amend the Criminal Code (independence of the judiciary). Current status: At second reading in the Senate. Last major stage completed: First reading in the Senate.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-208",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 7,
+            "category": "Justice",
+            "importanceReasons": [
+              "Principle of the bill is being debated.",
+              "Touches justice."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-215",
+            "title": "S-215: An Act respecting National Immigration Month",
+            "status": "At second reading in the House of Commons",
+            "description": "Respecting National Immigration Month. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-215",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 7,
+            "category": "Immigration",
+            "importanceReasons": [
+              "Principle of the bill is being debated.",
+              "Touches immigration."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-202",
+            "title": "S-202: An Act to amend the Food and Drugs Act (warning label on alcoholic beverages)",
+            "status": "At third reading in the Senate",
+            "description": "amend the Food and Drugs Act (warning label on alcoholic beverages). Current status: At third reading in the Senate. Last major stage completed: Second reading in the Senate.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-202",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 5,
+            "category": "General legislation",
+            "importanceReasons": [
+              "Near the final stage of passage."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-210",
+            "title": "S-210: An Act respecting Ukrainian Heritage Month",
+            "status": "At third reading in the House of Commons",
+            "description": "Respecting Ukrainian Heritage Month. Current status: At third reading in the House of Commons. Last major stage completed: Second reading in the House of Commons.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-210",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 5,
+            "category": "General legislation",
+            "importanceReasons": [
+              "Near the final stage of passage."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-2",
+            "title": "S-2: An Act to amend the Indian Act (new registration entitlements)",
+            "status": "At consideration in committee in the House of Commons",
+            "description": "amend the Indian Act (new registration entitlements). Current status: At consideration in committee in the House of Commons. Last major stage completed: Second reading in the House of Commons.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-2",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 4,
+            "category": "General legislation",
+            "importanceReasons": [
+              "Under detailed review or amendment."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-201",
+            "title": "S-201: An Act respecting a national framework on sickle cell disease",
+            "status": "At consideration in committee in the House of Commons",
+            "description": "Respecting a national framework on sickle cell disease. Current status: At consideration in committee in the House of Commons. Last major stage completed: Second reading in the House of Commons.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-201",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 4,
+            "category": "General legislation",
+            "importanceReasons": [
+              "Under detailed review or amendment."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-204",
+            "title": "S-204: An Act to establish a national framework on heart failure",
+            "status": "At consideration in committee in the Senate",
+            "description": "establish a national framework on heart failure. Current status: At consideration in committee in the Senate. Last major stage completed: Second reading in the Senate.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-204",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 4,
+            "category": "General legislation",
+            "importanceReasons": [
+              "Under detailed review or amendment."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-206",
+            "title": "S-206: An Act to develop a national framework for a guaranteed livable basic income",
+            "status": "At consideration in committee in the Senate",
+            "description": "develop a national framework for a guaranteed livable basic income. Current status: At consideration in committee in the Senate. Last major stage completed: Second reading in the Senate.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-206",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 4,
+            "category": "General legislation",
+            "importanceReasons": [
+              "Under detailed review or amendment."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "legisinfo-s-211",
+            "title": "S-211: An Act respecting a national framework on sports betting advertising",
+            "status": "At consideration in committee in the House of Commons",
+            "description": "Respecting a national framework on sports betting advertising. Current status: At consideration in committee in the House of Commons. Last major stage completed: Second reading in the House of Commons.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-211",
+            "source": "LEGISinfo",
+            "date": "",
+            "priority": 4,
+            "category": "General legislation",
+            "importanceReasons": [
+              "Under detailed review or amendment."
+            ],
+            "outcome": "active"
+          }
+        ]
+      },
+      {
+        "id": "recent-federal-context",
+        "name": "Recent Federal Context",
+        "focus": "High-impact recent federal laws to keep in view when the live bill tracker is unavailable",
+        "source": "Parliament of Canada",
+        "sourceUrl": "",
+        "items": [
+          {
+            "id": "recent-federal-context-c-19-canada-groceries-and-essentials-benefit-act",
+            "title": "C-19: Canada Groceries and Essentials Benefit Act",
+            "status": "Became law",
+            "description": "Affordability measure replacing or expanding the GST/HST credit framework with a groceries and essentials benefit for lower-income households.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-19",
+            "source": "Parliament of Canada",
+            "date": "",
+            "priority": 9,
+            "category": "Affordability",
+            "importanceReasons": [
+              "Direct affordability impact for lower-income households."
+            ],
+            "outcome": "passed"
+          },
+          {
+            "id": "recent-federal-context-c-5-one-canadian-economy-act",
+            "title": "C-5: One Canadian Economy Act",
+            "status": "Became law",
+            "description": "Economic and infrastructure legislation focused on interprovincial trade, labour mobility, and major project approvals.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-5",
+            "source": "Parliament of Canada",
+            "date": "",
+            "priority": 8,
+            "category": "Economy & Infrastructure",
+            "importanceReasons": [
+              "Touches infrastructure, trade barriers, labour mobility, and economic development."
+            ],
+            "outcome": "passed"
+          }
+        ]
+      },
+      {
+        "id": "bc-bills",
+        "name": "BC Legislature",
+        "focus": "Provincial bill progress and current legislative sessions",
+        "source": "Legislative Assembly of BC",
+        "sourceUrl": "https://www.leg.bc.ca/parliamentary-business/overview/43rd-parliament/1st-session/bills/progress-of-bills",
+        "items": [
+          {
+            "id": "https-www-leg-bc-ca-parliamentary-business-overview-43rd-parliament-1st-session-",
+            "title": "BC Legislature",
+            "status": "Official tracker",
+            "description": "Open Legislative Assembly of BC for the latest official bill progress and sitting details.",
+            "url": "https://www.leg.bc.ca/parliamentary-business/overview/43rd-parliament/1st-session/bills/progress-of-bills",
+            "source": "Legislative Assembly of BC",
+            "date": "",
+            "priority": 1,
+            "category": "Tracker",
+            "importanceReasons": [
+              "Official source link kept available when parsed status is unavailable."
+            ],
+            "outcome": "tracker"
+          }
+        ]
+      },
+      {
+        "id": "esquimalt-meetings",
+        "name": "Esquimalt Council",
+        "focus": "Council, committee, agenda, and public notice tracking",
+        "source": "Esquimalt Legistar",
+        "sourceUrl": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+        "items": [
+          {
+            "id": "esquimalt-legistar-advisory-planning-commission-7-21-2026-7-00-pm",
+            "title": "Advisory Planning Commission - 7/21/2026",
+            "status": "7:00 PM",
+            "description": "Esquimalt",
+            "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+            "source": "Esquimalt Legistar",
+            "date": "7/21/2026",
+            "priority": 1,
+            "category": "Municipal meeting",
+            "importanceReasons": [
+              "Upcoming local decision-making forum."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "esquimalt-legistar-council-7-20-2026-7-00-pm",
+            "title": "Council - 7/20/2026",
+            "status": "7:00 PM",
+            "description": "Esquimalt Municipal Hall",
+            "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+            "source": "Esquimalt Legistar",
+            "date": "7/20/2026",
+            "priority": 2,
+            "category": "Municipal meeting",
+            "importanceReasons": [
+              "Upcoming local decision-making forum."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "esquimalt-legistar-committee-of-the-whole-7-13-2026-6-00-pm",
+            "title": "Committee of the Whole - 7/13/2026",
+            "status": "6:00 PM",
+            "description": "Esquimalt",
+            "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+            "source": "Esquimalt Legistar",
+            "date": "7/13/2026",
+            "priority": 1,
+            "category": "Municipal meeting",
+            "importanceReasons": [
+              "Upcoming local decision-making forum."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "esquimalt-legistar-apc-design-review-committee-7-8-2026-2-30-pm",
+            "title": "APC Design Review Committee - 7/8/2026",
+            "status": "2:30 PM",
+            "description": "Esquimalt",
+            "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+            "source": "Esquimalt Legistar",
+            "date": "7/8/2026",
+            "priority": 1,
+            "category": "Municipal meeting",
+            "importanceReasons": [
+              "Upcoming local decision-making forum."
+            ],
+            "outcome": "active"
+          },
+          {
+            "id": "esquimalt-legistar-council-7-6-2026-6-00-pm",
+            "title": "Council - 7/6/2026",
+            "status": "6:00 PM",
+            "description": "Esquimalt Municipal Hall THE REGULAR MEETING OF COUNCIL RECONVENES AT 7:00 PM WITH MEMBERS OF THE PUBLIC IN ATTENDANCE",
+            "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+            "source": "Esquimalt Legistar",
+            "date": "7/6/2026",
+            "priority": 2,
+            "category": "Municipal meeting",
+            "importanceReasons": [
+              "Upcoming local decision-making forum."
+            ],
+            "outcome": "active"
+          }
+        ]
+      },
+      {
+        "id": "victoria-council",
+        "name": "Victoria Council",
+        "focus": "City of Victoria council and committee meeting tracker",
+        "source": "City of Victoria",
+        "sourceUrl": "https://www.victoria.ca/city-government/mayor-council/council-committee-meetings",
+        "items": [
+          {
+            "id": "https-www-victoria-ca-city-government-mayor-council-council-committee-meetings",
+            "title": "Victoria Council",
+            "status": "Official tracker",
+            "description": "Open City of Victoria for the latest official bill progress and sitting details.",
+            "url": "https://www.victoria.ca/city-government/mayor-council/council-committee-meetings",
+            "source": "City of Victoria",
+            "date": "",
+            "priority": 1,
+            "category": "Tracker",
+            "importanceReasons": [
+              "Official source link kept available when parsed status is unavailable."
+            ],
+            "outcome": "tracker"
+          }
+        ]
+      },
+      {
+        "id": "crd-board",
+        "name": "CRD Board",
+        "focus": "Capital Regional District board, committee, and meeting tracker",
+        "source": "Capital Regional District",
+        "sourceUrl": "https://www.crd.ca/about/board-committees/meeting-schedule",
+        "items": [
+          {
+            "id": "https-www-crd-ca-about-board-committees-meeting-schedule",
+            "title": "CRD Board",
+            "status": "Official tracker",
+            "description": "Open Capital Regional District for the latest official bill progress and sitting details.",
+            "url": "https://www.crd.ca/about/board-committees/meeting-schedule",
+            "source": "Capital Regional District",
+            "date": "",
+            "priority": 1,
+            "category": "Tracker",
+            "importanceReasons": [
+              "Official source link kept available when parsed status is unavailable."
+            ],
+            "outcome": "tracker"
+          }
+        ]
+      }
+    ],
+    "highlights": {
+      "policyWatch": [
+        {
+          "id": "policy-https-www-bbc-co-uk-news-articles-cn75ex1dv61o-2",
+          "title": "Gaza patients face agonising delays for medical evacuation",
+          "status": "BBC World",
+          "description": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+          "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC World",
+          "sectionName": "World",
+          "category": "War & Security, Public Safety",
+          "importanceReasons": [
+            "Relevant to war & security, public safety; surfaced from World coverage."
+          ],
+          "priority": 15.948,
+          "outcome": "policy_watch"
+        },
+        {
+          "id": "policy-9-7257496",
+          "title": "More than 2,000 Quebec households stranded without a lease after July 1",
+          "status": "CBC Top Stories",
+          "description": "More than 2,000 Quebec households are still without a home following the province's July 1 moving day. Housing advocates say the increase compared to last year shows that building more apartments isn't enough to solve the affordability crisis.",
+          "url": "https://www.cbc.ca/news/canada/montreal/quebec-rental-market-housing-july-1-9.7257496?cmp=rss",
+          "source": "CBC Top Stories",
+          "sectionName": "National",
+          "category": "Affordability, Housing",
+          "importanceReasons": [
+            "Relevant to affordability, housing; surfaced from National coverage."
+          ],
+          "priority": 14.723,
+          "outcome": "policy_watch"
+        },
+        {
+          "id": "policy-https-vancouver-citynews-ca-p-4455578",
+          "title": "Out-of-control wildfire near Boston Bar has evacuation notice",
+          "status": "CityNews Vancouver",
+          "description": "An out-of-control wildfire is burning near Boston Bar, along Chaumox Road, near Brunswick Creek. The fire is currently 14 hectares in size. An evacuation alert has been issued for the Brunswick Creek area, issued by the Fraser Valley Regional District. BC Wildfire Service says that the fire is human caused.",
+          "url": "https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/",
+          "source": "CityNews Vancouver",
+          "sectionName": "Local",
+          "category": "Public Safety",
+          "importanceReasons": [
+            "Relevant to public safety; surfaced from Local coverage."
+          ],
+          "priority": 14.413,
+          "outcome": "policy_watch"
+        },
+        {
+          "id": "policy-9-7258006",
+          "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
+          "status": "CBC Politics",
+          "description": "Energy Minister Tim Hodgson says a second pipeline to the West Coast will be money well-spent for the federal government but can't say how much Ottawa would be on the hook for.",
+          "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
+          "source": "CBC Politics",
+          "sectionName": "National",
+          "category": "Climate & Infrastructure",
+          "importanceReasons": [
+            "Relevant to climate & infrastructure; surfaced from National coverage."
+          ],
+          "priority": 13.916,
+          "outcome": "policy_watch"
+        },
+        {
+          "id": "policy-9-7257775",
+          "title": "Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage",
+          "status": "CBC Top Stories",
+          "description": "A chemotherapy ingredient that's in short supply in Canada can temporarily be imported and sold from a Chinese-authorized source instead, Health Canada says.",
+          "url": "https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss",
+          "source": "CBC Top Stories",
+          "sectionName": "National",
+          "category": "Public Safety, Health",
+          "importanceReasons": [
+            "Relevant to public safety, health; surfaced from National coverage."
+          ],
+          "priority": 13.093,
+          "outcome": "policy_watch"
+        },
+        {
+          "id": "policy-https-www-aljazeera-com-t-1783111844",
+          "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
+          "status": "Al Jazeera",
+          "description": "A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.",
+          "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sectionName": "World",
+          "category": "War & Security, Public Safety",
+          "importanceReasons": [
+            "Relevant to war & security, public safety; surfaced from World coverage."
+          ],
+          "priority": 11.594,
+          "outcome": "policy_watch"
+        },
+        {
+          "id": "policy-9-7257665",
+          "title": "New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires",
+          "status": "CBC British Columbia",
+          "description": "Three provinces are lending a helping hand to Quebec's wildfire prevention and suppression agency in its efforts to combat fires.",
+          "url": "https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss",
+          "source": "CBC British Columbia",
+          "sectionName": "Local",
+          "category": "Public Safety",
+          "importanceReasons": [
+            "Relevant to public safety; surfaced from Local coverage."
+          ],
+          "priority": 10.72,
+          "outcome": "policy_watch"
+        },
+        {
+          "id": "policy-https-www-aljazeera-com-t-1783120592",
+          "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+          "status": "Al Jazeera",
+          "description": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+          "source": "Al Jazeera",
+          "sectionName": "World",
+          "category": "War & Security",
+          "importanceReasons": [
+            "Relevant to war & security; surfaced from World coverage."
+          ],
+          "priority": 10.387,
+          "outcome": "policy_watch"
+        }
+      ],
+      "important": [
+        {
+          "id": "recent-federal-context-c-19-canada-groceries-and-essentials-benefit-act",
+          "title": "C-19: Canada Groceries and Essentials Benefit Act",
+          "status": "Became law",
+          "description": "Affordability measure replacing or expanding the GST/HST credit framework with a groceries and essentials benefit for lower-income households.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-19",
+          "source": "Parliament of Canada",
+          "sectionName": "Recent Federal Context",
+          "category": "Affordability",
+          "importanceReasons": [
+            "Direct affordability impact for lower-income households."
+          ],
+          "priority": 9,
+          "outcome": "passed"
+        },
+        {
+          "id": "legisinfo-s-5",
+          "title": "S-5: An Act respecting the interoperability of health information technology and to prohibit data blocking by health information technology vendors",
+          "status": "At second reading in the House of Commons",
+          "description": "Respecting the interoperability of health information technology and to prohibit data blocking by health information technology vendors. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-5",
+          "source": "LEGISinfo",
+          "sectionName": "Federal Bills",
+          "category": "Health",
+          "importanceReasons": [
+            "Principle of the bill is being debated.",
+            "Touches health."
+          ],
+          "priority": 8,
+          "outcome": "active"
+        },
+        {
+          "id": "recent-federal-context-c-5-one-canadian-economy-act",
+          "title": "C-5: One Canadian Economy Act",
+          "status": "Became law",
+          "description": "Economic and infrastructure legislation focused on interprovincial trade, labour mobility, and major project approvals.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-5",
+          "source": "Parliament of Canada",
+          "sectionName": "Recent Federal Context",
+          "category": "Economy & Infrastructure",
+          "importanceReasons": [
+            "Touches infrastructure, trade barriers, labour mobility, and economic development."
+          ],
+          "priority": 8,
+          "outcome": "passed"
+        },
+        {
+          "id": "legisinfo-s-4",
+          "title": "S-4: An Act to amend the Energy Efficiency Act",
+          "status": "At second reading in the House of Commons",
+          "description": "amend the Energy Efficiency Act. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-4",
+          "source": "LEGISinfo",
+          "sectionName": "Federal Bills",
+          "category": "Energy",
+          "importanceReasons": [
+            "Principle of the bill is being debated.",
+            "Touches energy."
+          ],
+          "priority": 7,
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-207",
+          "title": "S-207: An Act to amend the Criminal Records Act, to make consequential amendments to other Acts and to repeal a regulation",
+          "status": "At second reading in the Senate",
+          "description": "amend the Criminal Records Act, to make consequential amendments to other Acts and to repeal a regulation. Current status: At second reading in the Senate. Last major stage completed: First reading in the Senate.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-207",
+          "source": "LEGISinfo",
+          "sectionName": "Federal Bills",
+          "category": "Justice",
+          "importanceReasons": [
+            "Principle of the bill is being debated.",
+            "Touches justice."
+          ],
+          "priority": 7,
+          "outcome": "active"
+        }
+      ],
+      "passed": [
+        {
+          "id": "recent-federal-context-c-19-canada-groceries-and-essentials-benefit-act",
+          "title": "C-19: Canada Groceries and Essentials Benefit Act",
+          "status": "Became law",
+          "description": "Affordability measure replacing or expanding the GST/HST credit framework with a groceries and essentials benefit for lower-income households.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-19",
+          "source": "Parliament of Canada",
+          "sectionName": "Recent Federal Context",
+          "category": "Affordability",
+          "importanceReasons": [
+            "Direct affordability impact for lower-income households."
+          ],
+          "priority": 9,
+          "outcome": "passed"
+        },
+        {
+          "id": "recent-federal-context-c-5-one-canadian-economy-act",
+          "title": "C-5: One Canadian Economy Act",
+          "status": "Became law",
+          "description": "Economic and infrastructure legislation focused on interprovincial trade, labour mobility, and major project approvals.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-5",
+          "source": "Parliament of Canada",
+          "sectionName": "Recent Federal Context",
+          "category": "Economy & Infrastructure",
+          "importanceReasons": [
+            "Touches infrastructure, trade barriers, labour mobility, and economic development."
+          ],
+          "priority": 8,
+          "outcome": "passed"
+        }
+      ],
+      "notPassed": []
+    },
+    "errors": []
+  },
+  "sports": {
+    "scoreboards": [
+      {
+        "id": "sports-world-cup",
+        "title": "World Cup",
+        "status": "Scores & fixtures",
+        "description": "Official FIFA World Cup 2026 scores, fixtures, groups, and match centre.",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "source": "FIFA",
+        "scoreSource": "ESPN",
+        "matches": [
+          {
+            "id": "760499-australia-egypt",
+            "text": "Australia 1-1 Egypt (FT-Pens)",
+            "note": "Jul 3: Egypt advance 4-2 on penalties",
+            "date": "2026-07-03T18:00:00+00:00",
+            "url": "https://www.espn.com/soccer/match/_/gameId/760499/egypt-australia"
+          },
+          {
+            "id": "760500-argentina-cape-verde",
+            "text": "Argentina 3-2 Cape Verde (AET)",
+            "note": "Jul 3: Argentina beat Cape Verde 3-2 in extra time",
+            "date": "2026-07-03T22:00:00+00:00",
+            "url": "https://www.espn.com/soccer/match/_/gameId/760500/cape-verde-argentina"
+          },
+          {
+            "id": "760501-colombia-ghana",
+            "text": "Colombia 1-0 Ghana (FT)",
+            "note": "Jul 3: Arias guides Colombia past Ghana into round of 16",
+            "date": "2026-07-04T01:30:00+00:00",
+            "url": "https://www.espn.com/soccer/match/_/gameId/760501/ghana-colombia"
+          }
+        ]
+      },
+      {
+        "id": "sports-champions-league",
+        "title": "Champions League",
+        "status": "Fixtures & results",
+        "description": "Official UEFA Champions League fixtures, results, and match centre.",
+        "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
+        "source": "UEFA",
+        "scoreSource": "ESPN",
+        "matches": [
+          {
+            "id": "401862897-psg-arsenal",
+            "text": "PSG 1-1 Arsenal (FT-Pens)",
+            "note": "May 30: Paris Saint-Germain win 4-3 on penalties",
+            "date": "2026-05-30T16:00:00+00:00",
+            "url": "https://www.espn.com/soccer/match/_/gameId/401862897/arsenal-paris-saint-germain"
+          }
+        ]
+      },
+      {
+        "id": "sports-premier-league",
+        "title": "Premier League",
+        "status": "Fixtures & results",
+        "description": "Official Premier League fixtures, results, and match centre.",
+        "url": "https://www.premierleague.com/fixtures",
+        "source": "Premier League",
+        "scoreSource": "ESPN",
+        "matches": [
+          {
+            "id": "401879301-arsenal-coventry",
+            "text": "Arsenal vs Coventry",
+            "note": "Fri 12:00 PM",
+            "date": "2026-08-21T19:00:00+00:00",
+            "url": "https://www.espn.com/soccer/match/_/gameId/401879301/coventry-city-arsenal"
+          }
+        ]
+      },
+      {
+        "id": "sports-nba",
+        "title": "NBA",
+        "status": "Scores & schedule",
+        "description": "NBA scores, schedule, game status, and playoff notes.",
+        "url": "https://www.nba.com/games",
+        "source": "NBA",
+        "scoreSource": "ESPN",
+        "matches": [
+          {
+            "id": "401859967-spurs-knicks",
+            "text": "Spurs 90-94 Knicks (Final)",
+            "note": "Jun 13: NBA Finals - Game 5",
+            "date": "2026-06-14T00:30:00+00:00",
+            "url": "https://www.espn.com/nba/game/_/gameId/401859967/knicks-spurs"
+          }
+        ]
+      }
+    ],
+    "sections": [
+      {
+        "id": "football-news",
+        "name": "Football News",
+        "focus": "Most relevant soccer and football headlines",
+        "items": [
+          {
+            "id": "https-www-theguardian-com-football-2026-jul-03-maddy-cusack-jonathan-morgan-wome",
+            "section": "football-news",
+            "sectionName": "Football News",
+            "focus": "Most relevant sports headlines",
+            "source": "The Guardian Football",
+            "title": "Concerns raised about Jonathan Morgan prior to Maddy Cusack\u2019s death, inquest told",
+            "bullet": "Concerns raised about Jonathan Morgan prior to Maddy Cusack\u2019s death, inquest told (The Guardian Football, Jul 3)",
+            "description": "Former Sheffield United player Nina Wilson \u2018tried to escalate concerns\u2019 Morgan to give evidence to inquest on Monday The former Sheffield United goalkeeper Nina Wilson has told an inquest that she had \u201ctried to escalate concerns\u201d about the manager Jonathan Morgan prior to her teammate Maddy Cusack\u2019s death in 2023, but she did not feel she was listened to. Wilson, who told the hearing that she had ended her own football career when she was aged 25 because of those experiences, said that neither she nor Cusack had known who the club\u2019s safeguarding officer was, and she listed a series of recommendations to the court, including calling for whistleblowing routes to be clearer to players and for...",
+            "url": "https://www.theguardian.com/football/2026/jul/03/maddy-cusack-jonathan-morgan-womens-football-inquest",
+            "published": "2026-07-03T20:46:33+00:00",
+            "score": 6.657,
+            "keywords": [
+              "because",
+              "calling",
+              "career",
+              "clearer",
+              "concerns",
+              "court",
+              "cusack",
+              "death",
+              "ended",
+              "escalate",
+              "evidence",
+              "experiences",
+              "football",
+              "former",
+              "goalkeeper",
+              "hearing",
+              "including",
+              "inquest",
+              "jonathan",
+              "known",
+              "listed",
+              "listened",
+              "maddy",
+              "manager"
+            ]
+          },
+          {
+            "id": "https-www-bbc-co-uk-sport-football-videos-cg53p2qym2jo-5",
+            "section": "football-news",
+            "sectionName": "Football News",
+            "focus": "Most relevant sports headlines",
+            "source": "BBC Football",
+            "title": "'I decided last minute!' - Salah on Panenka penalty",
+            "bullet": "'I decided last minute!' - Salah on Panenka penalty (BBC Football, Jul 3)",
+            "description": "Mo Salah explains it was a last-minute decision to \"Panenka\" his penalty for Egypt after they beat Australia in a shootout to progress to the last 16 of the 2026 World Cup.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss",
+            "published": "2026-07-03T21:31:17+00:00",
+            "score": 5.899,
+            "keywords": [
+              "australia",
+              "decided",
+              "decision",
+              "egypt",
+              "explains",
+              "last-minute",
+              "minute",
+              "panenka",
+              "penalty",
+              "progress",
+              "salah",
+              "shootout",
+              "world"
+            ]
+          },
+          {
+            "id": "https-www-bbc-co-uk-sport-football-videos-crr8pz45409o-1",
+            "section": "football-news",
+            "sectionName": "Football News",
+            "focus": "Most relevant sports headlines",
+            "source": "BBC Football",
+            "title": "Arias strike sends Colombia into last 16 with victory over Ghana",
+            "bullet": "Arias strike sends Colombia into last 16 with victory over Ghana (BBC Football, Jul 4)",
+            "description": "Jhon Arias scores the only goal of the game as Colombia become the last team to book their place in the last 16 following a 1-0 win over Ghana in Kansas City.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/crr8pz45409o?at_medium=RSS&at_campaign=rss",
+            "published": "2026-07-04T04:12:20+00:00",
+            "score": 5.77,
+            "keywords": [
+              "arias",
+              "become",
+              "colombia",
+              "following",
+              "ghana",
+              "kansas",
+              "place",
+              "scores",
+              "sends",
+              "strike",
+              "victory"
+            ]
+          },
+          {
+            "id": "https-www-bbc-co-uk-sport-football-videos-c9q23jpee23o-1",
+            "section": "football-news",
+            "sectionName": "Football News",
+            "focus": "Most relevant sports headlines",
+            "source": "BBC Football",
+            "title": "'What a strike!' - Cabral hits brilliant goal to draw Cape Verde level in extra time",
+            "bullet": "'What a strike!' - Cabral hits brilliant goal to draw Cape Verde level in extra time (BBC Football, Jul 4)",
+            "description": "Sidny Cabral scores an incredible goal in extra time for Cape Verde as they equalise for a second time against Argentina.",
+            "url": "https://www.bbc.co.uk/sport/football/videos/c9q23jpee23o?at_medium=RSS&at_campaign=rss",
+            "published": "2026-07-04T00:58:28+00:00",
+            "score": 5.591,
+            "keywords": [
+              "argentina",
+              "brilliant",
+              "cabral",
+              "equalise",
+              "extra",
+              "incredible",
+              "level",
+              "scores",
+              "second",
+              "sidny",
+              "strike",
+              "verde"
+            ]
+          },
+          {
+            "id": "https-www-theguardian-com-football-2026-jul-04-colombia-ghana-world-cup-2026-las",
+            "section": "football-news",
+            "sectionName": "Football News",
+            "focus": "Most relevant sports headlines",
+            "source": "The Guardian Football",
+            "title": "Jhon Arias goal sends Colombia into last 16 as Ghana bow out of World Cup",
+            "bullet": "Jhon Arias goal sends Colombia into last 16 as Ghana bow out of World Cup (The Guardian Football, Jul 4)",
+            "description": "Ghana can only have feared the worst when Luis Su\u00e1rez\u2019s number came up in the seventh minute. A day on from the 16th anniversary of one of the most infamous episodes in World Cup history, the Colombia forward who shares a name with the man whose handball broke the hearts of Black Stars supporters in the quarter-finals of the 2010 World Cup returned to haunt them. Not long after coming off the bench, it was the Sporting striker who provided the assist for what turned out to be the winning goal from Jhon Arias to set up a last-16 clash against Switzerland in Vancouver on Tuesday. Even if they couldn\u2019t find another goal that their superiority clearly warranted, Colombia were deserved winners...",
+            "url": "https://www.theguardian.com/football/2026/jul/04/colombia-ghana-world-cup-2026-last-32-match-report",
+            "published": "2026-07-04T03:44:49+00:00",
+            "score": 5.345,
+            "keywords": [
+              "anniversary",
+              "another",
+              "arias",
+              "assist",
+              "bench",
+              "black",
+              "broke",
+              "clash",
+              "clearly",
+              "colombia",
+              "coming",
+              "couldn",
+              "deserved",
+              "episodes",
+              "feared",
+              "forward",
+              "ghana",
+              "handball",
+              "haunt",
+              "hearts",
+              "history",
+              "infamous",
+              "last-",
+              "minute"
+            ]
+          },
+          {
+            "id": "https-www-theguardian-com-football-2026-jul-03-ange-postecoglou-head-coach-al-na",
+            "section": "football-news",
+            "sectionName": "Football News",
+            "focus": "Most relevant sports headlines",
+            "source": "The Guardian Football",
+            "title": "Ange Postecoglou to manage Cristiano Ronaldo after landing Al-Nassr job",
+            "bullet": "Ange Postecoglou to manage Cristiano Ronaldo after landing Al-Nassr job (The Guardian Football, Jul 3)",
+            "description": "Former Tottenham manager signs two-year contract Al-Nassr won the Saudi Pro League last season Ange Postecoglou has been appointed as the new head coach of the Saudi Pro League champions, \u2060Al-Nassr, on a two-year deal as the Australian attempts \u2060to revive his \u2060career \u200bafter two bruising stints in the Premier League. \u201cA new chapter. Mr Ange Postecoglou appointed as \u2060head coach of the Al-Nassr first team. The contract spans two seasons,\u201d the club said in a statement. \u201cWe \u2060wish him and his staff every success in their journey.\u201d Continue reading...",
+            "url": "https://www.theguardian.com/football/2026/jul/03/ange-postecoglou-head-coach-al-nassr-cristiano-ronaldo",
+            "published": "2026-07-03T17:22:56+00:00",
+            "score": 5.269,
+            "keywords": [
+              "al-nassr",
+              "appointed",
+              "attempts",
+              "australian",
+              "bruising",
+              "career",
+              "champions",
+              "chapter",
+              "coach",
+              "continue",
+              "contract",
+              "cristiano",
+              "every",
+              "first",
+              "former",
+              "journey",
+              "landing",
+              "league",
+              "manage",
+              "manager",
+              "postecoglou",
+              "premier",
+              "reading",
+              "revive"
+            ]
+          },
+          {
+            "id": "https-www-theguardian-com-football-2026-jul-03-fulham-move-for-west-ham-crysenci",
+            "section": "football-news",
+            "sectionName": "Football News",
+            "focus": "Most relevant sports headlines",
+            "source": "The Guardian Football",
+            "title": "Fulham make move for Crysencio Summerville while Granit Xhaka stays at Sunderland",
+            "bullet": "Fulham make move for Crysencio Summerville while Granit Xhaka stays at Sunderland (The Guardian Football, Jul 3)",
+            "description": "Chelsea and Manchester United also interested in winger Real Madrid issue statement denying Fern\u00e1ndez contact Fulham have joined the race to sign Crysencio Summerville from West Ham. The winger is expected to move this summer and is attracting interest from a host of Premier League clubs. Chelsea and Manchester United have been monitoring Summerville, who is likely to leave West Ham following their relegation from the Premier League, but it remains to be seen whether the Netherlands international earns a move to one of the top flight\u2019s leading sides. Continue reading...",
+            "url": "https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-ham-crysencio-summerville",
+            "published": "2026-07-03T17:18:07+00:00",
+            "score": 5.264,
+            "keywords": [
+              "attracting",
+              "chelsea",
+              "clubs",
+              "contact",
+              "continue",
+              "crysencio",
+              "denying",
+              "earns",
+              "expected",
+              "flight",
+              "following",
+              "fulham",
+              "granit",
+              "interest",
+              "interested",
+              "international",
+              "issue",
+              "joined",
+              "leading",
+              "league",
+              "leave",
+              "likely",
+              "madrid",
+              "manchester"
+            ]
+          },
+          {
+            "id": "https-www-bbc-co-uk-sport-football-articles-cp8r4dp1l6wo-7",
+            "section": "football-news",
+            "sectionName": "Football News",
+            "focus": "Most relevant sports headlines",
+            "source": "BBC Football",
+            "title": "Aston Villa sign Norway midfielder Kielland",
+            "bullet": "Aston Villa sign Norway midfielder Kielland (BBC Football, Jul 3)",
+            "description": "Norway midfielder Justine Kielland joins Aston Villa from German club Wolfsburg, subject to visa approval. Kielland joined Norwegian side Brann in 2023. During her time there, she helped the club reach the quarter-finals of the Women's Champions League, playing in 12 matches and scoring four goals.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cp8r4dp1l6wo?at_medium=RSS&at_campaign=rss",
+            "published": "2026-07-03T10:02:54+00:00",
+            "score": 4.461,
+            "keywords": [
+              "approval",
+              "aston",
+              "brann",
+              "champions",
+              "german",
+              "goals",
+              "helped",
+              "joined",
+              "joins",
+              "justine",
+              "kielland",
+              "league",
+              "matches",
+              "midfielder",
+              "norway",
+              "norwegian",
+              "playing",
+              "quarter-finals",
+              "reach",
+              "scoring",
+              "subject",
+              "villa",
+              "wolfsburg",
+              "women"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "nba-news",
+        "name": "NBA News & Trades",
+        "focus": "NBA scores context, trades, rumors, free agency, draft, and roster moves",
+        "items": [
+          {
+            "id": "https-www-hoopsrumors-com-p-482671",
+            "section": "nba-news",
+            "sectionName": "NBA News & Trades",
+            "focus": "Most relevant sports headlines",
+            "source": "Hoops Rumors",
+            "title": "Windhorst\u2019s Latest: Brown Trade, Centers, Salary Cap",
+            "bullet": "Windhorst\u2019s Latest: Brown Trade, Centers, Salary Cap (Hoops Rumors, Jul 4)",
+            "description": "The Celtics\u2018 surprising decision to trade Jaylen Brown to the division rival Sixers for a seemingly light return package has led to a renewed ...",
+            "url": "https://www.hoopsrumors.com/2026/07/windhorsts-latest-brown-trade-centers-salary-cap.html",
+            "published": "2026-07-04T00:45:50+00:00",
+            "score": 8.029,
+            "keywords": [
+              "brown",
+              "celtics",
+              "centers",
+              "decision",
+              "division",
+              "jaylen",
+              "light",
+              "package",
+              "renewed",
+              "return",
+              "rival",
+              "salary",
+              "seemingly",
+              "sixers",
+              "surprising",
+              "trade",
+              "windhorst"
+            ]
+          },
+          {
+            "id": "us-en-49254909",
+            "section": "nba-news",
+            "sectionName": "NBA News & Trades",
+            "focus": "Most relevant sports headlines",
+            "source": "ESPN NBA",
+            "title": "NBA execs on Brown trade, big-money bigs and an un...",
+            "bullet": "NBA execs on Brown trade, big-money bigs and an un... (ESPN NBA, Jul 4)",
+            "description": "After the Jaylen Brown trade, hundreds of millions spent on centers and a shocking cap development, here's the latest NBA buzz as we enter Week 2 of free agency.",
+            "url": "https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap",
+            "published": "2026-07-04T05:19:13+00:00",
+            "score": 7.682,
+            "keywords": [
+              "agency",
+              "big-money",
+              "brown",
+              "centers",
+              "development",
+              "enter",
+              "execs",
+              "hundreds",
+              "jaylen",
+              "millions",
+              "shocking",
+              "spent",
+              "trade"
+            ]
+          },
+          {
+            "id": "us-en-48377855",
+            "section": "nba-news",
+            "sectionName": "NBA News & Trades",
+            "focus": "Most relevant sports headlines",
+            "source": "ESPN NBA",
+            "title": "NBA free agency is here! Live updates on deals, tr...",
+            "bullet": "NBA free agency is here! Live updates on deals, tr... (ESPN NBA, Jul 3)",
+            "description": "We're tracking deals, trades and buzz across the NBA, including the latest on LeBron's next move.",
+            "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+            "published": "2026-07-03T14:55:16+00:00",
+            "score": 6.882,
+            "keywords": [
+              "across",
+              "agency",
+              "deals",
+              "including",
+              "lebron",
+              "tracking",
+              "trades"
+            ]
+          },
+          {
+            "id": "us-en-49241663",
+            "section": "nba-news",
+            "sectionName": "NBA News & Trades",
+            "focus": "Most relevant sports headlines",
+            "source": "ESPN NBA",
+            "title": "\ud83c\udfc0 Winners, losers and dominoes from free agency",
+            "bullet": "\ud83c\udfc0 Winners, losers and dominoes from free agency (ESPN NBA, Jul 4)",
+            "description": "Which teams are dominating the offseason? Which already wish they could hit the reset button? We picked 10 winners and losers from fee agency.",
+            "url": "https://www.espn.com/nba/story/_/id/49241663/nba-free-agency-2026-winners-losers-teams-trades-signings-contracts-better-worse",
+            "published": "2026-07-04T03:55:48+00:00",
+            "score": 5.705,
+            "keywords": [
+              "agency",
+              "already",
+              "button",
+              "dominating",
+              "dominoes",
+              "losers",
+              "offseason",
+              "picked",
+              "reset",
+              "teams",
+              "which",
+              "winners"
+            ]
+          },
+          {
+            "id": "https-www-hoopsrumors-com-p-482659",
+            "section": "nba-news",
+            "sectionName": "NBA News & Trades",
+            "focus": "Most relevant sports headlines",
+            "source": "Hoops Rumors",
+            "title": "Spurs Sign All Four 2026 Draft Picks",
+            "bullet": "Spurs Sign All Four 2026 Draft Picks (Hoops Rumors, Jul 3)",
+            "description": "The Spurs have signed first-round picks Jayden Quaintance (No. 20 overall) and Tarris Reed Jr. (No. 26) to their rookie scale contracts, the team ...",
+            "url": "https://www.hoopsrumors.com/2026/07/spurs-sign-all-four-2026-draft-picks.html",
+            "published": "2026-07-03T20:34:13+00:00",
+            "score": 4.896,
+            "keywords": [
+              "contracts",
+              "draft",
+              "first-round",
+              "jayden",
+              "overall",
+              "picks",
+              "quaintance",
+              "rookie",
+              "scale",
+              "signed",
+              "spurs",
+              "tarris"
+            ]
+          },
+          {
+            "id": "https-www-hoopsrumors-com-p-482778",
+            "section": "nba-news",
+            "sectionName": "NBA News & Trades",
+            "focus": "Most relevant sports headlines",
+            "source": "Hoops Rumors",
+            "title": "Caleb Wilson, Dailyn Swain, Keaton Wagler Sign Rookie Deals",
+            "bullet": "Caleb Wilson, Dailyn Swain, Keaton Wagler Sign Rookie Deals (Hoops Rumors, Jul 4)",
+            "description": "Bulls first-rounders Caleb Wilson and Dailyn Swain signed their rookie scale contracts on Friday, according to NBA.com\u2019s transaction log. Wilson and Swain were among ...",
+            "url": "https://www.hoopsrumors.com/2026/07/caleb-wilson-dailyn-swain-keaton-wagler-sign-rookie-deals.html",
+            "published": "2026-07-04T05:27:38+00:00",
+            "score": 4.19,
+            "keywords": [
+              "according",
+              "among",
+              "bulls",
+              "caleb",
+              "contracts",
+              "dailyn",
+              "deals",
+              "first-rounders",
+              "friday",
+              "keaton",
+              "rookie",
+              "scale",
+              "signed",
+              "swain",
+              "transaction",
+              "wagler",
+              "wilson"
+            ]
+          },
+          {
+            "id": "https-www-hoopsrumors-com-p-482752",
+            "section": "nba-news",
+            "sectionName": "NBA News & Trades",
+            "focus": "Most relevant sports headlines",
+            "source": "Hoops Rumors",
+            "title": "Chris Manon Re-Signs With Lakers On Two-Way Contract",
+            "bullet": "Chris Manon Re-Signs With Lakers On Two-Way Contract (Hoops Rumors, Jul 4)",
+            "description": "Restricted free agent guard Chris Manon has re-signed with the Lakers on another two-way contract, the team announced in a press release (Twitter link ...",
+            "url": "https://www.hoopsrumors.com/2026/07/chris-manon-re-signs-with-lakers-on-two-way-contract.html",
+            "published": "2026-07-04T03:23:50+00:00",
+            "score": 4.075,
+            "keywords": [
+              "agent",
+              "announced",
+              "another",
+              "chris",
+              "contract",
+              "guard",
+              "lakers",
+              "manon",
+              "press",
+              "re-signed",
+              "re-signs",
+              "release",
+              "restricted",
+              "twitter",
+              "two-way"
+            ]
+          },
+          {
+            "id": "https-www-hoopsrumors-com-p-482749",
+            "section": "nba-news",
+            "sectionName": "NBA News & Trades",
+            "focus": "Most relevant sports headlines",
+            "source": "Hoops Rumors",
+            "title": "Labaron Philon Jr. Signs Rookie Scale Deal With Sixers",
+            "bullet": "Labaron Philon Jr. Signs Rookie Scale Deal With Sixers (Hoops Rumors, Jul 4)",
+            "description": "Former Alabama star Labaron Philon Jr. has officially signed his rookie scale contract with the Sixers, according to the NBA\u2019s transaction log. The 6\u20194\u2033 ...",
+            "url": "https://www.hoopsrumors.com/2026/07/labaron-philon-jr-signs-rookie-scale-deal-with-sixers.html",
+            "published": "2026-07-04T03:03:02+00:00",
+            "score": 4.056,
+            "keywords": [
+              "according",
+              "alabama",
+              "contract",
+              "former",
+              "labaron",
+              "officially",
+              "philon",
+              "rookie",
+              "scale",
+              "signed",
+              "signs",
+              "sixers",
+              "transaction"
+            ]
+          }
+        ]
+      }
+    ],
+    "errors": []
+  },
+  "errors": [
+    "Lookout: source returned curl exit 28"
+  ]
+}

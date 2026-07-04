@@ -1,0 +1,631 @@
+{
+  "sections": [
+    {
+      "id": "federal-bills",
+      "name": "Federal Bills",
+      "focus": "Bills currently moving through Parliament of Canada",
+      "source": "LEGISinfo",
+      "sourceUrl": "https://www.parl.ca/legisinfo/en/bills",
+      "items": [
+        {
+          "id": "legisinfo-s-5",
+          "title": "S-5: An Act respecting the interoperability of health information technology and to prohibit data blocking by health information technology vendors",
+          "status": "At second reading in the House of Commons",
+          "description": "Respecting the interoperability of health information technology and to prohibit data blocking by health information technology vendors. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-5",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 8,
+          "category": "Health",
+          "importanceReasons": [
+            "Principle of the bill is being debated.",
+            "Touches health."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-4",
+          "title": "S-4: An Act to amend the Energy Efficiency Act",
+          "status": "At second reading in the House of Commons",
+          "description": "amend the Energy Efficiency Act. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-4",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 7,
+          "category": "Energy",
+          "importanceReasons": [
+            "Principle of the bill is being debated.",
+            "Touches energy."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-207",
+          "title": "S-207: An Act to amend the Criminal Records Act, to make consequential amendments to other Acts and to repeal a regulation",
+          "status": "At second reading in the Senate",
+          "description": "amend the Criminal Records Act, to make consequential amendments to other Acts and to repeal a regulation. Current status: At second reading in the Senate. Last major stage completed: First reading in the Senate.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-207",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 7,
+          "category": "Justice",
+          "importanceReasons": [
+            "Principle of the bill is being debated.",
+            "Touches justice."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-208",
+          "title": "S-208: An Act to amend the Criminal Code (independence of the judiciary)",
+          "status": "At second reading in the Senate",
+          "description": "amend the Criminal Code (independence of the judiciary). Current status: At second reading in the Senate. Last major stage completed: First reading in the Senate.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-208",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 7,
+          "category": "Justice",
+          "importanceReasons": [
+            "Principle of the bill is being debated.",
+            "Touches justice."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-215",
+          "title": "S-215: An Act respecting National Immigration Month",
+          "status": "At second reading in the House of Commons",
+          "description": "Respecting National Immigration Month. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-215",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 7,
+          "category": "Immigration",
+          "importanceReasons": [
+            "Principle of the bill is being debated.",
+            "Touches immigration."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-202",
+          "title": "S-202: An Act to amend the Food and Drugs Act (warning label on alcoholic beverages)",
+          "status": "At third reading in the Senate",
+          "description": "amend the Food and Drugs Act (warning label on alcoholic beverages). Current status: At third reading in the Senate. Last major stage completed: Second reading in the Senate.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-202",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 5,
+          "category": "General legislation",
+          "importanceReasons": [
+            "Near the final stage of passage."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-210",
+          "title": "S-210: An Act respecting Ukrainian Heritage Month",
+          "status": "At third reading in the House of Commons",
+          "description": "Respecting Ukrainian Heritage Month. Current status: At third reading in the House of Commons. Last major stage completed: Second reading in the House of Commons.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-210",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 5,
+          "category": "General legislation",
+          "importanceReasons": [
+            "Near the final stage of passage."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-2",
+          "title": "S-2: An Act to amend the Indian Act (new registration entitlements)",
+          "status": "At consideration in committee in the House of Commons",
+          "description": "amend the Indian Act (new registration entitlements). Current status: At consideration in committee in the House of Commons. Last major stage completed: Second reading in the House of Commons.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-2",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 4,
+          "category": "General legislation",
+          "importanceReasons": [
+            "Under detailed review or amendment."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-201",
+          "title": "S-201: An Act respecting a national framework on sickle cell disease",
+          "status": "At consideration in committee in the House of Commons",
+          "description": "Respecting a national framework on sickle cell disease. Current status: At consideration in committee in the House of Commons. Last major stage completed: Second reading in the House of Commons.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-201",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 4,
+          "category": "General legislation",
+          "importanceReasons": [
+            "Under detailed review or amendment."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-204",
+          "title": "S-204: An Act to establish a national framework on heart failure",
+          "status": "At consideration in committee in the Senate",
+          "description": "establish a national framework on heart failure. Current status: At consideration in committee in the Senate. Last major stage completed: Second reading in the Senate.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-204",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 4,
+          "category": "General legislation",
+          "importanceReasons": [
+            "Under detailed review or amendment."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-206",
+          "title": "S-206: An Act to develop a national framework for a guaranteed livable basic income",
+          "status": "At consideration in committee in the Senate",
+          "description": "develop a national framework for a guaranteed livable basic income. Current status: At consideration in committee in the Senate. Last major stage completed: Second reading in the Senate.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-206",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 4,
+          "category": "General legislation",
+          "importanceReasons": [
+            "Under detailed review or amendment."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "legisinfo-s-211",
+          "title": "S-211: An Act respecting a national framework on sports betting advertising",
+          "status": "At consideration in committee in the House of Commons",
+          "description": "Respecting a national framework on sports betting advertising. Current status: At consideration in committee in the House of Commons. Last major stage completed: Second reading in the House of Commons.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-211",
+          "source": "LEGISinfo",
+          "date": "",
+          "priority": 4,
+          "category": "General legislation",
+          "importanceReasons": [
+            "Under detailed review or amendment."
+          ],
+          "outcome": "active"
+        }
+      ]
+    },
+    {
+      "id": "recent-federal-context",
+      "name": "Recent Federal Context",
+      "focus": "High-impact recent federal laws to keep in view when the live bill tracker is unavailable",
+      "source": "Parliament of Canada",
+      "sourceUrl": "",
+      "items": [
+        {
+          "id": "recent-federal-context-c-19-canada-groceries-and-essentials-benefit-act",
+          "title": "C-19: Canada Groceries and Essentials Benefit Act",
+          "status": "Became law",
+          "description": "Affordability measure replacing or expanding the GST/HST credit framework with a groceries and essentials benefit for lower-income households.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-19",
+          "source": "Parliament of Canada",
+          "date": "",
+          "priority": 9,
+          "category": "Affordability",
+          "importanceReasons": [
+            "Direct affordability impact for lower-income households."
+          ],
+          "outcome": "passed"
+        },
+        {
+          "id": "recent-federal-context-c-5-one-canadian-economy-act",
+          "title": "C-5: One Canadian Economy Act",
+          "status": "Became law",
+          "description": "Economic and infrastructure legislation focused on interprovincial trade, labour mobility, and major project approvals.",
+          "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-5",
+          "source": "Parliament of Canada",
+          "date": "",
+          "priority": 8,
+          "category": "Economy & Infrastructure",
+          "importanceReasons": [
+            "Touches infrastructure, trade barriers, labour mobility, and economic development."
+          ],
+          "outcome": "passed"
+        }
+      ]
+    },
+    {
+      "id": "bc-bills",
+      "name": "BC Legislature",
+      "focus": "Provincial bill progress and current legislative sessions",
+      "source": "Legislative Assembly of BC",
+      "sourceUrl": "https://www.leg.bc.ca/parliamentary-business/overview/43rd-parliament/1st-session/bills/progress-of-bills",
+      "items": [
+        {
+          "id": "https-www-leg-bc-ca-parliamentary-business-overview-43rd-parliament-1st-session-",
+          "title": "BC Legislature",
+          "status": "Official tracker",
+          "description": "Open Legislative Assembly of BC for the latest official bill progress and sitting details.",
+          "url": "https://www.leg.bc.ca/parliamentary-business/overview/43rd-parliament/1st-session/bills/progress-of-bills",
+          "source": "Legislative Assembly of BC",
+          "date": "",
+          "priority": 1,
+          "category": "Tracker",
+          "importanceReasons": [
+            "Official source link kept available when parsed status is unavailable."
+          ],
+          "outcome": "tracker"
+        }
+      ]
+    },
+    {
+      "id": "esquimalt-meetings",
+      "name": "Esquimalt Council",
+      "focus": "Council, committee, agenda, and public notice tracking",
+      "source": "Esquimalt Legistar",
+      "sourceUrl": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+      "items": [
+        {
+          "id": "esquimalt-legistar-advisory-planning-commission-7-21-2026-7-00-pm",
+          "title": "Advisory Planning Commission - 7/21/2026",
+          "status": "7:00 PM",
+          "description": "Esquimalt",
+          "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+          "source": "Esquimalt Legistar",
+          "date": "7/21/2026",
+          "priority": 1,
+          "category": "Municipal meeting",
+          "importanceReasons": [
+            "Upcoming local decision-making forum."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "esquimalt-legistar-council-7-20-2026-7-00-pm",
+          "title": "Council - 7/20/2026",
+          "status": "7:00 PM",
+          "description": "Esquimalt Municipal Hall",
+          "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+          "source": "Esquimalt Legistar",
+          "date": "7/20/2026",
+          "priority": 2,
+          "category": "Municipal meeting",
+          "importanceReasons": [
+            "Upcoming local decision-making forum."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "esquimalt-legistar-committee-of-the-whole-7-13-2026-6-00-pm",
+          "title": "Committee of the Whole - 7/13/2026",
+          "status": "6:00 PM",
+          "description": "Esquimalt",
+          "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+          "source": "Esquimalt Legistar",
+          "date": "7/13/2026",
+          "priority": 1,
+          "category": "Municipal meeting",
+          "importanceReasons": [
+            "Upcoming local decision-making forum."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "esquimalt-legistar-apc-design-review-committee-7-8-2026-2-30-pm",
+          "title": "APC Design Review Committee - 7/8/2026",
+          "status": "2:30 PM",
+          "description": "Esquimalt",
+          "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+          "source": "Esquimalt Legistar",
+          "date": "7/8/2026",
+          "priority": 1,
+          "category": "Municipal meeting",
+          "importanceReasons": [
+            "Upcoming local decision-making forum."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "esquimalt-legistar-council-7-6-2026-6-00-pm",
+          "title": "Council - 7/6/2026",
+          "status": "6:00 PM",
+          "description": "Esquimalt Municipal Hall THE REGULAR MEETING OF COUNCIL RECONVENES AT 7:00 PM WITH MEMBERS OF THE PUBLIC IN ATTENDANCE",
+          "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+          "source": "Esquimalt Legistar",
+          "date": "7/6/2026",
+          "priority": 2,
+          "category": "Municipal meeting",
+          "importanceReasons": [
+            "Upcoming local decision-making forum."
+          ],
+          "outcome": "active"
+        }
+      ]
+    },
+    {
+      "id": "victoria-council",
+      "name": "Victoria Council",
+      "focus": "City of Victoria council and committee meeting tracker",
+      "source": "City of Victoria",
+      "sourceUrl": "https://www.victoria.ca/city-government/mayor-council/council-committee-meetings",
+      "items": [
+        {
+          "id": "https-www-victoria-ca-city-government-mayor-council-council-committee-meetings",
+          "title": "Victoria Council",
+          "status": "Official tracker",
+          "description": "Open City of Victoria for the latest official bill progress and sitting details.",
+          "url": "https://www.victoria.ca/city-government/mayor-council/council-committee-meetings",
+          "source": "City of Victoria",
+          "date": "",
+          "priority": 1,
+          "category": "Tracker",
+          "importanceReasons": [
+            "Official source link kept available when parsed status is unavailable."
+          ],
+          "outcome": "tracker"
+        }
+      ]
+    },
+    {
+      "id": "crd-board",
+      "name": "CRD Board",
+      "focus": "Capital Regional District board, committee, and meeting tracker",
+      "source": "Capital Regional District",
+      "sourceUrl": "https://www.crd.ca/about/board-committees/meeting-schedule",
+      "items": [
+        {
+          "id": "https-www-crd-ca-about-board-committees-meeting-schedule",
+          "title": "CRD Board",
+          "status": "Official tracker",
+          "description": "Open Capital Regional District for the latest official bill progress and sitting details.",
+          "url": "https://www.crd.ca/about/board-committees/meeting-schedule",
+          "source": "Capital Regional District",
+          "date": "",
+          "priority": 1,
+          "category": "Tracker",
+          "importanceReasons": [
+            "Official source link kept available when parsed status is unavailable."
+          ],
+          "outcome": "tracker"
+        }
+      ]
+    }
+  ],
+  "highlights": {
+    "policyWatch": [
+      {
+        "id": "policy-https-www-bbc-co-uk-news-articles-cn75ex1dv61o-2",
+        "title": "Gaza patients face agonising delays for medical evacuation",
+        "status": "BBC World",
+        "description": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
+        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "sectionName": "World",
+        "category": "War & Security, Public Safety",
+        "importanceReasons": [
+          "Relevant to war & security, public safety; surfaced from World coverage."
+        ],
+        "priority": 15.948,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-9-7257496",
+        "title": "More than 2,000 Quebec households stranded without a lease after July 1",
+        "status": "CBC Top Stories",
+        "description": "More than 2,000 Quebec households are still without a home following the province's July 1 moving day. Housing advocates say the increase compared to last year shows that building more apartments isn't enough to solve the affordability crisis.",
+        "url": "https://www.cbc.ca/news/canada/montreal/quebec-rental-market-housing-july-1-9.7257496?cmp=rss",
+        "source": "CBC Top Stories",
+        "sectionName": "National",
+        "category": "Affordability, Housing",
+        "importanceReasons": [
+          "Relevant to affordability, housing; surfaced from National coverage."
+        ],
+        "priority": 14.723,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-https-vancouver-citynews-ca-p-4455578",
+        "title": "Out-of-control wildfire near Boston Bar has evacuation notice",
+        "status": "CityNews Vancouver",
+        "description": "An out-of-control wildfire is burning near Boston Bar, along Chaumox Road, near Brunswick Creek. The fire is currently 14 hectares in size. An evacuation alert has been issued for the Brunswick Creek area, issued by the Fraser Valley Regional District. BC Wildfire Service says that the fire is human caused.",
+        "url": "https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/",
+        "source": "CityNews Vancouver",
+        "sectionName": "Local",
+        "category": "Public Safety",
+        "importanceReasons": [
+          "Relevant to public safety; surfaced from Local coverage."
+        ],
+        "priority": 14.413,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-9-7258006",
+        "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
+        "status": "CBC Politics",
+        "description": "Energy Minister Tim Hodgson says a second pipeline to the West Coast will be money well-spent for the federal government but can't say how much Ottawa would be on the hook for.",
+        "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
+        "source": "CBC Politics",
+        "sectionName": "National",
+        "category": "Climate & Infrastructure",
+        "importanceReasons": [
+          "Relevant to climate & infrastructure; surfaced from National coverage."
+        ],
+        "priority": 13.916,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-9-7257775",
+        "title": "Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage",
+        "status": "CBC Top Stories",
+        "description": "A chemotherapy ingredient that's in short supply in Canada can temporarily be imported and sold from a Chinese-authorized source instead, Health Canada says.",
+        "url": "https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss",
+        "source": "CBC Top Stories",
+        "sectionName": "National",
+        "category": "Public Safety, Health",
+        "importanceReasons": [
+          "Relevant to public safety, health; surfaced from National coverage."
+        ],
+        "priority": 13.093,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-https-www-aljazeera-com-t-1783111844",
+        "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
+        "status": "Al Jazeera",
+        "description": "A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.",
+        "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sectionName": "World",
+        "category": "War & Security, Public Safety",
+        "importanceReasons": [
+          "Relevant to war & security, public safety; surfaced from World coverage."
+        ],
+        "priority": 11.594,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-9-7257665",
+        "title": "New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires",
+        "status": "CBC British Columbia",
+        "description": "Three provinces are lending a helping hand to Quebec's wildfire prevention and suppression agency in its efforts to combat fires.",
+        "url": "https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss",
+        "source": "CBC British Columbia",
+        "sectionName": "Local",
+        "category": "Public Safety",
+        "importanceReasons": [
+          "Relevant to public safety; surfaced from Local coverage."
+        ],
+        "priority": 10.72,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-https-www-aljazeera-com-t-1783120592",
+        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
+        "status": "Al Jazeera",
+        "description": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
+        "source": "Al Jazeera",
+        "sectionName": "World",
+        "category": "War & Security",
+        "importanceReasons": [
+          "Relevant to war & security; surfaced from World coverage."
+        ],
+        "priority": 10.387,
+        "outcome": "policy_watch"
+      }
+    ],
+    "important": [
+      {
+        "id": "recent-federal-context-c-19-canada-groceries-and-essentials-benefit-act",
+        "title": "C-19: Canada Groceries and Essentials Benefit Act",
+        "status": "Became law",
+        "description": "Affordability measure replacing or expanding the GST/HST credit framework with a groceries and essentials benefit for lower-income households.",
+        "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-19",
+        "source": "Parliament of Canada",
+        "sectionName": "Recent Federal Context",
+        "category": "Affordability",
+        "importanceReasons": [
+          "Direct affordability impact for lower-income households."
+        ],
+        "priority": 9,
+        "outcome": "passed"
+      },
+      {
+        "id": "legisinfo-s-5",
+        "title": "S-5: An Act respecting the interoperability of health information technology and to prohibit data blocking by health information technology vendors",
+        "status": "At second reading in the House of Commons",
+        "description": "Respecting the interoperability of health information technology and to prohibit data blocking by health information technology vendors. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+        "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-5",
+        "source": "LEGISinfo",
+        "sectionName": "Federal Bills",
+        "category": "Health",
+        "importanceReasons": [
+          "Principle of the bill is being debated.",
+          "Touches health."
+        ],
+        "priority": 8,
+        "outcome": "active"
+      },
+      {
+        "id": "recent-federal-context-c-5-one-canadian-economy-act",
+        "title": "C-5: One Canadian Economy Act",
+        "status": "Became law",
+        "description": "Economic and infrastructure legislation focused on interprovincial trade, labour mobility, and major project approvals.",
+        "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-5",
+        "source": "Parliament of Canada",
+        "sectionName": "Recent Federal Context",
+        "category": "Economy & Infrastructure",
+        "importanceReasons": [
+          "Touches infrastructure, trade barriers, labour mobility, and economic development."
+        ],
+        "priority": 8,
+        "outcome": "passed"
+      },
+      {
+        "id": "legisinfo-s-4",
+        "title": "S-4: An Act to amend the Energy Efficiency Act",
+        "status": "At second reading in the House of Commons",
+        "description": "amend the Energy Efficiency Act. Current status: At second reading in the House of Commons. Last major stage completed: First reading in the House of Commons.",
+        "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-4",
+        "source": "LEGISinfo",
+        "sectionName": "Federal Bills",
+        "category": "Energy",
+        "importanceReasons": [
+          "Principle of the bill is being debated.",
+          "Touches energy."
+        ],
+        "priority": 7,
+        "outcome": "active"
+      },
+      {
+        "id": "legisinfo-s-207",
+        "title": "S-207: An Act to amend the Criminal Records Act, to make consequential amendments to other Acts and to repeal a regulation",
+        "status": "At second reading in the Senate",
+        "description": "amend the Criminal Records Act, to make consequential amendments to other Acts and to repeal a regulation. Current status: At second reading in the Senate. Last major stage completed: First reading in the Senate.",
+        "url": "https://www.parl.ca/legisinfo/en/bill/45-1/s-207",
+        "source": "LEGISinfo",
+        "sectionName": "Federal Bills",
+        "category": "Justice",
+        "importanceReasons": [
+          "Principle of the bill is being debated.",
+          "Touches justice."
+        ],
+        "priority": 7,
+        "outcome": "active"
+      }
+    ],
+    "passed": [
+      {
+        "id": "recent-federal-context-c-19-canada-groceries-and-essentials-benefit-act",
+        "title": "C-19: Canada Groceries and Essentials Benefit Act",
+        "status": "Became law",
+        "description": "Affordability measure replacing or expanding the GST/HST credit framework with a groceries and essentials benefit for lower-income households.",
+        "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-19",
+        "source": "Parliament of Canada",
+        "sectionName": "Recent Federal Context",
+        "category": "Affordability",
+        "importanceReasons": [
+          "Direct affordability impact for lower-income households."
+        ],
+        "priority": 9,
+        "outcome": "passed"
+      },
+      {
+        "id": "recent-federal-context-c-5-one-canadian-economy-act",
+        "title": "C-5: One Canadian Economy Act",
+        "status": "Became law",
+        "description": "Economic and infrastructure legislation focused on interprovincial trade, labour mobility, and major project approvals.",
+        "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-5",
+        "source": "Parliament of Canada",
+        "sectionName": "Recent Federal Context",
+        "category": "Economy & Infrastructure",
+        "importanceReasons": [
+          "Touches infrastructure, trade barriers, labour mobility, and economic development."
+        ],
+        "priority": 8,
+        "outcome": "passed"
+      }
+    ],
+    "notPassed": []
+  },
+  "errors": []
+}

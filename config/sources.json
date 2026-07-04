@@ -1,0 +1,414 @@
+{
+  "sections": [
+    {
+      "id": "esquimalt",
+      "name": "Esquimalt",
+      "focus": "Township notices, meetings, and civic updates",
+      "feeds": [
+        {
+          "name": "Township of Esquimalt",
+          "url": "https://www.esquimalt.ca/",
+          "type": "esquimalt_home",
+          "weight": 1.35
+        },
+        {
+          "name": "CHEK News",
+          "url": "https://www.cheknews.ca/feed/",
+          "includeAny": [
+            "esquimalt",
+            "cfb esquimalt",
+            "naval base",
+            "dockyard",
+            "work point",
+            "admirals",
+            "songhees",
+            "view royal",
+            "colwood",
+            "royal roads",
+            "saxe point",
+            "macaulay",
+            "victoria harbour",
+            "western communities"
+          ],
+          "weight": 1.1
+        },
+        {
+          "name": "Victoria News",
+          "url": "https://www.vicnews.com/feed/",
+          "includeAny": [
+            "esquimalt",
+            "cfb esquimalt",
+            "naval base",
+            "dockyard",
+            "work point",
+            "admirals",
+            "songhees",
+            "view royal",
+            "colwood",
+            "royal roads",
+            "saxe point",
+            "macaulay",
+            "victoria harbour"
+          ],
+          "weight": 1.0
+        },
+        {
+          "name": "Lookout",
+          "url": "https://www.lookoutnewspaper.com/feed/",
+          "includeAny": [
+            "esquimalt",
+            "cfb esquimalt",
+            "navy",
+            "naval",
+            "marpac",
+            "dockyard",
+            "hmcs",
+            "pacific fleet",
+            "royal canadian navy"
+          ],
+          "weight": 1.05
+        }
+      ]
+    },
+    {
+      "id": "local",
+      "name": "Local",
+      "focus": "Vancouver and Lower Mainland",
+      "feeds": [
+        {
+          "name": "CBC British Columbia",
+          "url": "https://www.cbc.ca/cmlink/rss-canada-britishcolumbia",
+          "weight": 1.15
+        },
+        {
+          "name": "CityNews Vancouver",
+          "url": "https://vancouver.citynews.ca/feed/",
+          "includeAny": [
+            "vancouver",
+            "lower mainland",
+            "metro vancouver",
+            "surrey",
+            "burnaby",
+            "richmond",
+            "coquitlam",
+            "fraser valley",
+            "b.c.",
+            "bc "
+          ],
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "id": "greater-victoria",
+      "name": "Greater Victoria",
+      "focus": "Victoria and Capital Regional District civic updates",
+      "feeds": [
+        {
+          "name": "City of Victoria",
+          "url": "https://www.victoria.ca/city-government/news",
+          "type": "official_news_html",
+          "baseUrl": "https://www.victoria.ca",
+          "includeHrefAny": [
+            "/city-government/news/"
+          ],
+          "weight": 1.2
+        },
+        {
+          "name": "Capital Regional District",
+          "url": "https://www.crd.ca/news",
+          "type": "official_news_html",
+          "baseUrl": "https://www.crd.ca",
+          "includeHrefAny": [
+            "/news/"
+          ],
+          "weight": 1.2
+        }
+      ]
+    },
+    {
+      "id": "provincial",
+      "name": "Provincial",
+      "focus": "British Columbia decisions and policy",
+      "feeds": [
+        {
+          "name": "BC Government News",
+          "url": "https://news.gov.bc.ca/",
+          "type": "bcgov_html",
+          "weight": 1.25
+        },
+        {
+          "name": "The Tyee",
+          "url": "https://thetyee.ca/rss2.xml",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "id": "national",
+      "name": "National",
+      "focus": "Canada-wide news and federal politics",
+      "feeds": [
+        {
+          "name": "CBC Top Stories",
+          "url": "https://www.cbc.ca/cmlink/rss-topstories",
+          "weight": 1.05
+        },
+        {
+          "name": "CBC Politics",
+          "url": "https://www.cbc.ca/cmlink/rss-politics",
+          "weight": 1.2
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "name": "World",
+      "focus": "Major global developments",
+      "feeds": [
+        {
+          "name": "BBC World",
+          "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+          "weight": 1.05
+        },
+        {
+          "name": "Al Jazeera",
+          "url": "https://www.aljazeera.com/xml/rss/all.xml",
+          "weight": 1.0
+        }
+      ]
+    },
+    {
+      "id": "new-zealand",
+      "name": "New Zealand",
+      "focus": "Aotearoa New Zealand news and politics",
+      "feeds": [
+        {
+          "name": "RNZ News",
+          "url": "https://www.rnz.co.nz/rss/news.xml",
+          "weight": 1.15
+        },
+        {
+          "name": "RNZ National",
+          "url": "https://www.rnz.co.nz/rss/national.xml",
+          "weight": 1.05
+        }
+      ]
+    }
+  ],
+  "government": [
+    {
+      "id": "federal-bills",
+      "name": "Federal Bills",
+      "focus": "Bills currently moving through Parliament of Canada",
+      "source": {
+        "name": "LEGISinfo",
+        "url": "https://www.parl.ca/legisinfo/en/bills",
+        "type": "legisinfo_bills"
+      }
+    },
+    {
+      "id": "recent-federal-context",
+      "name": "Recent Federal Context",
+      "focus": "High-impact recent federal laws to keep in view when the live bill tracker is unavailable",
+      "source": {
+        "name": "Parliament of Canada",
+        "type": "manual_items",
+        "items": [
+          {
+            "title": "C-19: Canada Groceries and Essentials Benefit Act",
+            "status": "Became law",
+            "description": "Affordability measure replacing or expanding the GST/HST credit framework with a groceries and essentials benefit for lower-income households.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-19",
+            "category": "Affordability",
+            "priority": 9,
+            "outcome": "passed",
+            "importanceReasons": [
+              "Direct affordability impact for lower-income households."
+            ]
+          },
+          {
+            "title": "C-5: One Canadian Economy Act",
+            "status": "Became law",
+            "description": "Economic and infrastructure legislation focused on interprovincial trade, labour mobility, and major project approvals.",
+            "url": "https://www.parl.ca/legisinfo/en/bill/45-1/c-5",
+            "category": "Economy & Infrastructure",
+            "priority": 8,
+            "outcome": "passed",
+            "importanceReasons": [
+              "Touches infrastructure, trade barriers, labour mobility, and economic development."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "bc-bills",
+      "name": "BC Legislature",
+      "focus": "Provincial bill progress and current legislative sessions",
+      "source": {
+        "name": "Legislative Assembly of BC",
+        "url": "https://www.leg.bc.ca/parliamentary-business/overview/43rd-parliament/1st-session/bills/progress-of-bills",
+        "type": "official_link"
+      }
+    },
+    {
+      "id": "esquimalt-meetings",
+      "name": "Esquimalt Council",
+      "focus": "Council, committee, agenda, and public notice tracking",
+      "source": {
+        "name": "Esquimalt Legistar",
+        "url": "https://esquimalt.ca.legistar.com/Calendar.aspx",
+        "type": "legistar_calendar"
+      }
+    },
+    {
+      "id": "victoria-council",
+      "name": "Victoria Council",
+      "focus": "City of Victoria council and committee meeting tracker",
+      "source": {
+        "name": "City of Victoria",
+        "url": "https://www.victoria.ca/city-government/mayor-council/council-committee-meetings",
+        "type": "official_link"
+      }
+    },
+    {
+      "id": "crd-board",
+      "name": "CRD Board",
+      "focus": "Capital Regional District board, committee, and meeting tracker",
+      "source": {
+        "name": "Capital Regional District",
+        "url": "https://www.crd.ca/about/board-committees/meeting-schedule",
+        "type": "official_link"
+      }
+    }
+  ],
+  "sports": {
+    "scoreboards": [
+      {
+        "id": "world-cup",
+        "name": "World Cup",
+        "status": "Scores & fixtures",
+        "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures",
+        "source": "FIFA",
+        "scoreApi": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard?limit=12",
+        "description": "Official FIFA World Cup 2026 scores, fixtures, groups, and match centre."
+      },
+      {
+        "id": "champions-league",
+        "name": "Champions League",
+        "status": "Fixtures & results",
+        "url": "https://www.uefa.com/uefachampionsleague/fixtures-results/",
+        "source": "UEFA",
+        "scoreApi": "https://site.api.espn.com/apis/site/v2/sports/soccer/uefa.champions/scoreboard?limit=12",
+        "description": "Official UEFA Champions League fixtures, results, and match centre."
+      },
+      {
+        "id": "premier-league",
+        "name": "Premier League",
+        "status": "Fixtures & results",
+        "url": "https://www.premierleague.com/fixtures",
+        "source": "Premier League",
+        "scoreApi": "https://site.api.espn.com/apis/site/v2/sports/soccer/eng.1/scoreboard?limit=12",
+        "description": "Official Premier League fixtures, results, and match centre."
+      },
+      {
+        "id": "nba",
+        "name": "NBA",
+        "status": "Scores & schedule",
+        "url": "https://www.nba.com/games",
+        "source": "NBA",
+        "scoreApi": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/scoreboard?limit=12",
+        "description": "NBA scores, schedule, game status, and playoff notes."
+      }
+    ],
+    "newsSections": [
+      {
+        "id": "football-news",
+        "name": "Football News",
+        "focus": "Most relevant soccer and football headlines"
+      },
+      {
+        "id": "nba-news",
+        "name": "NBA News & Trades",
+        "focus": "NBA scores context, trades, rumors, free agency, draft, and roster moves"
+      }
+    ],
+    "feeds": [
+      {
+        "name": "BBC Football",
+        "url": "https://feeds.bbci.co.uk/sport/football/rss.xml",
+        "sectionId": "football-news",
+        "sectionName": "Football News",
+        "weight": 1.15
+      },
+      {
+        "name": "The Guardian Football",
+        "url": "https://www.theguardian.com/football/rss",
+        "sectionId": "football-news",
+        "sectionName": "Football News",
+        "weight": 1.05
+      },
+      {
+        "name": "ESPN Soccer",
+        "url": "https://www.espn.com/espn/rss/soccer/news",
+        "sectionId": "football-news",
+        "sectionName": "Football News",
+        "weight": 1.0
+      },
+      {
+        "name": "ESPN NBA",
+        "url": "https://www.espn.com/espn/rss/nba/news",
+        "sectionId": "nba-news",
+        "sectionName": "NBA News & Trades",
+        "includeAny": [
+          "nba",
+          "knicks",
+          "spurs",
+          "finals",
+          "trade",
+          "trades",
+          "rumor",
+          "rumour",
+          "buzz",
+          "giannis",
+          "draft",
+          "offseason",
+          "free agency",
+          "lakers",
+          "warriors",
+          "raptors",
+          "celtics",
+          "bucks"
+        ],
+        "weight": 1.1
+      },
+      {
+        "name": "Hoops Rumors",
+        "url": "https://www.hoopsrumors.com/feed",
+        "sectionId": "nba-news",
+        "sectionName": "NBA News & Trades",
+        "includeAny": [
+          "trade",
+          "trades",
+          "rumor",
+          "rumour",
+          "free agent",
+          "free agency",
+          "sign",
+          "signing",
+          "contract",
+          "extension",
+          "waive",
+          "waived",
+          "draft",
+          "offseason",
+          "roster",
+          "buyout",
+          "option"
+        ],
+        "weight": 1.2
+      }
+    ]
+  }
+}
