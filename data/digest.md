@@ -1,4 +1,4 @@
-# Modern Community Topics - 2026-07-03 23:06
+# Modern Community Topics - 2026-07-03 23:16
 
 ## Esquimalt
 
@@ -10,13 +10,10 @@
 ## Local
 
 - [Out-of-control wildfire near Boston Bar has evacuation notice](https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/) - CityNews Vancouver
-- [Why bridge and tunnel politics helped make the B.C.-Ottawa pipeline truce happen](https://www.cbc.ca/news/canada/british-columbia/bc-ottawa-deal-massey-pipeline-9.7256802?cmp=rss) - CBC British Columbia
-- [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - CBC British Columbia
-- [Why expansion of Delta container port is going hand-in-hand with Alberta pipeline proposal](https://www.cbc.ca/news/canada/british-columbia/southern-pipeline-route-delta-roberts-bank-terminal-2-9.7256890?cmp=rss) - CBC British Columbia
-- [New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires](https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss) - CBC British Columbia
-- [Residents approve financials for new search and rescue and fire hall facility in Kamloops](https://www.cbc.ca/news/canada/british-columbia/kamloops-fire-hall-search-and-rescue-building-9.7256848?cmp=rss) - CBC British Columbia
-- [Historic lodge in Qualicum Beach saved from demolition and restored for public use](https://www.cbc.ca/news/canada/british-columbia/st-andrews-lodge-qualicum-9.7256310?cmp=rss) - CBC British Columbia
-- [Vancouver to keep part of Granville Street car-free for 7 weeks post-FIFA after council approves $4.75M](https://www.cbc.ca/news/canada/british-columbia/vancouver-extend-granville-street-pedestrian-zone-9.7256129?cmp=rss) - CBC British Columbia
+- [B.C. driver charged in high-speed collision in New Westminster](https://vancouver.citynews.ca/2026/07/03/new-west-dangerous-driving-charge/) - CityNews Vancouver
+- [Richmond police officer has been charged with dangerous driving](https://vancouver.citynews.ca/2026/07/03/richmond-rcmp-officer-dangerous-driving/) - CityNews Vancouver
+- [Mother of B.C. charter boat captain tells of heartbreak after sinking](https://vancouver.citynews.ca/2026/07/03/cp-newsalert-mother-of-b-c-charter-boat-captain-tells-of-heartbreak-after-sinking/) - CityNews Vancouver
+- [Thousands of kilos of illicit drugs, chemicals seized, Burnaby RCMP says](https://vancouver.citynews.ca/2026/07/03/burnaby-illicit-drugs-chemicals-seized/) - CityNews Vancouver
 
 ## Greater Victoria
 
@@ -42,14 +39,14 @@
 
 ## National
 
+- [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - CBC Politics
+- [Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu](https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss) - CBC Politics
 - [Will Alberta pipeline proposal move voters ahead of separation vote?](https://www.cbc.ca/news/canada/calgary/separatism-pipeline-skepticism-9.7258279?cmp=rss) - CBC Top Stories
-- [Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking](https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss) - CBC Top Stories
+- [Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking](https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss) - CBC Politics
 - [Gordie Howe bridge cost still $6.4B despite delays, federal authority says](https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-cost-delays-construction-funding-2026-9.7256222?cmp=rss) - CBC Top Stories
 - [Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage](https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss) - CBC Top Stories
 - [Ontario couple sentenced to life in prison for murdering boy 'got what they deserved,' brother tells court](https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.7258020?cmp=rss) - CBC Top Stories
 - [Gilgeous-Alexander scores 26 points as Canada routs Puerto Rico 110-84 in basketball World Cup qualifying](https://www.cbc.ca/news/canada/hamilton/gilgeous-alexander-canada-puerto-rico-fiba-world-cup-9.7258491?cmp=rss) - CBC Top Stories
-- [From Elle to Obsession: your weekend watch cheat sheet](https://www.cbc.ca/news/entertainment/what-to-watch-july-9.7258208?cmp=rss) - CBC Top Stories
-- [Pancakes, pipelines and independence: politics serving up new flavour at this year’s Calgary Stampede](https://www.cbc.ca/news/canada/calgary/stampede-jeromy-farkas-pierre-poilievre-danielle-smith-9.7258169?cmp=rss) - CBC Top Stories
 
 ## World
 
@@ -65,13 +62,24 @@
 ## New Zealand
 
 - [Environmental group hails court decision on orange roughy catch-limit](https://www.rnz.co.nz/news/crime-and-justice/657361/environmental-group-hails-court-decision-on-orange-roughy-catch-limit) - RNZ National
-- [Woman adopted 21 children from overseas, but people trafficking ruled out](https://www.rnz.co.nz/news/political/665957/woman-adopted-21-children-from-overseas-but-people-trafficking-ruled-out) - RNZ News
-- [Waikato Hospital ward will not be ready until 2027, health minister says](https://www.rnz.co.nz/news/political/659839/waikato-hospital-ward-will-not-be-ready-until-2027-health-minister-says) - RNZ News
 - [Smell of gas in Auckland sparks school evacuation, FENZ call-outs](https://www.rnz.co.nz/news/emergencies_local/653213/smell-of-gas-in-auckland-sparks-school-evacuation-fenz-call-outs) - RNZ National
 - [Smell of smoke in Air NZ plane cabin triggers emergency reponse at Christchurch Airport](https://www.rnz.co.nz/news/emergency/666897/smell-of-smoke-in-air-nz-plane-cabin-triggers-emergency-reponse-at-christchurch-airport) - RNZ News
 - [Rangatahi use kapa haka to share identity, stories and healing](https://www.rnz.co.nz/news/te-manu-korihi/657276/rangatahi-use-kapa-haka-to-share-identity-stories-and-healing) - RNZ News
 - [Barrister takes health insurer to court over refusal to pay for ADHD diagnosis](https://www.rnz.co.nz/news/health/657278/barrister-takes-health-insurer-to-court-over-refusal-to-pay-for-adhd-diagnosis) - RNZ National
 - [Government to go ahead with expansion of programme to help young children's language](https://www.rnz.co.nz/news/political/654063/government-to-go-ahead-with-expansion-of-programme-to-help-young-children-s-language) - RNZ National
+- [Concrete-filled golf holes deepen Pegasus development dispute](https://www.rnz.co.nz/news/regional/661344/concrete-filled-golf-holes-deepen-pegasus-development-dispute) - RNZ News
+- [Potential human rights abuses uncovered at Dunedin's Wakari Hospital - ombudsman](https://www.rnz.co.nz/news/health/660871/potential-human-rights-abuses-uncovered-at-dunedin-s-wakari-hospital-ombudsman) - RNZ News
+
+## NZ Politics
+
+- [Woman adopted 21 children from overseas, but people trafficking ruled out](https://www.rnz.co.nz/news/political/665957/woman-adopted-21-children-from-overseas-but-people-trafficking-ruled-out) - RNZ Politics
+- [Former mayor, broadcaster Michael Laws to stand for NZ First in upcoming election](https://www.rnz.co.nz/news/political/658049/former-mayor-broadcaster-michael-laws-to-stand-for-nz-first-in-upcoming-election) - RNZ Politics
+- ['A kick in the guts': Calls for fees associated with registering stillbirths to be waived](https://www.rnz.co.nz/news/political/653161/a-kick-in-the-guts-calls-for-fees-associated-with-registering-stillbirths-to-be-waived) - RNZ Politics
+- [Waikato Hospital ward will not be ready until 2027, health minister says](https://www.rnz.co.nz/news/political/659839/waikato-hospital-ward-will-not-be-ready-until-2027-health-minister-says) - RNZ Politics
+- [MSD boss defends linking staff performance with cutting emergency housing](https://www.rnz.co.nz/news/political/657399/msd-boss-defends-linking-staff-performance-with-cutting-emergency-housing) - RNZ Politics
+- [The House: The 'not my circus' defence versus the rules](https://www.rnz.co.nz/news/political/654881/the-house-the-not-my-circus-defence-versus-the-rules) - RNZ Politics
+- [New US ambassador would like chance to work on New Zealand's nuclear policy](https://www.rnz.co.nz/news/political/660035/new-us-ambassador-would-like-chance-to-work-on-new-zealand-s-nuclear-policy) - RNZ Politics
+- [Bill banning climate tort cases like Mike Smith's passes first reading](https://www.rnz.co.nz/news/political/654496/bill-banning-climate-tort-cases-like-mike-smith-s-passes-first-reading) - RNZ Politics
 
 ## Feed Notes
 
@@ -83,12 +91,12 @@
 
 - [Gaza patients face agonising delays for medical evacuation](https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss) - War & Security, Public Safety. Relevant to war & security, public safety; surfaced from World coverage.
 - [Out-of-control wildfire near Boston Bar has evacuation notice](https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/) - Public Safety. Relevant to public safety; surfaced from Local coverage.
-- [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - Climate & Infrastructure. Relevant to climate & infrastructure; surfaced from Local coverage.
+- [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - Climate & Infrastructure. Relevant to climate & infrastructure; surfaced from National coverage.
 - [Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage](https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss) - Public Safety, Health. Relevant to public safety, health; surfaced from National coverage.
 - [Egypt say Dallas police officer pushed player, team director at World Cup](https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss) - War & Security, Public Safety. Relevant to war & security, public safety; surfaced from World coverage.
-- [New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires](https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss) - Public Safety. Relevant to public safety; surfaced from Local coverage.
 - [Iran war live: Millions expected in Tehran for funeral of Ali Khamenei](https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss) - War & Security. Relevant to war & security; surfaced from World coverage.
 - [Thousands forced to evacuate in Colorado as wildfire spreads](https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss) - Public Safety. Relevant to public safety; surfaced from World coverage.
+- [Iran begins public mourning for Ayatollah killed in February](https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss) - War & Security. Relevant to war & security; surfaced from World coverage.
 
 ### Most Relevant
 
@@ -122,6 +130,13 @@
 ### BC Legislature
 
 - [BC Legislature](https://www.leg.bc.ca/parliamentary-business/overview/43rd-parliament/1st-session/bills/progress-of-bills) - Official tracker
+
+### NZ Government & Bills
+
+- [Current bills before Parliament](https://bills.parliament.nz/) - Official tracker
+- [Bills and proposed laws](https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/) - Official tracker
+- [Order Paper and questions](https://www.parliament.nz/en/pb/order-paper-questions/) - Official agenda
+- [Select committees](https://www.parliament.nz/en/pb/sc/) - Official tracker
 
 ### Esquimalt Council
 

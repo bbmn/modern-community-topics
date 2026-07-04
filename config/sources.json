@@ -181,7 +181,7 @@
     {
       "id": "new-zealand",
       "name": "New Zealand",
-      "focus": "Aotearoa New Zealand news and politics",
+      "focus": "Aotearoa New Zealand general news",
       "feeds": [
         {
           "name": "RNZ News",
@@ -192,6 +192,18 @@
           "name": "RNZ National",
           "url": "https://www.rnz.co.nz/rss/national.xml",
           "weight": 1.05
+        }
+      ]
+    },
+    {
+      "id": "new-zealand-politics",
+      "name": "NZ Politics",
+      "focus": "New Zealand political decisions, Parliament, ministers, parties, and public policy",
+      "feeds": [
+        {
+          "name": "RNZ Politics",
+          "url": "https://www.rnz.co.nz/rss/political.xml",
+          "weight": 1.25
         }
       ]
     }
@@ -250,6 +262,65 @@
         "name": "Legislative Assembly of BC",
         "url": "https://www.leg.bc.ca/parliamentary-business/overview/43rd-parliament/1st-session/bills/progress-of-bills",
         "type": "official_link"
+      }
+    },
+    {
+      "id": "new-zealand-government",
+      "name": "NZ Government & Bills",
+      "focus": "Official New Zealand Parliament bill trackers, House business, and current lawmaking links",
+      "source": {
+        "name": "New Zealand Parliament",
+        "type": "manual_items",
+        "items": [
+          {
+            "title": "Current bills before Parliament",
+            "status": "Official tracker",
+            "description": "Official New Zealand Parliament bill tracker for proposed laws, bill stages, versions, and bill history.",
+            "url": "https://bills.parliament.nz/",
+            "category": "Bills",
+            "priority": 8,
+            "outcome": "tracker",
+            "importanceReasons": [
+              "Best official starting point for bills being introduced, debated, amended, or passed."
+            ]
+          },
+          {
+            "title": "Bills and proposed laws",
+            "status": "Official tracker",
+            "description": "New Zealand Parliament page for bills and proposed laws, including how bills move through Parliament.",
+            "url": "https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/",
+            "category": "Bills",
+            "priority": 7,
+            "outcome": "tracker",
+            "importanceReasons": [
+              "Official context for current bills and how they progress toward becoming law."
+            ]
+          },
+          {
+            "title": "Order Paper and questions",
+            "status": "Official agenda",
+            "description": "Daily House business and questions, useful for seeing what Parliament is scheduled to debate.",
+            "url": "https://www.parliament.nz/en/pb/order-paper-questions/",
+            "category": "Parliament schedule",
+            "priority": 7,
+            "outcome": "active",
+            "importanceReasons": [
+              "Shows what is before the House now or next, including debates and questions."
+            ]
+          },
+          {
+            "title": "Select committees",
+            "status": "Official tracker",
+            "description": "Select committee work, submissions, inquiries, and bill scrutiny before later House stages.",
+            "url": "https://www.parliament.nz/en/pb/sc/",
+            "category": "Committees",
+            "priority": 6,
+            "outcome": "active",
+            "importanceReasons": [
+              "Many bills are shaped in committee before second and third readings."
+            ]
+          }
+        ]
       }
     },
     {

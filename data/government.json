@@ -258,6 +258,75 @@
       ]
     },
     {
+      "id": "new-zealand-government",
+      "name": "NZ Government & Bills",
+      "focus": "Official New Zealand Parliament bill trackers, House business, and current lawmaking links",
+      "source": "New Zealand Parliament",
+      "sourceUrl": "",
+      "items": [
+        {
+          "id": "new-zealand-government-current-bills-before-parliament",
+          "title": "Current bills before Parliament",
+          "status": "Official tracker",
+          "description": "Official New Zealand Parliament bill tracker for proposed laws, bill stages, versions, and bill history.",
+          "url": "https://bills.parliament.nz/",
+          "source": "New Zealand Parliament",
+          "date": "",
+          "priority": 8,
+          "category": "Bills",
+          "importanceReasons": [
+            "Best official starting point for bills being introduced, debated, amended, or passed."
+          ],
+          "outcome": "tracker"
+        },
+        {
+          "id": "new-zealand-government-bills-and-proposed-laws",
+          "title": "Bills and proposed laws",
+          "status": "Official tracker",
+          "description": "New Zealand Parliament page for bills and proposed laws, including how bills move through Parliament.",
+          "url": "https://www.parliament.nz/en/pb/bills-and-laws/bills-proposed-laws/",
+          "source": "New Zealand Parliament",
+          "date": "",
+          "priority": 7,
+          "category": "Bills",
+          "importanceReasons": [
+            "Official context for current bills and how they progress toward becoming law."
+          ],
+          "outcome": "tracker"
+        },
+        {
+          "id": "new-zealand-government-order-paper-and-questions",
+          "title": "Order Paper and questions",
+          "status": "Official agenda",
+          "description": "Daily House business and questions, useful for seeing what Parliament is scheduled to debate.",
+          "url": "https://www.parliament.nz/en/pb/order-paper-questions/",
+          "source": "New Zealand Parliament",
+          "date": "",
+          "priority": 7,
+          "category": "Parliament schedule",
+          "importanceReasons": [
+            "Shows what is before the House now or next, including debates and questions."
+          ],
+          "outcome": "active"
+        },
+        {
+          "id": "new-zealand-government-select-committees",
+          "title": "Select committees",
+          "status": "Official tracker",
+          "description": "Select committee work, submissions, inquiries, and bill scrutiny before later House stages.",
+          "url": "https://www.parliament.nz/en/pb/sc/",
+          "source": "New Zealand Parliament",
+          "date": "",
+          "priority": 6,
+          "category": "Committees",
+          "importanceReasons": [
+            "Many bills are shaped in committee before second and third readings."
+          ],
+          "outcome": "active"
+        }
+      ]
+    },
+    {
       "id": "esquimalt-meetings",
       "name": "Esquimalt Council",
       "focus": "Council, committee, agenda, and public notice tracking",
@@ -404,7 +473,7 @@
         "importanceReasons": [
           "Relevant to war & security, public safety; surfaced from World coverage."
         ],
-        "priority": 15.922,
+        "priority": 15.913,
         "outcome": "policy_watch"
       },
       {
@@ -419,22 +488,22 @@
         "importanceReasons": [
           "Relevant to public safety; surfaced from Local coverage."
         ],
-        "priority": 14.388,
+        "priority": 14.378,
         "outcome": "policy_watch"
       },
       {
         "id": "policy-9-7258006",
         "title": "Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister",
-        "status": "CBC British Columbia",
+        "status": "CBC Politics",
         "description": "Energy Minister Tim Hodgson says a second pipeline to the West Coast will be money well-spent for the federal government but can't say how much Ottawa would be on the hook for.",
         "url": "https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss",
-        "source": "CBC British Columbia",
-        "sectionName": "Local",
+        "source": "CBC Politics",
+        "sectionName": "National",
         "category": "Climate & Infrastructure",
         "importanceReasons": [
-          "Relevant to climate & infrastructure; surfaced from Local coverage."
+          "Relevant to climate & infrastructure; surfaced from National coverage."
         ],
-        "priority": 13.841,
+        "priority": 13.881,
         "outcome": "policy_watch"
       },
       {
@@ -449,7 +518,7 @@
         "importanceReasons": [
           "Relevant to public safety, health; surfaced from National coverage."
         ],
-        "priority": 13.068,
+        "priority": 13.058,
         "outcome": "policy_watch"
       },
       {
@@ -464,22 +533,7 @@
         "importanceReasons": [
           "Relevant to war & security, public safety; surfaced from World coverage."
         ],
-        "priority": 11.569,
-        "outcome": "policy_watch"
-      },
-      {
-        "id": "policy-9-7257665",
-        "title": "New Brunswick, Prince Edward Island and B.C. assist Quebec in battling wildfires",
-        "status": "CBC British Columbia",
-        "description": "Three provinces are lending a helping hand to Quebec's wildfire prevention and suppression agency in its efforts to combat fires.",
-        "url": "https://www.cbc.ca/news/canada/montreal/fires-northern-quebec-sopfeu-9.7257665?cmp=rss",
-        "source": "CBC British Columbia",
-        "sectionName": "Local",
-        "category": "Public Safety",
-        "importanceReasons": [
-          "Relevant to public safety; surfaced from Local coverage."
-        ],
-        "priority": 10.695,
+        "priority": 11.559,
         "outcome": "policy_watch"
       },
       {
@@ -494,7 +548,7 @@
         "importanceReasons": [
           "Relevant to war & security; surfaced from World coverage."
         ],
-        "priority": 10.361,
+        "priority": 10.352,
         "outcome": "policy_watch"
       },
       {
@@ -509,7 +563,22 @@
         "importanceReasons": [
           "Relevant to public safety; surfaced from World coverage."
         ],
-        "priority": 10.224,
+        "priority": 10.215,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-https-www-bbc-co-uk-news-articles-cx2k4k7jqeno-0",
+        "title": "Iran begins public mourning for Ayatollah killed in February",
+        "status": "BBC World",
+        "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
+        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "sectionName": "World",
+        "category": "War & Security",
+        "importanceReasons": [
+          "Relevant to war & security; surfaced from World coverage."
+        ],
+        "priority": 10.135,
         "outcome": "policy_watch"
       }
     ],
