@@ -62,8 +62,11 @@ function renderBriefing(data) {
 }
 
 function renderNewZealand(data, governmentData, sportsData) {
-  const newsSections = (data.sections || [])
-    .filter((section) => section.id === "new-zealand" || section.id === "new-zealand-politics")
+  const mainNewsSections = (data.sections || [])
+    .filter((section) => section.id === "new-zealand")
+    .map((section) => renderNewsSection(section, "new-zealand"));
+  const politicsSections = (data.sections || [])
+    .filter((section) => section.id === "new-zealand-politics")
     .map((section) => renderNewsSection(section, "new-zealand"));
   const governmentSections = (governmentData.sections || [])
     .filter((section) => section.id === "new-zealand-government")
@@ -72,7 +75,7 @@ function renderNewZealand(data, governmentData, sportsData) {
     .filter((section) => section.id === "new-zealand-sports")
     .map((section) => renderSportsSection(section, "new-zealand"));
 
-  newZealand.innerHTML = [...newsSections, ...governmentSections, ...sportsSections].join("") || `
+  newZealand.innerHTML = [...mainNewsSections, ...sportsSections, ...politicsSections, ...governmentSections].join("") || `
     <article class="section">
       <h2>New Zealand</h2>
       <p class="focus">No New Zealand stories were found in this refresh.</p>
