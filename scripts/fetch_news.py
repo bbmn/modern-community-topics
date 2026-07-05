@@ -15,7 +15,7 @@ from dataclasses import dataclass
 from datetime import datetime, timezone
 from html.parser import HTMLParser
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterable
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -128,6 +128,13 @@ STOP_WORDS = {
     "canadian", "british", "columbia", "victoria", "vancouver", "people",
     "official", "officials", "government", "minister", "province", "public",
     "june", "today", "amid", "after", "before", "during"
+}
+
+RELATED_WEAK_TERMS = {
+    "announces", "announced", "because", "before", "being", "could", "during",
+    "evacuation", "expected", "latest", "meeting", "notice", "official",
+    "prompts", "public", "regular", "residents", "source", "today", "underway",
+    "where", "would"
 }
 
 
@@ -425,7 +432,8 @@ def build_item(
         "url": link,
         "published": published,
         "score": score,
-        "keywords": keywords_for(title + " " + description)
+        "keywords": keywords_for(title + " " + description),
+        "titleKeywords": keywords_for(title)
     }
 
 
@@ -1000,20 +1008,37 @@ def dedupe(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
 def attach_related(items: list[dict[str, Any]]) -> None:
     for item in items:
         related = []
-        item_words = set(item["keywords"])
+        item_words = related_match_words(item["keywords"])
+        item_title_words = related_match_words(item.get("titleKeywords", []))
         for candidate in items:
             if candidate["id"] == item["id"]:
                 continue
-            overlap = item_words.intersection(candidate["keywords"])
-            if len(overlap) < 2:
+            candidate_words = related_match_words(candidate["keywords"])
+            candidate_title_words = related_match_words(candidate.get("titleKeywords", []))
+            overlap = item_words.intersection(candidate_words)
+            title_overlap = item_title_words.intersection(candidate_title_words)
+            if len(overlap) < 2 and not title_overlap:
                 continue
             same_section = item["section"] == candidate["section"]
             same_source = item["source"] == candidate["source"]
-            if not same_section and len(overlap) < 4:
+            strong_title_match = len(title_overlap) >= 2 and len(overlap) >= 3
+            strong_body_match = len(overlap) >= 4 and len(title_overlap) >= 1
+            if not strong_title_match and not strong_body_match:
                 continue
-            score = len(overlap) * 2 + (3 if same_section else 0) - (2 if same_source else 0)
-            related.append((score, len(overlap), candidate))
-        related.sort(key=lambda pair: (pair[0], pair[1], pair[2]["score"]), reverse=True)
+            score = len(overlap) * 2 + len(title_overlap) * 4 + (3 if same_section else 0) - (6 if same_source else 0)
+            related.append((score, len(overlap), len(title_overlap), candidate))
+        related.sort(key=lambda pair: (pair[0], pair[1], pair[2], pair[3]["score"]), reverse=True)
+        selected = []
+        selected_sources = set()
+        for _, _, _, candidate in related:
+            if candidate["source"] == item["source"]:
+                continue
+            if candidate["source"] in selected_sources:
+                continue
+            selected.append(candidate)
+            selected_sources.add(candidate["source"])
+            if len(selected) >= 3:
+                break
         item["relatedSources"] = [
             {
                 "source": candidate["source"],
@@ -1021,12 +1046,16 @@ def attach_related(items: list[dict[str, Any]]) -> None:
                 "url": candidate["url"],
                 "reason": related_reason(item, candidate)
             }
-            for _, _, candidate in related[:3]
+            for candidate in selected
         ]
 
 
+def related_match_words(words: Iterable[str]) -> set[str]:
+    return {word for word in words if word not in RELATED_WEAK_TERMS}
+
+
 def related_reason(item: dict[str, Any], candidate: dict[str, Any]) -> str:
-    overlap = sorted(set(item["keywords"]).intersection(candidate["keywords"]))
+    overlap = sorted(related_match_words(item["keywords"]).intersection(related_match_words(candidate["keywords"])))
     if item["section"] == candidate["section"]:
         return f"Same section; shared terms: {', '.join(overlap[:4])}."
     return f"Shared terms: {', '.join(overlap[:4])}."

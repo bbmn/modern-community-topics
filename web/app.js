@@ -445,7 +445,7 @@ function openStory(id) {
     ? related.map((item) => `
         <li><a href="${escapeHtml(item.url)}">${escapeHtml(item.title)}</a><br><span>${escapeHtml(item.source)}${item.reason ? ` / ${escapeHtml(item.reason)}` : ""}</span></li>
       `).join("")
-    : "<li>No strong related source found in today's feed set.</li>";
+    : "<li>No strong second-source match found in today's feed set.</li>";
 
   showDrawer(`story:${id}`);
 }

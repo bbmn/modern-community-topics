@@ -1,4 +1,4 @@
-# Modern Community Topics - 2026-07-03 23:16
+# Modern Community Topics - 2026-07-04 23:54
 
 ## Esquimalt
 
@@ -9,11 +9,14 @@
 
 ## Local
 
-- [Out-of-control wildfire near Boston Bar has evacuation notice](https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/) - CityNews Vancouver
-- [B.C. driver charged in high-speed collision in New Westminster](https://vancouver.citynews.ca/2026/07/03/new-west-dangerous-driving-charge/) - CityNews Vancouver
-- [Richmond police officer has been charged with dangerous driving](https://vancouver.citynews.ca/2026/07/03/richmond-rcmp-officer-dangerous-driving/) - CityNews Vancouver
-- [Mother of B.C. charter boat captain tells of heartbreak after sinking](https://vancouver.citynews.ca/2026/07/03/cp-newsalert-mother-of-b-c-charter-boat-captain-tells-of-heartbreak-after-sinking/) - CityNews Vancouver
-- [Thousands of kilos of illicit drugs, chemicals seized, Burnaby RCMP says](https://vancouver.citynews.ca/2026/07/03/burnaby-illicit-drugs-chemicals-seized/) - CityNews Vancouver
+- [Out-of-control wildfire burning near Boston Bar, B.C. prompts evacuation for about 60 residences](https://www.cbc.ca/news/canada/british-columbia/wildfire-near-boston-bar-tactical-evacuation-9.7259019?cmp=rss) - CBC British Columbia
+- [Local impacts of pipeline to B.C. coast and Delta port expansion](https://vancouver.citynews.ca/2026/07/04/local-impacts-pipeline-b-c-coast/) - CityNews Vancouver
+- [How a First Nation in B.C. is hoping to restore wildfire-ravaged forests with seedlings](https://www.cbc.ca/news/canada/british-columbia/osoyoos-forest-nursery-seelings-wildfire-forests-9.7257607?cmp=rss) - CBC British Columbia
+- [GVRDEU escalating strike action Saturday afternoon](https://vancouver.citynews.ca/2026/07/04/gvrdeu-escalate-strike-action/) - CityNews Vancouver
+- [Mock evacuation exercise to take place in Tatla Lake area](https://www.cbc.ca/news/canada/british-columbia/first-responders-conducting-evacuation-training-in-tatla-lake-area-9.7256724?cmp=rss) - CBC British Columbia
+- [Why expansion of Delta container port is going hand-in-hand with Alberta pipeline proposal](https://www.cbc.ca/news/canada/british-columbia/southern-pipeline-route-delta-roberts-bank-terminal-2-9.7256890?cmp=rss) - CBC British Columbia
+- [To swat or not? These scientists suggest we rethink our fear toward insects](https://www.cbc.ca/radio/sunday/insects-are-friends-not-foe-9.7242587?cmp=rss) - CBC British Columbia
+- [These Osoyoos twins were both drafted by the Pittsburgh Penguins. Their parents say it's all about passion](https://www.cbc.ca/news/canada/british-columbia/osoyoos-bc-hockey-twins-drafted-nhl-pittsburgh-penguins-9.7255200?cmp=rss) - CBC British Columbia
 
 ## Greater Victoria
 
@@ -28,58 +31,58 @@
 
 ## Provincial
 
-- [‘It's Going to Happen Again’](https://thetyee.ca/News/2026/07/03/Going-Happen-Again/) - The Tyee
 - [Premier’s statement on Canada Day](https://news.gov.bc.ca/releases/2026PREM0043-000761) - BC Government News
-- [Indian Summer Starts with Laughter](https://thetyee.ca/Culture/2026/07/03/Indian-Summer-Festival-Starts-With-Laughter/) - The Tyee
-- [Powell Street Festival Celebrates Its 50th Year](https://thetyee.ca/Presents/2026/07/03/Powell-Street-Festival-50th-Year/) - The Tyee
-- [Calgary’s ‘Confluence’ Gets Complicated](https://thetyee.ca/Culture/2026/07/03/Calgary-Confluence-Gets-Complicated/) - The Tyee
-- [The Radical Magic of Estelle Shook](https://thetyee.ca/Culture/2026/07/03/Radical-Magic-Estelle-Shook-Caravan-Farm-Theatre/) - The Tyee
-- [Stephanie Allen Wants to Be Vancouver’s Next Mayor](https://thetyee.ca/News/2026/07/02/Stephanie-Allen-Wants-Be-Vancouver-Mayor/) - The Tyee
-- [Inside Carney’s Pipeline Deal with Alberta and BC](https://thetyee.ca/Opinion/2026/07/03/Inside-Carney-Pipeline-Deal-Alberta-BC/) - The Tyee
+- [‘It's Going to Happen Again’](https://thetyee.ca/News/2026/07/03/Going-Happen-Again/) - The Tyee
+- [B.C. secures landmark agreement to power decades of jobs, prosperity, growth](https://news.gov.bc.ca/releases/2026PREM0046-000779) - BC Government News
+- [Plan ahead, stay safe this Canada Day](https://news.gov.bc.ca/releases/2026EMCR0029-000754) - BC Government News
+- [Nighttime lane closures, increased noise expected for Mary Hill Bypass](https://news.gov.bc.ca/releases/2026TT0063-000782) - BC Government News
+- [Temporary lane reduction planned for Clearbrook Road over Highway 1](https://news.gov.bc.ca/releases/2026TT0064-000783) - BC Government News
+- [Setting new harvest level near Hazelton](https://news.gov.bc.ca/releases/2026FOR0034-000780) - BC Government News
+- [Northwestern land-use planning at next engagement stage](https://news.gov.bc.ca/releases/2026WLRS0031-000781) - BC Government News
 
 ## National
 
 - [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - CBC Politics
 - [Feds to weigh guardrails, alternatives to 'contentious' labour code tool: Hajdu](https://www.cbc.ca/news/politics/feds-to-weigh-guardrails-alternatives-to-contentious-labour-code-tool-hajdu-9.7257490?cmp=rss) - CBC Politics
-- [Will Alberta pipeline proposal move voters ahead of separation vote?](https://www.cbc.ca/news/canada/calgary/separatism-pipeline-skepticism-9.7258279?cmp=rss) - CBC Top Stories
-- [Hoekstra says no 'significant progress' in 14 months of trade negotiations, but U.S. to keep talking](https://www.cbc.ca/news/politics/hoekstra-trade-talks-no-progress-9.7257293?cmp=rss) - CBC Politics
-- [Gordie Howe bridge cost still $6.4B despite delays, federal authority says](https://www.cbc.ca/news/canada/windsor/gordie-howe-bridge-cost-delays-construction-funding-2026-9.7256222?cmp=rss) - CBC Top Stories
-- [Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage](https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss) - CBC Top Stories
-- [Ontario couple sentenced to life in prison for murdering boy 'got what they deserved,' brother tells court](https://www.cbc.ca/news/canada/hamilton/cooney-hamber-trial-milton-9.7258020?cmp=rss) - CBC Top Stories
-- [Gilgeous-Alexander scores 26 points as Canada routs Puerto Rico 110-84 in basketball World Cup qualifying](https://www.cbc.ca/news/canada/hamilton/gilgeous-alexander-canada-puerto-rico-fiba-world-cup-9.7258491?cmp=rss) - CBC Top Stories
+- [No houses lost in Fort Simpson, N.W.T., wildfire](https://www.cbc.ca/news/canada/north/fort-simpson-nwt-wildfire-9.7258696?cmp=rss) - CBC Top Stories
+- [Feeling sticker shock over Canadian beef? Here's why — and what's being done about it](https://www.cbc.ca/news/politics/beef-prices-federal-government-interprovincial-trade-barrier-slaughterhouse-meat-9.7258043?cmp=rss) - CBC Politics
+- [Trump vows to still deliver Fourth of July speech after weather prompts D.C. event evacuation](https://www.cbc.ca/news/world/national-mall-evacuations-storm-trump-fourth-of-july-speech-9.7258943?cmp=rss) - CBC Top Stories
+- [Fans get home court advantage as first ever professional basketball game tips-off in Whitehorse](https://www.cbc.ca/news/canada/north/professional-basketball-game-whitehorse-9.7258036?cmp=rss) - CBC Top Stories
+- [DND official rebuked for custom-made business card featuring F-35s](https://www.cbc.ca/news/politics/f-35s-defence-department-business-card-9.7257273?cmp=rss) - CBC Politics
+- [Canada wants to build up to 10 new nuclear plants. Will our pension funds pay for them?](https://www.cbc.ca/news/science/nuclear-strategy-pensions-electricity-9.7257049?cmp=rss) - CBC Top Stories
 
 ## World
 
-- [Thousands forced to evacuate in Colorado as wildfire spreads](https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss) - Al Jazeera
-- [England vs Mexico World Cup knockout match to go ahead as scheduled](https://www.aljazeera.com/sports/2026/7/4/england-vs-mexico-world-cup-knockout-match-to-go-ahead-as-scheduled?traffic_source=rss) - Al Jazeera
-- [Massive wildfire spreads in Portugal amid extreme heat and strong wind](https://www.aljazeera.com/video/newsfeed/2026/7/3/massive-wildfire-spreads-in-portugal-amid-extreme-heat-and-strong-wind?traffic_source=rss) - Al Jazeera
-- [Iran war live: Millions expected in Tehran for funeral of Ali Khamenei](https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss) - Al Jazeera
-- [Venezuela’s Rodriguez blames ‘propaganda’ for quake response backlash](https://www.aljazeera.com/video/newsfeed/2026/7/3/venezuelas-rodriguez-blames-propaganda-for-quake-response-backlash-2?traffic_source=rss) - Al Jazeera
-- [Iran begins public mourning for Ayatollah killed in February](https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss) - BBC World
-- [Is China’s new ethnic unity law a step towards forced assimilation?](https://www.aljazeera.com/video/inside-story/2026/7/3/is-chinas-new-ethnic-unity-law-a-step-towards-forced-assimilation-2?traffic_source=rss) - Al Jazeera
-- [Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister](https://www.bbc.co.uk/news/articles/cvge0gd6lnqo?at_medium=RSS&at_campaign=rss) - BBC World
+- [Keiko Fujimori declared winner of Peru's presidential election weeks after vote](https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss) - BBC World
+- [Iran war live: Millions mourn Khamenei, Trump hints at Netanyahu meeting](https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss) - Al Jazeera
+- [Chinese underground church figure Jin Mingri freed from prison](https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss) - BBC World
+- [Brazil vs Norway: FIFA World Cup last 16 – Vinicius, Haaland and prediction](https://www.aljazeera.com/sports/2026/7/5/brazil-vs-norway-fifa-world-cup-last-16-vinicius-haaland-and-prediction?traffic_source=rss) - Al Jazeera
+- [Native Americans Resisting ICE](https://www.aljazeera.com/video/witness/2026/7/5/native-americans-resisting-ice?traffic_source=rss) - Al Jazeera
+- [US marks its 250th birthday with fireworks, flyovers and extreme weather](https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss) - BBC World
+- [Trump lauds Americans in storm-delayed 250th anniversary speech](https://www.aljazeera.com/video/newsfeed/2026/7/5/aje-onl-nf_trump-lauds-americans-in-250th-anniversary-speech-050726?traffic_source=rss) - Al Jazeera
+- [A name, a document, a future: Cameroon’s fight to register every child](https://www.aljazeera.com/news/2026/7/5/a-name-a-document-a-future-cameroons-fight-to-register-every-child?traffic_source=rss) - Al Jazeera
 
 ## New Zealand
 
 - [Environmental group hails court decision on orange roughy catch-limit](https://www.rnz.co.nz/news/crime-and-justice/657361/environmental-group-hails-court-decision-on-orange-roughy-catch-limit) - RNZ National
-- [Smell of gas in Auckland sparks school evacuation, FENZ call-outs](https://www.rnz.co.nz/news/emergencies_local/653213/smell-of-gas-in-auckland-sparks-school-evacuation-fenz-call-outs) - RNZ National
+- [Rain, snow warnings take effect for parts of South Island](https://www.rnz.co.nz/news/weather/672039/rain-snow-warnings-take-effect-for-parts-of-south-island) - RNZ News
+- [Clinical Morocco ease past Canada 3-0 to reach World Cup quarter-finals](https://www.rnz.co.nz/news/sport/674418/clinical-morocco-ease-past-canada-3-0-to-reach-world-cup-quarter-finals) - RNZ News
+- [Mediawatch: New chair Brent Impey in RNZ hot seat faces political heat](https://www.rnz.co.nz/news/media-technology/672633/mediawatch-new-chair-brent-impey-in-rnz-hot-seat-faces-political-heat) - RNZ News
+- [Health NZ apologises over paused bowel cancer procedures - but what next?](https://www.rnz.co.nz/news/health/671797/health-nz-apologises-over-paused-bowel-cancer-procedures-but-what-next) - RNZ News
 - [Smell of smoke in Air NZ plane cabin triggers emergency reponse at Christchurch Airport](https://www.rnz.co.nz/news/emergency/666897/smell-of-smoke-in-air-nz-plane-cabin-triggers-emergency-reponse-at-christchurch-airport) - RNZ News
-- [Rangatahi use kapa haka to share identity, stories and healing](https://www.rnz.co.nz/news/te-manu-korihi/657276/rangatahi-use-kapa-haka-to-share-identity-stories-and-healing) - RNZ News
 - [Barrister takes health insurer to court over refusal to pay for ADHD diagnosis](https://www.rnz.co.nz/news/health/657278/barrister-takes-health-insurer-to-court-over-refusal-to-pay-for-adhd-diagnosis) - RNZ National
-- [Government to go ahead with expansion of programme to help young children's language](https://www.rnz.co.nz/news/political/654063/government-to-go-ahead-with-expansion-of-programme-to-help-young-children-s-language) - RNZ National
-- [Concrete-filled golf holes deepen Pegasus development dispute](https://www.rnz.co.nz/news/regional/661344/concrete-filled-golf-holes-deepen-pegasus-development-dispute) - RNZ News
-- [Potential human rights abuses uncovered at Dunedin's Wakari Hospital - ombudsman](https://www.rnz.co.nz/news/health/660871/potential-human-rights-abuses-uncovered-at-dunedin-s-wakari-hospital-ombudsman) - RNZ News
+- [New Zealand joins US project to accelerate AI warfighting](https://www.rnz.co.nz/news/world/674778/new-zealand-joins-us-project-to-accelerate-ai-warfighting) - RNZ News
 
 ## NZ Politics
 
+- [Todd McClay says no reason for concern about India migration changes](https://www.rnz.co.nz/news/political/673879/todd-mcclay-says-no-reason-for-concern-about-india-migration-changes) - RNZ Politics
+- [National promises to prioritise seven trade deals if elected](https://www.rnz.co.nz/news/political/672751/national-promises-to-prioritise-seven-trade-deals-if-elected) - RNZ Politics
+- [NZ First announces policy to restrict voting to citizens only](https://www.rnz.co.nz/news/political/673830/nz-first-announces-policy-to-restrict-voting-to-citizens-only) - RNZ Politics
 - [Woman adopted 21 children from overseas, but people trafficking ruled out](https://www.rnz.co.nz/news/political/665957/woman-adopted-21-children-from-overseas-but-people-trafficking-ruled-out) - RNZ Politics
+- [ACT policy aims to stop abusers 'weaponising' pets to control victims](https://www.rnz.co.nz/news/political/673624/act-policy-aims-to-stop-abusers-weaponising-pets-to-control-victims) - RNZ Politics
 - [Former mayor, broadcaster Michael Laws to stand for NZ First in upcoming election](https://www.rnz.co.nz/news/political/658049/former-mayor-broadcaster-michael-laws-to-stand-for-nz-first-in-upcoming-election) - RNZ Politics
-- ['A kick in the guts': Calls for fees associated with registering stillbirths to be waived](https://www.rnz.co.nz/news/political/653161/a-kick-in-the-guts-calls-for-fees-associated-with-registering-stillbirths-to-be-waived) - RNZ Politics
-- [Waikato Hospital ward will not be ready until 2027, health minister says](https://www.rnz.co.nz/news/political/659839/waikato-hospital-ward-will-not-be-ready-until-2027-health-minister-says) - RNZ Politics
+- [The outcomes of a long week of lawmaking](https://www.rnz.co.nz/news/political/673386/the-outcomes-of-a-long-week-of-lawmaking) - RNZ Politics
 - [MSD boss defends linking staff performance with cutting emergency housing](https://www.rnz.co.nz/news/political/657399/msd-boss-defends-linking-staff-performance-with-cutting-emergency-housing) - RNZ Politics
-- [The House: The 'not my circus' defence versus the rules](https://www.rnz.co.nz/news/political/654881/the-house-the-not-my-circus-defence-versus-the-rules) - RNZ Politics
-- [New US ambassador would like chance to work on New Zealand's nuclear policy](https://www.rnz.co.nz/news/political/660035/new-us-ambassador-would-like-chance-to-work-on-new-zealand-s-nuclear-policy) - RNZ Politics
-- [Bill banning climate tort cases like Mike Smith's passes first reading](https://www.rnz.co.nz/news/political/654496/bill-banning-climate-tort-cases-like-mike-smith-s-passes-first-reading) - RNZ Politics
 
 ## Feed Notes
 
@@ -89,14 +92,14 @@
 
 ### Policy Watch
 
-- [Gaza patients face agonising delays for medical evacuation](https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss) - War & Security, Public Safety. Relevant to war & security, public safety; surfaced from World coverage.
-- [Out-of-control wildfire near Boston Bar has evacuation notice](https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/) - Public Safety. Relevant to public safety; surfaced from Local coverage.
+- [Out-of-control wildfire burning near Boston Bar, B.C. prompts evacuation for about 60 residences](https://www.cbc.ca/news/canada/british-columbia/wildfire-near-boston-bar-tactical-evacuation-9.7259019?cmp=rss) - Public Safety. Relevant to public safety; surfaced from Local coverage.
 - [Taxpayers could be on hook for West Coast pipeline, but it's a 'good investment': Energy minister](https://www.cbc.ca/news/politics/taxpayers-could-be-on-hook-for-west-coast-pipeline-but-it-s-a-good-investment-energy-minister-9.7258006?cmp=rss) - Climate & Infrastructure. Relevant to climate & infrastructure; surfaced from National coverage.
-- [Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage](https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss) - Public Safety, Health. Relevant to public safety, health; surfaced from National coverage.
-- [Egypt say Dallas police officer pushed player, team director at World Cup](https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss) - War & Security, Public Safety. Relevant to war & security, public safety; surfaced from World coverage.
-- [Iran war live: Millions expected in Tehran for funeral of Ali Khamenei](https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss) - War & Security. Relevant to war & security; surfaced from World coverage.
-- [Thousands forced to evacuate in Colorado as wildfire spreads](https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss) - Public Safety. Relevant to public safety; surfaced from World coverage.
-- [Iran begins public mourning for Ayatollah killed in February](https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss) - War & Security. Relevant to war & security; surfaced from World coverage.
+- [No houses lost in Fort Simpson, N.W.T., wildfire](https://www.cbc.ca/news/canada/north/fort-simpson-nwt-wildfire-9.7258696?cmp=rss) - Public Safety. Relevant to public safety; surfaced from National coverage.
+- [Ukraine hits major oil terminal in Russia's St Petersburg](https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss) - War & Security, Climate & Infrastructure. Relevant to war & security, climate & infrastructure; surfaced from World coverage.
+- [St. Petersburg oil terminal hit as Ukraine presses long-range drone campaign](https://www.cbc.ca/news/world/st-petersburg-oil-terminal-ukraine-drone-attack-9.7258503?cmp=rss) - War & Security, Climate & Infrastructure. Relevant to war & security, climate & infrastructure; surfaced from National coverage.
+- [Trump vows to still deliver Fourth of July speech after weather prompts D.C. event evacuation](https://www.cbc.ca/news/world/national-mall-evacuations-storm-trump-fourth-of-july-speech-9.7258943?cmp=rss) - Public Safety. Relevant to public safety; surfaced from National coverage.
+- [Iran war live: Millions mourn Khamenei, Trump hints at Netanyahu meeting](https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss) - War & Security. Relevant to war & security; surfaced from World coverage.
+- [How a First Nation in B.C. is hoping to restore wildfire-ravaged forests with seedlings](https://www.cbc.ca/news/canada/british-columbia/osoyoos-forest-nursery-seelings-wildfire-forests-9.7257607?cmp=rss) - Public Safety. Relevant to public safety; surfaced from Local coverage.
 
 ### Most Relevant
 
@@ -160,9 +163,8 @@
 ### Scores & Fixtures
 
 - [World Cup](https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/scores-fixtures) - Scores & fixtures (FIFA)
-  - Australia 1-1 Egypt (FT-Pens) - Jul 3: Egypt advance 4-2 on penalties
-  - Argentina 3-2 Cape Verde (AET) - Jul 3: Argentina beat Cape Verde 3-2 in extra time
-  - Colombia 1-0 Ghana (FT) - Jul 3: Arias guides Colombia past Ghana into round of 16
+  - Canada 0-3 Morocco (FT) - Jul 4: Morocco send Canada crashing out of World Cup
+  - Paraguay 0-1 France (FT) - Jul 4: Mbappé leads France to WCup quarterfinals
 - [Champions League](https://www.uefa.com/uefachampionsleague/fixtures-results/) - Fixtures & results (UEFA)
   - PSG 1-1 Arsenal (FT-Pens) - May 30: Paris Saint-Germain win 4-3 on penalties
 - [Premier League](https://www.premierleague.com/fixtures) - Fixtures & results (Premier League)
@@ -172,33 +174,33 @@
 
 ### Football News
 
+- [Premier League quartet want Scott - Sunday's gossip](https://www.bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&at_campaign=rss) - BBC Football
+- [The Norway story - 28-year wait for their biggest-ever party](https://www.bbc.co.uk/sport/football/videos/cpq3pgdp500o?at_medium=RSS&at_campaign=rss) - BBC Football
 - [Concerns raised about Jonathan Morgan prior to Maddy Cusack’s death, inquest told](https://www.theguardian.com/football/2026/jul/03/maddy-cusack-jonathan-morgan-womens-football-inquest) - The Guardian Football
+- [France find a way past Paraguay and what awaits England in Mexico? - World Cup Daily](https://www.theguardian.com/football/audio/2026/jul/05/france-find-a-way-past-paraguay-and-what-awaits-england-in-mexico-world-cup-daily) - The Guardian Football
+- [Transfer rumors, news: Premier League clubs on ale...](https://www.espn.com/soccer/story/_/id/49265988/transfer-rumors-news-premier-league-clubs-alert-barcelona-france-defender) - ESPN Soccer
+- [Morocco reach quarter-finals as co-hosts Canada knocked out](https://www.bbc.co.uk/sport/football/videos/cddlpql2e98o?at_medium=RSS&at_campaign=rss) - BBC Football
+- [‘This is a hellhole’: Aramco makes its presence hurt in the shadow of the World Cup](https://www.theguardian.com/football/2026/jul/04/aramco-world-cup-fifa-port-arthur-texas-houston) - The Guardian Football
 - ['I decided last minute!' - Salah on Panenka penalty](https://www.bbc.co.uk/sport/football/videos/cg53p2qym2jo?at_medium=RSS&at_campaign=rss) - BBC Football
-- [Arias strike sends Colombia into last 16 with victory over Ghana](https://www.bbc.co.uk/sport/football/videos/crr8pz45409o?at_medium=RSS&at_campaign=rss) - BBC Football
-- ['What a strike!' - Cabral hits brilliant goal to draw Cape Verde level in extra time](https://www.bbc.co.uk/sport/football/videos/c9q23jpee23o?at_medium=RSS&at_campaign=rss) - BBC Football
-- [Jhon Arias goal sends Colombia into last 16 as Ghana bow out of World Cup](https://www.theguardian.com/football/2026/jul/04/colombia-ghana-world-cup-2026-last-32-match-report) - The Guardian Football
-- [Ange Postecoglou to manage Cristiano Ronaldo after landing Al-Nassr job](https://www.theguardian.com/football/2026/jul/03/ange-postecoglou-head-coach-al-nassr-cristiano-ronaldo) - The Guardian Football
-- [Fulham make move for Crysencio Summerville while Granit Xhaka stays at Sunderland](https://www.theguardian.com/football/2026/jul/03/fulham-move-for-west-ham-crysencio-summerville) - The Guardian Football
-- [Aston Villa sign Norway midfielder Kielland](https://www.bbc.co.uk/sport/football/articles/cp8r4dp1l6wo?at_medium=RSS&at_campaign=rss) - BBC Football
 
 ### NBA News & Trades
 
-- [Windhorst’s Latest: Brown Trade, Centers, Salary Cap](https://www.hoopsrumors.com/2026/07/windhorsts-latest-brown-trade-centers-salary-cap.html) - Hoops Rumors
-- [NBA execs on Brown trade, big-money bigs and an un...](https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap) - ESPN NBA
+- [Grades for the Deandre Ayton trade (and more): Whi...](https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams) - ESPN NBA
 - [NBA free agency is here! Live updates on deals, tr...](https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason) - ESPN NBA
+- [NBA execs on Brown trade, big-money bigs and an un...](https://www.espn.com/nba/story/_/id/49254909/what-nba-execs-buzzing-jaylen-brown-celtics-sixers-walker-kessler-los-angeles-lakers-big-money-bigs-salary-cap) - ESPN NBA
+- [2026 NBA Draft Pick Signings](https://www.hoopsrumors.com/2026/07/2026-nba-draft-pick-signings.html) - Hoops Rumors
+- [Heat Notes: Fontecchio, Donaldson, Conwell, Hardaway](https://www.hoopsrumors.com/2026/07/heat-notes-fontecchio-donaldson-conwell-hardaway.html) - Hoops Rumors
 - [🏀 Winners, losers and dominoes from free agency](https://www.espn.com/nba/story/_/id/49241663/nba-free-agency-2026-winners-losers-teams-trades-signings-contracts-better-worse) - ESPN NBA
-- [Spurs Sign All Four 2026 Draft Picks](https://www.hoopsrumors.com/2026/07/spurs-sign-all-four-2026-draft-picks.html) - Hoops Rumors
-- [Caleb Wilson, Dailyn Swain, Keaton Wagler Sign Rookie Deals](https://www.hoopsrumors.com/2026/07/caleb-wilson-dailyn-swain-keaton-wagler-sign-rookie-deals.html) - Hoops Rumors
-- [Chris Manon Re-Signs With Lakers On Two-Way Contract](https://www.hoopsrumors.com/2026/07/chris-manon-re-signs-with-lakers-on-two-way-contract.html) - Hoops Rumors
-- [Labaron Philon Jr. Signs Rookie Scale Deal With Sixers](https://www.hoopsrumors.com/2026/07/labaron-philon-jr-signs-rookie-scale-deal-with-sixers.html) - Hoops Rumors
+- [Cavaliers May Be Emerging As Favorites To Sign LeBron James](https://www.hoopsrumors.com/2026/07/cavaliers-may-be-emerging-as-favorites-to-sign-lebron-james.html) - Hoops Rumors
+- [Jaylen Brown loses volume in Philly, but remains a...](https://www.espn.com/fantasy/basketball/story/_/id/49242507/fantasy-basketball-top-players-trade-jaylen-brown-paul-george) - ESPN NBA
 
 ### New Zealand Sports
 
-- [What you need to know about NRLW](https://www.rnz.co.nz/news/sport/667565/what-you-need-to-know-about-nrlw) - RNZ Sport
-- [Argentina beat Cape Verde in World Cup extra-time thriller](https://www.rnz.co.nz/news/sport/665839/argentina-beat-cape-verde-in-world-cup-extra-time-thriller) - RNZ Sport
-- [Full House: Warriors NRL season officially sold out](https://www.rnz.co.nz/news/sport/664831/full-house-warriors-nrl-season-officially-sold-out) - RNZ Sport
-- [Tall Blacks pip Philippines in double overtime thriller](https://www.rnz.co.nz/news/sport/664054/tall-blacks-pip-philippines-in-double-overtime-thriller) - RNZ Sport
-- [All Blacks captain Ardie Savea embraces role under new coach Dave Rennie](https://www.rnz.co.nz/news/sport/661841/all-blacks-captain-ardie-savea-embraces-role-under-new-coach-dave-rennie) - RNZ Sport
-- [Christchurch fans hoping maiden All Blacks test at Te Kaha is first of many](https://www.rnz.co.nz/news/sport/661246/christchurch-fans-hoping-maiden-all-blacks-test-at-te-kaha-is-first-of-many) - RNZ Sport
-- [Pro-wrestler Aaron Henare returns to the ring in Aotearoa](https://www.rnz.co.nz/news/sport/661421/pro-wrestler-aaron-henare-returns-to-the-ring-in-aotearoa) - RNZ Sport
-- [NRLW: New arrivals lighten leadership load on NZ Warriors skipper Apii Nicholls](https://www.rnz.co.nz/news/sport/661255/nrlw-new-arrivals-lighten-leadership-load-on-nz-warriors-skipper-apii-nicholls) - RNZ Sport
+- [Clinical Morocco ease past Canada 3-0 to reach World Cup quarter-finals](https://www.rnz.co.nz/news/sport/674418/clinical-morocco-ease-past-canada-3-0-to-reach-world-cup-quarter-finals) - RNZ Sport
+- [NZ Warriors open NRLW season with dominant win over Canterbury Bulldogs](https://www.rnz.co.nz/news/sport/673953/nz-warriors-open-nrlw-season-with-dominant-win-over-canterbury-bulldogs) - RNZ Sport
+- [All Blacks look to get ruthless](https://www.rnz.co.nz/news/sport/674296/all-blacks-look-to-get-ruthless) - RNZ Sport
+- [How world media reacted to All Blacks win over France](https://www.rnz.co.nz/news/sport/673756/how-world-media-reacted-to-all-blacks-win-over-france) - RNZ Sport
+- [Fehi Fineanganofo fights tears, nerves on All Blacks debut](https://www.rnz.co.nz/news/sport/671718/fehi-fineanganofo-fights-tears-nerves-on-all-blacks-debut) - RNZ Sport
+- [Rennie happy with All Blacks' mindset but says execution must be better](https://www.rnz.co.nz/news/sport/671533/rennie-happy-with-all-blacks-mindset-but-says-execution-must-be-better) - RNZ Sport
+- [Rollercoaster NRLW career brings NZ Warriors original Netta Nuuausala back to Mt Smart](https://www.rnz.co.nz/news/sport/669958/rollercoaster-nrlw-career-brings-nz-warriors-original-netta-nuuausala-back-to-mt-smart) - RNZ Sport
+- [All Blacks hold off fast-finishing French for victory under Dave Rennie](https://www.rnz.co.nz/news/sport/667908/all-blacks-hold-off-fast-finishing-french-for-victory-under-dave-rennie) - RNZ Sport

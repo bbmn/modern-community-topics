@@ -242,6 +242,10 @@ h1 {
   grid-template-columns: minmax(0, 1fr) auto;
 }
 
+.section-heading {
+  margin-bottom: 18px;
+}
+
 .score-main-button {
   background: transparent !important;
   border: 0 !important;
@@ -277,6 +281,10 @@ h1 {
 
 .is-collapsed .collapsible-body {
   display: none;
+}
+
+.is-collapsed .section-heading {
+  margin-bottom: 0;
 }
 
 .is-collapsed .score-card-shell {

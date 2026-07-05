@@ -462,33 +462,18 @@
   "highlights": {
     "policyWatch": [
       {
-        "id": "policy-https-www-bbc-co-uk-news-articles-cn75ex1dv61o-2",
-        "title": "Gaza patients face agonising delays for medical evacuation",
-        "status": "BBC World",
-        "description": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
-        "url": "https://www.bbc.co.uk/news/articles/cn75ex1dv61o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "sectionName": "World",
-        "category": "War & Security, Public Safety",
-        "importanceReasons": [
-          "Relevant to war & security, public safety; surfaced from World coverage."
-        ],
-        "priority": 15.913,
-        "outcome": "policy_watch"
-      },
-      {
-        "id": "policy-https-vancouver-citynews-ca-p-4455578",
-        "title": "Out-of-control wildfire near Boston Bar has evacuation notice",
-        "status": "CityNews Vancouver",
-        "description": "An out-of-control wildfire is burning near Boston Bar, along Chaumox Road, near Brunswick Creek. The fire is currently 14 hectares in size. An evacuation alert has been issued for the Brunswick Creek area, issued by the Fraser Valley Regional District. BC Wildfire Service says that the fire is human caused.",
-        "url": "https://vancouver.citynews.ca/2026/07/03/out-of-control-wildfire-near-boston-bar-has-evacuation-notice/",
-        "source": "CityNews Vancouver",
+        "id": "policy-9-7259019",
+        "title": "Out-of-control wildfire burning near Boston Bar, B.C. prompts evacuation for about 60 residences",
+        "status": "CBC British Columbia",
+        "description": "A tactical evacuation is underway in North Bend, B.C., where residents are being told to leave immediately because of the nearby Brunswick Creek wildfire that\u2019s burning near Boston Bar in the province\u2019s Fraser Canyon region.",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/wildfire-near-boston-bar-tactical-evacuation-9.7259019?cmp=rss",
+        "source": "CBC British Columbia",
         "sectionName": "Local",
         "category": "Public Safety",
         "importanceReasons": [
           "Relevant to public safety; surfaced from Local coverage."
         ],
-        "priority": 14.378,
+        "priority": 14.595,
         "outcome": "policy_watch"
       },
       {
@@ -503,82 +488,97 @@
         "importanceReasons": [
           "Relevant to climate & infrastructure; surfaced from National coverage."
         ],
-        "priority": 13.881,
+        "priority": 12.513,
         "outcome": "policy_watch"
       },
       {
-        "id": "policy-9-7257775",
-        "title": "Health Canada permits temporary import of Chinese-authorized chemo injection drug amid critical shortage",
+        "id": "policy-9-7258696",
+        "title": "No houses lost in Fort Simpson, N.W.T., wildfire",
         "status": "CBC Top Stories",
-        "description": "A chemotherapy ingredient that's in short supply in Canada can temporarily be imported and sold from a Chinese-authorized source instead, Health Canada says.",
-        "url": "https://www.cbc.ca/news/health/chemotherapy-shortage-ifosfamide-cyclophosphamide-9.7257775?cmp=rss",
+        "description": "Some outbuildings have been damaged confirm officials on Saturday morning, with a challenging day ahead as fire grows in the south and continues to burn in residential areas",
+        "url": "https://www.cbc.ca/news/canada/north/fort-simpson-nwt-wildfire-9.7258696?cmp=rss",
         "source": "CBC Top Stories",
         "sectionName": "National",
-        "category": "Public Safety, Health",
-        "importanceReasons": [
-          "Relevant to public safety, health; surfaced from National coverage."
-        ],
-        "priority": 13.058,
-        "outcome": "policy_watch"
-      },
-      {
-        "id": "policy-https-www-aljazeera-com-t-1783111844",
-        "title": "Egypt say Dallas police officer pushed player, team director at World Cup",
-        "status": "Al Jazeera",
-        "description": "A security officer pushed the fan, as well as Trezeguet and Hassan, at the team hotel in Dallas before Egypt's match.",
-        "url": "https://www.aljazeera.com/sports/2026/7/3/egypt-say-dallas-police-officer-pushed-player-team-director-at-world-cup?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sectionName": "World",
-        "category": "War & Security, Public Safety",
-        "importanceReasons": [
-          "Relevant to war & security, public safety; surfaced from World coverage."
-        ],
-        "priority": 11.559,
-        "outcome": "policy_watch"
-      },
-      {
-        "id": "policy-https-www-aljazeera-com-t-1783120592",
-        "title": "Iran war live: Millions expected in Tehran for funeral of Ali Khamenei",
-        "status": "Al Jazeera",
-        "description": "Israeli attacks on Gaza continue with a child killed and another injured in a drone strike, according to civil defence.",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/7/4/iran-war-live-millions-expected-in-tehran-for-funeral-of-ali-khamenei?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sectionName": "World",
-        "category": "War & Security",
-        "importanceReasons": [
-          "Relevant to war & security; surfaced from World coverage."
-        ],
-        "priority": 10.352,
-        "outcome": "policy_watch"
-      },
-      {
-        "id": "policy-https-www-aljazeera-com-t-1783109402",
-        "title": "Thousands forced to evacuate in Colorado as wildfire spreads",
-        "status": "Al Jazeera",
-        "description": "The Aspen Acres Fire, one of about 40 wildfires burning across western US, has destroyed homes and forced evacuations.",
-        "url": "https://www.aljazeera.com/news/2026/7/3/thousands-forced-to-evacuate-in-colorado-as-wildfire-spreads?traffic_source=rss",
-        "source": "Al Jazeera",
-        "sectionName": "World",
         "category": "Public Safety",
         "importanceReasons": [
-          "Relevant to public safety; surfaced from World coverage."
+          "Relevant to public safety; surfaced from National coverage."
         ],
-        "priority": 10.215,
+        "priority": 12.05,
         "outcome": "policy_watch"
       },
       {
-        "id": "policy-https-www-bbc-co-uk-news-articles-cx2k4k7jqeno-0",
-        "title": "Iran begins public mourning for Ayatollah killed in February",
+        "id": "policy-https-www-bbc-co-uk-news-articles-c8j2vmzxezro-0",
+        "title": "Ukraine hits major oil terminal in Russia's St Petersburg",
         "status": "BBC World",
-        "description": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
-        "url": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+        "description": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+        "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
+        "sectionName": "World",
+        "category": "War & Security, Climate & Infrastructure",
+        "importanceReasons": [
+          "Relevant to war & security, climate & infrastructure; surfaced from World coverage."
+        ],
+        "priority": 11.371,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-9-7258503",
+        "title": "St. Petersburg oil terminal hit as Ukraine presses long-range drone campaign",
+        "status": "CBC Top Stories",
+        "description": "A Ukrainian drone attack struck an oil terminal in St. Petersburg on Saturday, Russian officials said, as Kyiv pressed on with the bombardment of Russia\u2019s oil infrastructure.",
+        "url": "https://www.cbc.ca/news/world/st-petersburg-oil-terminal-ukraine-drone-attack-9.7258503?cmp=rss",
+        "source": "CBC Top Stories",
+        "sectionName": "National",
+        "category": "War & Security, Climate & Infrastructure",
+        "importanceReasons": [
+          "Relevant to war & security, climate & infrastructure; surfaced from National coverage."
+        ],
+        "priority": 11.025,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-9-7258985",
+        "title": "Trump vows to still deliver Fourth of July speech after weather prompts D.C. event evacuation",
+        "status": "CBC Top Stories",
+        "description": "Open the source for details.",
+        "url": "https://www.cbc.ca/news/world/national-mall-evacuations-storm-trump-fourth-of-july-speech-9.7258943?cmp=rss",
+        "source": "CBC Top Stories",
+        "sectionName": "National",
+        "category": "Public Safety",
+        "importanceReasons": [
+          "Relevant to public safety; surfaced from National coverage."
+        ],
+        "priority": 10.709,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-https-www-aljazeera-com-t-1783206786",
+        "title": "Iran war live: Millions mourn Khamenei, Trump hints at Netanyahu meeting",
+        "status": "Al Jazeera",
+        "description": "Iran's late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
+        "source": "Al Jazeera",
         "sectionName": "World",
         "category": "War & Security",
         "importanceReasons": [
           "Relevant to war & security; surfaced from World coverage."
         ],
-        "priority": 10.135,
+        "priority": 10.316,
+        "outcome": "policy_watch"
+      },
+      {
+        "id": "policy-9-7257607",
+        "title": "How a First Nation in B.C. is hoping to restore wildfire-ravaged forests with seedlings",
+        "status": "CBC British Columbia",
+        "description": "The Osoyoos Forest Nursery located near Oliver, B.C, is owned by the Osoyoos Indian Band. The operation is the band's first green project and it is expected to produce millions of tree seedlings every year. Those seedlings will go towards restoring and reforesting areas hard hit by wildfires.",
+        "url": "https://www.cbc.ca/news/canada/british-columbia/osoyoos-forest-nursery-seelings-wildfire-forests-9.7257607?cmp=rss",
+        "source": "CBC British Columbia",
+        "sectionName": "Local",
+        "category": "Public Safety",
+        "importanceReasons": [
+          "Relevant to public safety; surfaced from Local coverage."
+        ],
+        "priority": 10.3,
         "outcome": "policy_watch"
       }
     ],
