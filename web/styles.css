@@ -458,4 +458,12 @@ h1 {
   .sports {
     grid-template-columns: 1fr;
   }
+
+  .new-zealand {
+    grid-template-columns: 1fr;
+  }
+
+  .section-heading {
+    margin-bottom: 26px;
+  }
 }
