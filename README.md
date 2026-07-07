@@ -188,10 +188,10 @@ Modern Community Topics.app
 Double-click it to start the local web server if needed and open:
 
 ```text
-http://localhost:8080/web/
+https://bbmn.github.io/modern-community-topics/web/
 ```
 
-To keep it in the Dock, drag `Modern Community Topics.app` onto the Dock. The app is only a launcher, so it opens the briefing and then exits; the local server keeps running in the background.
+To keep it in the Dock, drag `Modern Community Topics.app` onto the Dock. The app is only a launcher, so it opens the published briefing and then exits. For local development, use the localhost server commands above.
 
 Server logs are written to:
 
