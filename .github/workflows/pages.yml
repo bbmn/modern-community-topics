@@ -7,7 +7,8 @@ on:
       - main
   schedule:
     # GitHub cron uses UTC. These land around 8 AM and 5 PM Vancouver during daylight time.
-    - cron: "0 0,15 * * *"
+    # Keeping this off minute 0 also avoids GitHub's busiest scheduler slot.
+    - cron: "17 0,15 * * *"
 
 permissions:
   contents: read
